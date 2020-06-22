@@ -13,7 +13,7 @@ const Layout = ({ location, title, children }) => {
         style={{
           ...scale(1.5),
           marginBottom: rhythm(1.5),
-          marginTop: 0,
+          marginTop: 1,
         }}
       >
         <Link
@@ -61,7 +61,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, 👨‍💻 with 💕 by Developers @
         {` `}
-        <a href="https://www.gatsbyjs.org">ISTE's Student Chapter</a>
+        <a href="https://www.istesrmncr.com">ISTE's Student Chapter</a>
       </footer>
     </div>
   )

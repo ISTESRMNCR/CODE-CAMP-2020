@@ -14,9 +14,9 @@ import { rhythm } from "../utils/typography"
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/Iste.png/" }) {
+      avatar: file(absolutePath: { regex: "/Iste.jpg/" }) {
         childImageSharp {
-          fixed(width: 80, height: 80) {
+          fixed(width: 500, height: 100) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -39,38 +39,19 @@ const Bio = () => {
   return (
     <div
       style={{
-        display: `flex`,
-        marginBottom: rhythm(2.5),
-       marginTop: 0
-      }}
+        alignItems:'center',
+        flexDirection: `row`}}
     >
-   <h3>Code Camp is a Virtual Hackathon</h3>
+    <h2 style={{ marginRight: 30 }}>About 👋</h2>
+    <p style={{ marginLeft: 30 }}><strong>Code Camp</strong> is a Virtual Hackathon present by Our Team <strong>Indian Society for Technical Education
+      <em>, SRM</em>
+    </strong></p>
+    <p style={{ marginLeft: 30 }} >Code Camp is <strong>11 Days</strong> Open Source Virtual Hackathon, will be held on GitHub.The Event is 11 days Long and will help the programmers all over the world to thing upon the real-world problem,
+    and giving an Application Solution for the Particular Theme or problem statements.
+    </p>
+      <p style={{ marginLeft: 30 }} >We choose GitHub as the Platform as GitHub is well known for forming a Great Environment to bring Developers and Engineers together and contribute to the project. So it can also serve the very purpose.</p>
     </div>
   )
 }
 
 export default Bio
-
-
-
-//
-// <Image
-//   fixed={data.avatar.childImageSharp.fixed}
-//   alt={author.name}
-//   style={{
-//     marginRight: rhythm(1 / 2),
-//     marginBottom: 0,
-//     minWidth: 50,
-//     borderRadius: `100%`,
-//   }}
-//   imgStyle={{
-//     borderRadius: `50%`,
-//   }}
-// />
-// <p>
-//   Presented By <strong>{author.name}</strong> {author.summary}
-//    {` `}
-//   <a href={`https://twitter.com/${social.twitter}`}>
-//         hello
-//   </a>
-// </p>

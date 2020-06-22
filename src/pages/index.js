@@ -19,9 +19,17 @@ const BlogIndex = ({ data, location }) => {
             `javascript`,
             `covid-19`,
           ]}/>
+          <main style={{ marginBottom:30, }}>
+       <Bio />
+          </main>
     </Layout>
   )
 }
+
+// const headingText = StyleSheets.Create({
+//
+// })
+
 
 export default BlogIndex
 
