@@ -1,11 +1,11 @@
 {
   "name": "gatsby-starter-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A Virtual Hackathon Camp",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/ISTESRMNCR/CODE-CAMP-2020/issues"
   },
   "dependencies": {
     "gatsby": "^2.23.3",
@@ -38,15 +38,16 @@
   "devDependencies": {
     "prettier": "2.0.5"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/ISTESRMNCR/CODE-CAMP-2020#readme",
   "keywords": [
-    "gatsby"
+    "hackathons",
+    "sponsors"
   ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/ISTESRMNCR/CODE-CAMP-2020.git"
   },
   "scripts": {
     "build": "gatsby build",

@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Code camp 1.0`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Indian Society For Technical Education`,
+      summary: ``,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://codecamphackathon.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `ISTESRMOFFICIAL`,
     },
   },
   plugins: [
@@ -17,6 +17,27 @@ module.exports = {
       options: {
         path: `${__dirname}/content/blog`,
         name: `blog`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/faq`,
+        name: `faq`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/teams`,
+        name: `teams`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/judges`,
+        name: `judge`,
       },
     },
     {
@@ -39,7 +60,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
+              wrapperStyle: `margin-bottom: 1rem`,
             },
           },
           `gatsby-remark-prismjs`,
@@ -63,7 +84,7 @@ module.exports = {
         name: `Gatsby Starter Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#000000`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,

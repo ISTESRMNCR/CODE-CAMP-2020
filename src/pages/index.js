@@ -12,34 +12,13 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="All posts" />
-      <Bio />
-      {posts.map(({ node }) => {
-        const title = node.frontmatter.title || node.fields.slug
-        return (
-          <article key={node.fields.slug}>
-            <header>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-            </header>
-            <section>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
-              />
-            </section>
-          </article>
-        )
-      })}
+      <SEO title="All posts" keywords={[
+            `challenges`,
+            `hackathons`,
+            `full-stack`,
+            `javascript`,
+            `covid-19`,
+          ]}/>
     </Layout>
   )
 }
@@ -60,13 +39,40 @@ export const pageQuery = graphql`
           fields {
             slug
           }
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            title
-            description
-          }
+
         }
       }
     }
   }
 `
+// {posts.map(({ node }) => {
+//   const title = node.frontmatter.title || node.fields.slug
+//   return (
+//     <article key={node.fields.slug}>
+//       <header>
+//         <h3
+//           style={{
+//             marginBottom: rhythm(1 / 4),
+//           }}
+//         >
+//           <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+//             {title}
+//           </Link>
+//         </h3>
+//         <small>{node.frontmatter.date}</small>
+//       </header>
+//       <section>
+//         <p
+//           dangerouslySetInnerHTML={{
+//             __html: node.frontmatter.description || node.excerpt,
+//           }}
+//         />
+//       </section>
+//     </article>
+//   )
+// })}
+//   frontmatter {
+  //   date(formatString: "MMMM DD, YYYY")
+  //   title
+  //   description
+  // }
