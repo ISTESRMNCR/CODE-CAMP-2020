@@ -3,7 +3,7 @@ import { useStaticQuery, graphql, Link } from "gatsby"
 import Image from "gatsby-image"
 import index from '../pages/index'
 
-import Button from "../components/Button"
+import Button from "../components/button"
 
 const ComponentBox = ({headline, info, subInfo, buttonLink}) => {
   const data = useStaticQuery(graphql`
