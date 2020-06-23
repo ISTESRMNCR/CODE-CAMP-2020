@@ -1,5 +1,5 @@
 ---
-title: What is ISTE ?
+title: What is ISTE'S Student Chapter ?
 type: "faq"
 priority: "2"
 tags: ["faqs", "code Camp 1.0"]

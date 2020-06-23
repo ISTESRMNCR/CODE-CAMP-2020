@@ -40,16 +40,15 @@ const Bio = () => {
     <div
       style={{
         alignItems:'center',
-        flexDirection: `row`}}
+        flexDirection: `row`,
+       }}
     >
-    <h2 style={{ marginRight: 30 }}>About 👋</h2>
-    <p style={{ marginLeft: 30 }}><strong>Code Camp</strong> is a Virtual Hackathon present by Our Team <strong>Indian Society for Technical Education
-      <em>, SRM</em>
-    </strong></p>
-    <p style={{ marginLeft: 30 }} >Code Camp is <strong>11 Days</strong> Open Source Virtual Hackathon, will be held on GitHub.The Event is 11 days Long and will help the programmers all over the world to thing upon the real-world problem,
-    and giving an Application Solution for the Particular Theme or problem statements.
-    </p>
-      <p style={{ marginLeft: 30 }} >We choose GitHub as the Platform as GitHub is well known for forming a Great Environment to bring Developers and Engineers together and contribute to the project. So it can also serve the very purpose.</p>
+    {/* <h2 style={{ marginRight: 30 }}>About 👋</h2> */}
+    <h2 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0,  }}>Code 👨‍💻</h2> 
+    <h2 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0,  }}>Debug 🐞</h2> 
+    <h2 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0,  }}>Learn 📚</h2> 
+    <h2 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0,  }}>Contribute 🤝</h2> 
+    <h2 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0, }}>Win 🏆</h2> 
     </div>
   )
 }

@@ -1,12 +1,12 @@
 ---
-title: VimiGos
+title: DemoTeam
 type: "team"
-name: "VimiGos"
+name: "DemoTeam"
 github-link: "https://github.com/ISTESRMNCR"
 description: "hello I am Bot Developer"
 ---
 
-Hi! 👋 I am Utkarsh Yadav I am A bot Full stack developer
+Hi! 👋 I am DemoTeam I am A bot Full stack developer
 
 ### introduction
 

@@ -14,12 +14,17 @@ const Layout = ({ location, title, children }) => {
           ...scale(1.5),
           marginBottom: rhythm(1.5),
           marginTop: 1,
+          textAlign:"center",
+         color:"white"
+         
         }}
       >
         <Link
           style={{
             boxShadow: `none`,
             color: `inherit`,
+            textAlign:"center",
+             color:"white"
           }}
           to={`/`}
         >
@@ -39,6 +44,8 @@ const Layout = ({ location, title, children }) => {
           style={{
             boxShadow: `none`,
             color: `inherit`,
+            textAlign:"center",
+             color:"white"
           }}
           to={`/`}
         >
@@ -56,7 +63,7 @@ const Layout = ({ location, title, children }) => {
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
     >
-      <header>{header}</header>
+      <header style={{ backgroundColor:"black", borderRadius:20, textAlign:"center", padding:10, paddingTop:20 }}>{header}</header>
       <main>{children}</main>
       <footer>
         © {new Date().getFullYear()}, 👨‍💻 with 💕 by Developers @

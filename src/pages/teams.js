@@ -18,7 +18,7 @@ class PostsIndex extends React.Component {
     return (
       <Layout
         location={this.props.location}
-        title={"REGISTERED TEAMS"}
+        title={"REGISTERED TEAMS 🤝"}
         siteTitle={siteTitle}
         numberOfParticipants={faqs.length}
       >

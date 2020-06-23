@@ -13,7 +13,7 @@ class PostsIndex extends React.Component {
     return (
       <Layout
         location={this.props.location}
-        title={"FREQUENTLY ASKED QUESTIONS ❓ "}
+        title={"CODE CAMP Sponsors 👀"}
         siteTitle={siteTitle}
       >
         <SEO
@@ -71,7 +71,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___priority], order: ASC }
-      filter: { frontmatter: { type: { eq: "faq" } } }
+      filter: { frontmatter: { type: { eq: "sponsors" } } }
     ) {
       edges {
         node {
