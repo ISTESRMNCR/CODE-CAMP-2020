@@ -5,7 +5,8 @@ function createIndividualPages(actions, graphql) {
   const { createPage } = actions
 
   return Promise.all([
-    graphqlForSecondaryPages(graphql, createPage, "main"),
+    graphqlForSecondaryPages(graphql, createPage, "blog"),
+    graphqlForSecondaryPages(graphql, createPage, "theme"),
     graphqlForSecondaryPages(graphql, createPage, "faq"),
     graphqlForSecondaryPages(graphql, createPage, "team"),
     graphqlForSecondaryPages(graphql, createPage, "judge"),

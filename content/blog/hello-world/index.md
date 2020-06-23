@@ -2,6 +2,7 @@
 title: Hello World
 date: "2015-05-01"
 description: "Hello World"
+type: "blog"
 ---
 
 This is my first post on my new fake blog! How exciting!
