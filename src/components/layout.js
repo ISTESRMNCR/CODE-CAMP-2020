@@ -55,20 +55,20 @@ const Layout = ({ location, title, children }) => {
     )
   }
   return (
-    <div
+    <div>
+      <header style={{ backgroundColor:"#9818d6", textAlign:"center", padding:20, paddingBottom:1, margin:0,  boxShadow: "1px 3px 7px grey" }}>{header}</header>
+      <main
       style={{
         marginLeft: `auto`,
         marginRight: `auto`,
         maxWidth: rhythm(24),
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
-    >
-      <header style={{ backgroundColor:"black", borderRadius:20, textAlign:"center", padding:10, paddingTop:20 }}>{header}</header>
-      <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, 👨‍💻 with 💕 by Developers @
+      >{children}</main>
+      <footer style={{ textAlign:"center", paddingTop: 20, paddingBottom:20, marginBottom:0, bottom:0 }}>
+        © {new Date().getFullYear()}, 👨‍💻 with 💝 by Developers @
         {` `}
-        <a href="https://www.istesrmncr.com">ISTE's Student Chapter</a>
+        <a href="https://www.istesrmncr.com">ISTE Student's Chapter SRM NCR</a>
       </footer>
     </div>
   )

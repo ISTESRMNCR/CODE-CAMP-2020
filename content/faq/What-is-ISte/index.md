@@ -1,5 +1,5 @@
 ---
-title: What is ISTE'S Student Chapter ?
+title: What is ISTE'S Student Chapter SRM NCR ?
 type: "faq"
 priority: "2"
 tags: ["faqs", "code Camp 1.0"]

@@ -1,5 +1,5 @@
 ---
-title: who can participate in this challenge ?
+title: Who can participate in this challenge ?
 type: "faq"
 priority: "3"
 tags: ["participation", "registration"]

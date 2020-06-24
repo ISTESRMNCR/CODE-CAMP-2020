@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Code camp 1.0`,
+    title: `CODE CAMP 1.0`,
     author: {
-      name: `Indian Society For Technical Education`,
-      summary: ``,
+      name: `Indian Society For Technical Education SRM NCR`,
+      summary: `A virtual Hackathon Camp for Programmers.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: ``,
     siteUrl: `https://codecamphackathon.netlify.app/`,
     social: {
       twitter: `ISTESRMOFFICIAL`,

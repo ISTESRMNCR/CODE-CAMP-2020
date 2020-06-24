@@ -44,11 +44,11 @@ const Bio = () => {
        }}
     >
     {/* <h2 style={{ marginRight: 30 }}>About 👋</h2> */}
-    <h2 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0,  }}>Code 👨‍💻</h2> 
-    <h2 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0,  }}>Debug 🐞</h2> 
-    <h2 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0,  }}>Learn 📚</h2> 
-    <h2 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0,  }}>Contribute 🤝</h2> 
-    <h2 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0, }}>Win 🏆</h2> 
+    <h1 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0,  boxShadow: "1px 3px 7px grey" }}>Code 👨‍💻</h1> 
+    <h1 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0, boxShadow: "1px 3px 7px grey"  }}>Debug 🐞</h1> 
+    <h1 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0,  boxShadow: "1px 3px 7px grey" }}>Learn 📚</h1> 
+    <h1 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0, boxShadow: "1px 3px 7px grey"  }}>Contribute 🤝</h1> 
+    <h1 style={{backgroundColor:"#ffcb74", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0,  boxShadow: "1px 3px 7px grey"}}>Win 🏆</h1> 
     </div>
   )
 }

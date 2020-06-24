@@ -5,9 +5,10 @@ priority: "10"
 tags: ["participation", "registration"]
 ---
 
-![teammates](https://i.pinimg.com/originals/b8/b8/94/b8b894c68a4784eabf5ce6c38385c9fb.gif)
+![](https://i.pinimg.com/originals/b8/b8/94/b8b894c68a4784eabf5ce6c38385c9fb.gif)
 
 # Min 2 <----> Max 6  😍😃
 
+> The Number of participants in the teams can be minimum of **Two** Participants or maximum of **Six** Participants. 
 
 ### For Any Issues visit [Issues Here](https://github.com/ISTESRMNCR/CODE-CAMP-2020/issues)
