@@ -21,7 +21,7 @@ const BlogIndex = ({ data, location }) => {
             `javascript`,
             `covid-19`,
           ]}/>
-          <main style={{ margin:0 }}>
+          <main>
         <div style={{ padding: 60, paddingTop:0, marginTop:0,}}> 
          <Bio />
          </div>
@@ -34,7 +34,7 @@ const BlogIndex = ({ data, location }) => {
          
           <ComponentBox 
             headline = "About Us 👋"
-            info="Technology has the power to change the way to see the world. Indian Society For Technical Education, Student's Chapter, SRM NCR. the government recognized society of SRM Institute of Science and Technology, Delhi NCR Campus, brings to you a Virtual Open Source Hackathon, Code Camp 1.0 . It is a place to turn your crazy ideas into reality, ideas that would help the society and bring a positive change in it. 
+            info="Technology has the power to change the way to see the world. Indian Society For Technical Education, Student's Chapter, SRM NCR, the government recognized society of SRM Institute of Science and Technology, Delhi NCR Campus, brings to you a Virtual Open Source Hackathon, Code Camp 1.0 . It is a place to turn your crazy ideas into reality, ideas that would help the society and bring a positive change in it. 
               The Hackathon will be organized on GitHub, which is a perfect place for developers to share Ideas and Projects. One can easily get registered as a team and participate in the Hackathon. We have a variety of Themes for you to select and Develop a project on it.
                 "
                 subInfo="Our Official Website"
@@ -47,7 +47,7 @@ const BlogIndex = ({ data, location }) => {
            buttonLink="/blog" 
            />
           <ComponentBox  
-          info="Something Seems terrible 🤔 Are you stuck❓ We have Answered your Common Queries, as Questions Open a space in your Mind that allows better answers to Breathe."
+          info="If you stuck in anywhere feel free to visit our FAQs Section. Here, some of your common queries are answered. For any further Query feel free to raise an issue in our GitHub Repository. You will find the link to the Issues section in here."
           headline="FAQs  ❓ " 
           subInfo="Frequently Asked Questions"
           buttonLink="/faqs" 
@@ -60,13 +60,13 @@ const BlogIndex = ({ data, location }) => {
            />
           <ComponentBox 
           info="Teams are what makes these Hackathons fun and Meaningful. Hackathons give us an opportunity to work in teams, Collaborate with each other and Contribute to the Society. You can see the details of all the enthusiastic Teams participating in the Hackathon, Here."
-           headline="Teams Registered 👩‍💻👨‍💻  " 
+           headline="Teams Registered 👩🏻‍🤝‍👩🏻" 
            subInfo="Teams"
            buttonLink="/teams" 
            />
           <ComponentBox 
           info="No event can be Successful without Sponsors. Their assistance is of great importance. You can see here the Companies who lend us a helping hand in setting up the Code Camp 1.0"
-           headline="Our Sponsors 🤎" 
+           headline="Our Sponsors " 
            subInfo="Sponsors"
            buttonLink="/sponsors" 
            />

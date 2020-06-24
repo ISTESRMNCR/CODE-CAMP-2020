@@ -2,8 +2,10 @@ import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import Image from "gatsby-image"
 import index from '../pages/index'
+import { makeStyles } from '@material-ui/core/styles'
+import Button from '@material-ui/core/Button'
 
-import Button from "../components/button"
+// import Button from "../components/button"
 
 const ComponentBox = ({headline, info, subInfo, buttonLink}) => {
   const data = useStaticQuery(graphql`
@@ -38,17 +40,20 @@ const ComponentBox = ({headline, info, subInfo, buttonLink}) => {
        }}
     >
     <h1 style={{ marginRight: 30 }}>{headline}</h1>
-    <p style={{backgroundColor:"#f4f6ff", color:"grey" ,padding:10, borderRadius:20, textAlign:"justify",  }}>
+    <p style={{backgroundColor:"#ffffff", color:"grey" ,padding:10, borderRadius:20, textAlign:"justify",  }}>
       {info}  
      </p>
       
     <p style={{backgroundColor:"#ffffff", color:"grey" ,padding:10, borderRadius:20,}}>
-    <a href={buttonLink}>
+    {/* <a href={buttonLink}>
       <Button  
         headings={subInfo}
        
       />
-      </a>
+      </a> */}
+            <Button variant="contained" color="secondary" href={buttonLink} >
+        {subInfo}
+      </Button>
      </p>
 
     </div>

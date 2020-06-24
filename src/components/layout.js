@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-
+import Head from "../components/Head"
 import { rhythm, scale } from "../utils/typography"
 
 const Layout = ({ location, title, children }) => {
@@ -11,9 +11,9 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h1
         style={{
-          ...scale(1.5),
+          ...scale(1),
           marginBottom: rhythm(1.5),
-          marginTop: 1,
+          marginTop: 0,
           textAlign:"center",
          color:"white"
          
@@ -56,7 +56,7 @@ const Layout = ({ location, title, children }) => {
   }
   return (
     <div>
-      <header style={{ backgroundColor:"#9818d6", textAlign:"center", padding:20, paddingBottom:1, margin:0,  boxShadow: "1px 3px 7px grey" }}>{header}</header>
+      <header style={{ backgroundColor:"#000", textAlign:"center",boxShadow: "1px 3px 7px grey", paddingTop: 16, marginBottom:1, paddingBottom:5}}>{header}</header>
       <main
       style={{
         marginLeft: `auto`,
@@ -66,9 +66,8 @@ const Layout = ({ location, title, children }) => {
       }}
       >{children}</main>
       <footer style={{ textAlign:"center", paddingTop: 20, paddingBottom:20, marginBottom:0, bottom:0 }}>
-        © {new Date().getFullYear()}, 👨‍💻 with 💝 by Developers @
-        {` `}
-        <a href="https://www.istesrmncr.com">ISTE Student's Chapter SRM NCR</a>
+       <p style={{ fontSize: 20, padding: 5 }}> © {new Date().getFullYear()} | 👨‍💻 with 🧡 by Developers @{` `}
+        <a style={{ fontSize: 20 }} href="https://www.istesrmncr.com">ISTE Student's Chapter SRM NCR</a></p>
       </footer>
     </div>
   )
