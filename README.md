@@ -41,45 +41,6 @@ Any Student | graduates | Open-Source teams who loves to code 👨‍💻 are we
 - College Graduates
 - Anyone who loves to code 👨‍💻.
 
-# How to Register for **`CODE CAMP 1.0`** ❓ 
-
-<!-- Replace `<Your-Team-Name>` with your GitHub username in this guide. -->
-
-### 1. Create the folder _data/Team-Name/ 
-
-- Fork this repository, Star it ⭐.
-- Copy the duplicate folder inside the `_data` folder.
-- And now replace the copied folder with your Team-Name. It should look something like this `_data/<YOUR-Team-Name>/`. Ex.
-
-> **Note :** The file structure should match the following file structure example. 👇👇 
-
-```
-_data/<Team-Name-for-folder>/teamName.md
-```
-
-### 2. Add your team-mates profile picture to the folder
-
-Enter the folder you just created and add a profile picture of your choice. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
-
-
-```
-|---_data
-      |---folder(with-your-team-name)
-            |----TeamMates Profile pictures
-            |----<Team-Name>.md
-```
-
-_Be aware, these pictures will be displayed if your team is in the Top three_
-
-### 3. Add your profile information
-
-- Add your Complete Details as asked in the markdown template. i.e `your-team-Name.md` file.
-- Ensure that details filled are not fake.
-- When you completely filled your details. Re-check for Typos if any.
-
-* **Do not manipulate the template files As per your methodology.** 
-* **Do not use special characters in the template above.**
-
 ### IF you don't know how to Issue a PULL PREQUEST
 
  [Visit-Here-for-video](https://github.com/)
