@@ -31,8 +31,8 @@ const SassyButtons = ({head,link}) => {
   const { author, social } = data.site.siteMetadata
   return (
     <div>
-    <a href={link}>
-    <h2 style={{backgroundColor:"#663399", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0,  boxShadow: "1px 3px 7px grey", margin:"20%" }}>{head}</h2> 
+    <a href={link} style={{ textalign:"center" }}>
+    <h2 style={{backgroundColor:"#663399", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0, margin:"20%", boxShadow: "1px 3px 7px #000"}}>{head}</h2> 
    </a>
     </div>
   )

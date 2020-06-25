@@ -1,6 +1,5 @@
 import React from "react"
 import { Link } from "gatsby"
-import Head from "../components/Head"
 import { rhythm, scale } from "../utils/typography"
 
 const Layout = ({ location, title, children }) => {
@@ -55,8 +54,8 @@ const Layout = ({ location, title, children }) => {
     )
   }
   return (
-    <div>
-      <header style={{ backgroundColor:"#000", textAlign:"center",boxShadow: "1px 3px 7px grey", paddingTop: 16, marginBottom:1, paddingBottom:5}}>{header}</header>
+    <div style={{ backgroundColor:"#eee" }}>
+      <header style={{ backgroundColor:"#2E3440", textAlign:"center",boxShadow: "1px 3px 7px grey", paddingTop: 16, marginBottom:1, paddingBottom:5}}>{header}</header>
       <main
       style={{
         marginLeft: `auto`,

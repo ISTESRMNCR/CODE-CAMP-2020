@@ -31,7 +31,7 @@ const LayoutPost = ({ title, children }) => {
     <div>
       <header
         style={{
-          backgroundColor: background,
+          backgroundColor: "#eee",
         }}
       >
         {header}

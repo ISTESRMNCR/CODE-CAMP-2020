@@ -35,12 +35,12 @@ class PostsIndex extends React.Component {
                 paddingLeft: `${rhythm(3 / 4)}`,
                 marginLeft: `auto`,
                 marginRight: `auto`,
-                maxWidth: rhythm(24),
+                maxWidth: rhythm(30),
               }}
             >
-              <h3
+              <h3 
                 style={{
-                  marginBottom: rhythm(1 / 4),
+                  marginBottom: rhythm(2 / 4),
                 }}
               >
                 <Link to={node.fields.slug}>{title}</Link>
