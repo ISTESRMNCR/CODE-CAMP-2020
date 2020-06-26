@@ -21,18 +21,17 @@ const BlogIndex = ({ data, location }) => {
             `javascript`,
             `covid-19`,
           ]}/>
-        
-
            <main>
+           <div style={{ paddingLeft:60, paddingRight:60 , paddingTop:0, marginTop:0}}> 
+         <Bio />
+         </div>
         <div style={{ paddingTop:0, marginTop:0, alignItems:"center"}}> 
          <SassyButtons 
             head="💻 REGISTER NOW"
             link="https://github.com/ISTESRMNCR/CODE-CAMP-2020"
          />
          </div>
-         <div style={{ paddingLeft:60, paddingRight:60 , paddingTop:0, marginTop:0}}> 
-         <Bio />
-         </div>
+        
          <ComponentBox 
             headline = "👋 About Us"
             info="Technology has the power to change the way to see the world. Indian Society For Technical Education, Student's Chapter, SRM NCR, the government recognized society of SRM Institute of Science and Technology, Delhi NCR Campus, brings to you a Virtual Open Source Hackathon, Code Camp 1.0 . It is a place to turn your crazy ideas into reality, ideas that would help the society and bring a positive change in it. 

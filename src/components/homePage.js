@@ -1,11 +1,14 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link, useStaticQuery, graphql } from "gatsby"
 import { rhythm, scale } from "../utils/typography"
 import { SocialIcon } from 'react-social-icons';
 import socialIcon from "react-social-icons/dist/social-icon";
 import '../styles/styles.css'
 import Bio from '../components/bio'
 import Sponsors from '../components/sponsor'
+import CodeCamp from '../sponsorsLogo/codecamp.png'
+import Iste from '../sponsorsLogo/Iste.png'
+import Srm from '../sponsorsLogo/Srm.png'
 
 const HomePage = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -16,9 +19,8 @@ const HomePage = ({ location, title, children }) => {
       <h1 className="main-heading"
         style={{
           ...scale(1),
-          marginBottom: rhythm(0.5),
+          marginBottom: rhythm(0),
           marginTop: 0,
-          textAlign:"center",
          color:"#000",
         }}
       >
@@ -39,12 +41,18 @@ const HomePage = ({ location, title, children }) => {
   }
   return (
     <div style={{ backgroundColor:"#2E3440" }}>
-      <header style={{ backgroundColor:"#434C5E", textAlign:"right"}}>{header}</header>
-     {/* <section style={{ padding:"13%" }}>
-       <div style={{ padding: }}>
-          
-       </div>
-     </section> */}
+      <header style={{ backgroundColor:"#2E3440", display:"flex", flexDirection:"row"}}>
+        <p style={{ padding: 20}}>
+          <img src={CodeCamp} height="70" />
+        </p>
+        {/* <p style={{ padding: 20}}>
+          <img src={Iste} height="70" />
+        </p>
+        <p style={{ padding: 20}}>
+          <img src={Srm} height="86" />
+        </p> */}
+      </header>
+    
       <main
       style={{
         marginLeft: `auto`,
