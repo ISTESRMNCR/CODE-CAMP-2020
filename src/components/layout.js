@@ -65,8 +65,8 @@ const Layout = ({ location, title, children }) => {
       }}
       >{children}</main>
       <footer style={{ textAlign:"center", paddingTop: 20, paddingBottom:20, marginBottom:0, bottom:0 }}>
-       <p style={{ fontSize: 20, padding: 5 }}> © {new Date().getFullYear()} | 👨‍💻 with 🧡 by Developers @{` `}
-        <a style={{ fontSize: 20 }} href="https://www.istesrmncr.com">ISTE Student's Chapter SRM NCR</a></p>
+       <p style={{ fontSize: 20, padding: 5,}}> © {new Date().getFullYear()} | 👨‍💻 with 🧡 by Developers @{` `}
+        <a style={{ fontSize: 20, color:"#fff" }} href="https://www.istesrmncr.com">ISTE Student's Chapter SRM NCR</a></p>
       </footer>
     </div>
   )

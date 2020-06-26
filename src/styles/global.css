@@ -10,3 +10,10 @@ h3 {
   font-family: 'Montserrat', cursive;
   color: black;
 }
+
+
+a {
+  
+  outline:none;
+  text-decoration: none;
+}

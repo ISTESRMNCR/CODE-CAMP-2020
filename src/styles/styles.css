@@ -8,3 +8,27 @@
 .main-heading {
     font-family: 'Ubuntu Mono', monospace;
 }
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: space-around;
+    width: 100%;
+    margin: auto;
+    }
+    .imgage{
+        width: 370px;
+        height: 250px;
+        padding: 13px;
+        margin: auto;
+        
+    
+    }
+    a {
+        outline:none !important;
+        
+        text-decoration: none !important;
+    }
+    a::before {
+        visibility: hidden !important;
+    }
+    
