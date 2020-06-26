@@ -42,7 +42,7 @@ const Bio = () => {
         alignItems:'center',
         flexDirection: `row`,
         marginRight:20,
-        marginLeft:"20"
+        marginLeft:20
        }}
     >
     {/* <h2 style={{ marginRight: 30 }}>About 👋</h2> */}
