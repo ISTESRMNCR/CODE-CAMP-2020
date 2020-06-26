@@ -40,7 +40,11 @@ const HomePage = ({ location, title, children }) => {
   return (
     <div style={{ backgroundColor:"#2E3440" }}>
       <header style={{ backgroundColor:"#434C5E", textAlign:"right"}}>{header}</header>
-      
+     {/* <section style={{ padding:"13%" }}>
+       <div style={{ padding: }}>
+          
+       </div>
+     </section> */}
       <main
       style={{
         marginLeft: `auto`,

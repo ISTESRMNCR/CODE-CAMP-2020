@@ -67,12 +67,12 @@ const BlogIndex = ({ data, location }) => {
            subInfo="Teams"
            buttonLink="/teams" 
            />
-          <ComponentBox 
+          {/* <ComponentBox 
           info="No event can be Successful without Sponsors. Their assistance is of great importance. You can see here the Companies who lend us a helping hand in setting up the Code Camp 1.0"
            headline="🧡 Our Sponsors" 
            subInfo="Sponsors"
            buttonLink="/sponsors" 
-           />
+           /> */}
           <ComponentBox 
           info="A competition is worthless without a leaderboard as it encroaches a sense of competition among the teams. Also great results are achieved with good competitors. Leaderboard is not possible without judges.
             We have the finest judges who have great experience in the industry. You can see our panel of judges here."

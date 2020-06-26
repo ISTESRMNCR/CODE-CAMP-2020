@@ -9,9 +9,9 @@ const Sponsors = (props) => {
 return (
   <section style={{ padding:10, textAlign:"center",backgroundColor:"#fff", }}>
 
-    <div className="container" style={{ padding: 30}}>
+    <div className="container" style={{ padding: 30, paddingTop:0}}>
   <div className="imgage-container" style={{ textAlign:"center", padding: 10 }}> 
-  <p className="main-heading" style={{ textAlign:"center", fontSize:30 }} >OUR SPONSORS 🧡</p>
+  <p style={{ textAlign:"justify", fontSize:30, fontWeight:700 }} >OUR SPONSORS🧡</p>
     <a className="underLine"  href="https://balsamiq.cloud/" target="_blank">
       <img src={balsamiq} className="imgage"/>
     </a>

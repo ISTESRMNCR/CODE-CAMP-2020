@@ -46,11 +46,11 @@ const Bio = () => {
        }}
     >
     {/* <h2 style={{ marginRight: 30 }}>About 👋</h2> */}
-    <h1 className="main-heading" style={{backgroundColor:"#2E3440", color:"white" ,padding:10, borderRadius: 10, textAlign:"center", marginTop:0 }}>TO DO LIST FOR DEVS 👇</h1> 
-    <h1  style={{backgroundColor:"#3B4252", color:"white" ,padding:10, borderRadius: 10, textAlign:"center", marginTop:0 }}>Code 👨‍💻</h1> 
-    <h1  style={{backgroundColor:"#3B4252", color:"white" ,padding:10, borderRadius: 10, textAlign:"center", marginTop:0 }}>Learn 📚</h1> 
-    <h1  style={{backgroundColor:"#3B4252", color:"white" ,padding:10, borderRadius: 10, textAlign:"center",marginTop:0 }}>Contribute 🤝</h1> 
-    <h1  style={{backgroundColor:"#3B4252", color:"white" ,padding:10, borderRadius: 10, textAlign:"center",marginTop:0  }}>Win 🏆</h1> 
+    <h1 className="headings" style={{backgroundColor:"#2E3440", color:"white" ,padding:10, borderRadius: 10, textAlign:"center", marginTop:0 }}>TO DO LIST FOR DEVS 👇</h1> 
+    <h1 className="headings" style={{backgroundColor:"#3B4252", color:"white" ,padding:7, borderRadius: 10, textAlign:"center", marginTop:0 }}>Code 👨‍💻</h1> 
+    <h1 className="headings" style={{backgroundColor:"#3B4252", color:"white" ,padding:7, borderRadius: 10, textAlign:"center", marginTop:0 }}>Learn 📚</h1> 
+    <h1 className="headings" style={{backgroundColor:"#3B4252", color:"white" ,padding:7, borderRadius: 10, textAlign:"center",marginTop:0 }}>Contribute 🤝</h1> 
+    <h1 className="headings" style={{backgroundColor:"#3B4252", color:"white" ,padding:7, borderRadius: 10, textAlign:"center",marginTop:0  }}>Win 🏆</h1> 
     </div>
   )
 }

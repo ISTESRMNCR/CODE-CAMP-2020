@@ -16,12 +16,10 @@
     margin: auto;
     }
     .imgage{
-        width: 370px;
-        height: 250px;
+        width: 300px;
+        height:  200px;
         padding: 13px;
-        margin: auto;
-        
-    
+        margin: auto;    
     }
     a {
         outline:none !important;

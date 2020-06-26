@@ -32,7 +32,7 @@ const SassyButtons = ({head,link}) => {
   return (
     <div>
     <a href={link} style={{ textalign:"center" }}>
-    <h3 style={{backgroundColor:"#663399", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0,boxShadow: "1px 3px 7px #000", marginLeft: "20%", marginRight: "20%"}}>{head}</h3> 
+    <h2 style={{backgroundColor:"#663399", color:"white" ,padding:10, borderRadius:20, textAlign:"center", marginBottom:0 , paddingRight: 0, margin:"20%", boxShadow: "1px 3px 7px #000"}}>{head}</h2> 
    </a>
     </div>
   )
