@@ -7,7 +7,7 @@ function createIndividualPages(actions, graphql) {
   return Promise.all([
     graphqlForSecondaryPages(graphql, createPage, "blog"),
     graphqlForSecondaryPages(graphql, createPage, "theme"),
-    graphqlForSecondaryPages(graphql, createPage, "sponsors"),
+    graphqlForSecondaryPages(graphql, createPage, "finalist"),
     graphqlForSecondaryPages(graphql, createPage, "faq"),
     graphqlForSecondaryPages(graphql, createPage, "team"),
     graphqlForSecondaryPages(graphql, createPage, "judge"),

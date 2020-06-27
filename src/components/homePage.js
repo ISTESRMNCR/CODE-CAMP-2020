@@ -42,15 +42,14 @@ const HomePage = ({ location, title, children }) => {
   return (
     <div style={{ backgroundColor:"#2E3440" }}>
       <header style={{ backgroundColor:"#2E3440", display:"flex", flexDirection:"row"}}>
-        <p style={{ padding: 20}}>
-          <img src={CodeCamp} height="70" />
+       
+      
+        <h1 style={{ width: "100%",textAlign:"center"}}>
+        <p style={{ padding: 20, paddingTop:0}}>
+          <img src={CodeCamp}  width="200" />
         </p>
-        {/* <p style={{ padding: 20}}>
-          <img src={Iste} height="70" />
-        </p>
-        <p style={{ padding: 20}}>
-          <img src={Srm} height="86" />
-        </p> */}
+      
+        </h1>
       </header>
     
       <main
