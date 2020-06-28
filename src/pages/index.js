@@ -34,14 +34,14 @@ const BlogIndex = ({ data, location }) => {
         
          <ComponentBox 
             headline = "👋 About Us"
-            info="Code Camp is a Virtual Hackathon for programmers all over the world. The Teams would compete among themselves for providing the best solution for the list themes. The Hackathon will be conducted on GITHUB and teams participation would have to send the PULL REQUEST by making it's profile on the website. To see how to send the pull request visit 👉 "
+            info="Code Camp is a Virtual Hackathon for programmers all over the world. The Teams would compete among themselves for providing the best solution for the listed themes. The Hackathon will be conducted on GITHUB and teams participating would have to send the PULL REQUEST by making it's profile on the website. To see how to send the pull request visit 👉 "
                 subInfo="Pull Request Video"
                 buttonLink="https://github.com/ISTESRMNCR/CODE-CAMP-2020"
           />
   
 
           <ComponentBox 
-          info="Hey! 👋 Read Our Instruction Manual to better understand the Rules | See TimeLines and Important Date regarding the Hackathon Code Camp 1.0, We are sure that all facts for Code Camp will be found there with all the links.."
+          info="Hey! 👋 Read Our Instruction Manual to better understand the Rules | See TimeLines and Important Date regarding the Hackathon Code Camp 1.0, To see how to participate and kindly go through this page."
            headline="👨‍🏫 Instructions"
            subInfo="Instruction Manual"
            buttonLink="/blog" 
