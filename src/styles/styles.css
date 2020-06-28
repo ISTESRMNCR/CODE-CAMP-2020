@@ -30,3 +30,7 @@
         visibility: hidden !important;
     }
     
+.cover {
+    width: 100% !important;
+    height: auto;
+}

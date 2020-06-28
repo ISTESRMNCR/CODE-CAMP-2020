@@ -54,8 +54,8 @@ const Layout = ({ location, title, children }) => {
     )
   }
   return (
-    <div style={{ backgroundColor:"#eee" }}>
-      <header style={{ backgroundColor:"#2E3440", textAlign:"center",boxShadow: "1px 3px 7px grey", paddingTop: 16, marginBottom:1, paddingBottom:5}}>{header}</header>
+    <div style={{ backgroundColor:"#fff" }}>
+      <header style={{ backgroundColor:"#000", textAlign:"center",boxShadow:"1px 3px 7px A9A9A9", paddingTop: 16, marginBottom:1, paddingBottom:5}}>{header}</header>
       <main
       style={{
         marginLeft: `auto`,

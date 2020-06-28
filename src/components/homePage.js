@@ -9,6 +9,7 @@ import Sponsors from '../components/sponsor'
 import CodeCamp from '../sponsorsLogo/codecamp.png'
 import Iste from '../sponsorsLogo/Iste.png'
 import Srm from '../sponsorsLogo/Srm.png'
+import mountain from '../sponsorsLogo/mountain.jpg'
 
 const HomePage = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -40,18 +41,17 @@ const HomePage = ({ location, title, children }) => {
   
   }
   return (
-    <div style={{ backgroundColor:"#2E3440" }}>
-      <header style={{ backgroundColor:"#2E3440", display:"flex", flexDirection:"row"}}>
-       
-      
+    <div style={{ backgroundColor:"#000" }}>
+      <header style={{ backgroundColor:"#000", display:"flex", flexDirection:"row"}}>
         <h1 style={{ width: "100%",textAlign:"center"}}>
         <p style={{ padding: 20, paddingTop:0}}>
           <img src={CodeCamp}  width="200" />
         </p>
-      
         </h1>
       </header>
-    
+    <div>
+       <img className="cover" src={mountain} alt="To do mountain" />
+    </div>
       <main
       style={{
         marginLeft: `auto`,
@@ -62,7 +62,7 @@ const HomePage = ({ location, title, children }) => {
       >{children}</main>
         <Sponsors />
     
-      <footer style={{ textAlign:"center", paddingTop: 5, paddingBottom:20, marginBottom:0, bottom:0, backgroundColor:"#434C5E"}}>
+      <footer style={{ textAlign:"center", paddingTop: 5, paddingBottom:20, marginBottom:0, bottom:0, backgroundColor:"#fff"}}>
        <p style={{ fontSize: 20,marginTop:20}}> © {new Date().getFullYear()} | 👨‍💻 with 🧡 by Developers @{` `}
         <a style={{ fontSize: 20 }} href="https://www.istesrmncr.com">ISTE Student's Chapter SRM NCR</a></p>
       </footer>

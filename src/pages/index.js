@@ -22,9 +22,9 @@ const BlogIndex = ({ data, location }) => {
             `covid-19`,
           ]}/>
            <main>
-           <div style={{ paddingLeft:60, paddingRight:60 , paddingTop:0, marginTop:0}}> 
+           {/* <div style={{ paddingLeft:60, paddingRight:60 , paddingTop:0, marginTop:0}}> 
          <Bio />
-         </div>
+         </div> */}
         <div style={{ paddingTop:0, marginTop:0, alignItems:"center"}}> 
          <SassyButtons 
             head="💻 REGISTER NOW"
@@ -34,11 +34,9 @@ const BlogIndex = ({ data, location }) => {
         
          <ComponentBox 
             headline = "👋 About Us"
-            info="Technology has the power to change the way to see the world. Indian Society For Technical Education, Student's Chapter, SRM NCR, the government recognized society of SRM Institute of Science and Technology, Delhi NCR Campus, brings to you a Virtual Open Source Hackathon, Code Camp 1.0 . It is a place to turn your crazy ideas into reality, ideas that would help the society and bring a positive change in it. 
-              The Hackathon will be organized on GitHub, which is a perfect place for developers to share Ideas and Projects. One can easily get registered as a team and participate in the Hackathon. We have a variety of Themes for you to select and Develop a project on it.
-                "
-                subInfo="Our Official Website"
-                buttonLink="https://www.istesrmncr.com"
+            info="Code Camp is a Virtual Hackathon for programmers all over the world. The Teams would compete among themselves for providing the best solution for the list themes. The Hackathon will be conducted on GITHUB and teams participation would have to send the PULL REQUEST by making it's profile on the website. To see how to send the pull request visit 👉 "
+                subInfo="Pull Request Video"
+                buttonLink="https://github.com/ISTESRMNCR/CODE-CAMP-2020"
           />
   
 
