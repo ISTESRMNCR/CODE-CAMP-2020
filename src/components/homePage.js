@@ -44,7 +44,7 @@ const HomePage = ({ location, title, children }) => {
     <div style={{ backgroundColor:"#000" }}>
       <header style={{ backgroundColor:"#000", display:"flex", flexDirection:"row"}}>
         <h1 style={{ width: "100%",textAlign:"center"}}>
-        <p style={{ padding: 20, paddingTop:0}}>
+        <p style={{ padding: 20, paddingTop:0, paddingBottom:0}}>
           <img src={CodeCamp}  width="200" />
         </p>
         </h1>
