@@ -6,11 +6,7 @@ type: "judge"
 
 Apan is an amateur game developer making games for game jams since 2nd semester of his B.Tech course. He has participated in various game jams including Ludum Dare, one of the largest online game jams making games within the time range of 36 hours! He is also a Linux enthusiast, tinkering with various linux distributions and making them his ideal gaming OS to play wide variety of games in them.
 
-
-<p align="center">
-     <img src="https://github.com/ISTESRMNCR/CODE-CAMP-2020/tree/master/content/JudgeAssets/ApanTrikha.png" height="300" />
-</p>
-
+![hello](https://github.com/ISTESRMNCR/CODE-CAMP-2020/tree/master/content/Assets/ApanTrikha.png)
 
 ## Job Role 🏭
 
