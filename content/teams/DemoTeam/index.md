@@ -52,8 +52,6 @@ _**Specialization**_ :
 
 _**GitHub-ID**_ :  
 
-_**Leader_Name**_ : 
-
 ---
 
 ## Member 2 Details
