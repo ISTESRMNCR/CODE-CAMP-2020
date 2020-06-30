@@ -20,17 +20,9 @@ Consider that all the information that you add to this repository will be public
 
 # **Prizes** 🏆
 
-Everyone participating in this hackathon will get an e-certificate by Government aided society **I.S.T.E**. Make sure you submit your pull request on time, <`date-will-we-provided-shortly`>.
+Everyone participating in CODE CAMP 1.0 will get their Swags at home. We promise you to ship the swags untouched. Don't wait send registration Pull Request from < `15 July 2020 - 20 July 2020` >.
 
-- 🏆 **1st Prize** 🥇 : **`Cool winner's T-Shirts`**. and **`5K 💰 cash Prize`**. 
-
-- 🏆 **2nd Prize** 🥈 : **`3k 💸`**  to the runner-up with a **`certificate 📜`**
-
-- 🏆 **3rd Prize** 🥉 : **`2k 💸`** with a **`certificate 📜`**
-
-**Balsamiq will offer participants a special 90-day extended trial promo code** 
-
-- Visit Our Sponsor **Balsamiq Clouds** : https://balsamiq.cloud
+see the prizes for the hackathon [Here](https://codecamphackathon.netlify.app/Prizes/)
 
 # **Who can apply** 📝
 
@@ -41,25 +33,17 @@ Any Student | graduates | Open-Source teams who loves to code 👨‍💻 are we
 - College Graduates
 - Anyone who loves to code 👨‍💻.
 
-### IF you don't know how to Issue a PULL PREQUEST
+### HOW TO SEND THE PULL REQUEST
 
- [Visit-Here-for-video](https://github.com/)
 
-# **Wait, I have more questions to ask** ⁉
 
-  > Don't worry we members of **I.S.T.E** are here to help You.
+### Timeline 
 
-- Some of your Queries are answered here [Visit-FAQs](https://github.com/ISTESRMNCR/CODE-CAMP-2020/blob/master/Hack-Info/My-Query.md)
-
-- Feel free to Raise Issue. [Here](https://github.com/ISTESRMNCR/CODE-CAMP-2020/issues)
-
-# **Event's Complete Timeline** ⏳
-
-- Visit Complete event timeline [HERE](https://github.com/ISTESRMNCR/CODE-CAMP-2020/blob/master/Hack-Info/Time-Line.md)
+See complete timeLine for the Event [Here](https://codecamphackathon.netlify.app/TimeLine/)
 
 # The Hack Day 👨‍💻
 
-  Important Date and time to which the Team needs to be aware of :
+Important Date and time to which the Team needs to be aware of :
 
 - 📆 **15 July 2020** 
 - ⏰ **8 AM** `to` **10 PM**
