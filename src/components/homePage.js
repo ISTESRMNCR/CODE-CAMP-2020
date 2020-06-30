@@ -9,7 +9,7 @@ import Sponsors from '../components/sponsor'
 import CodeCamp from '../sponsorsLogo/codecamp.png'
 import Iste from '../sponsorsLogo/Iste.png'
 import Srm from '../sponsorsLogo/Srm.png'
-import mountain from '../sponsorsLogo/mountain.jpg'
+import mountain from '../sponsorsLogo/Mountain.png'
 
 const HomePage = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -38,11 +38,11 @@ const HomePage = ({ location, title, children }) => {
         </Link>
       </h1>
     )
-  
+
   }
   return (
-    <div style={{ backgroundColor:"#000" }}>
-      <header style={{ backgroundColor:"#000", display:"flex", flexDirection:"row"}}>
+    <div style={{ backgroundColor:"#383e56" }}>
+      <header style={{ backgroundColor:"#383e56", display:"flex", flexDirection:"row"}}>
         <h1 style={{ width: "100%",textAlign:"center"}}>
         <p style={{ padding: 20, paddingTop:0, paddingBottom:0}}>
           <img src={CodeCamp}  width="200" />
@@ -61,7 +61,7 @@ const HomePage = ({ location, title, children }) => {
       }}
       >{children}</main>
         <Sponsors />
-    
+
       <footer style={{ textAlign:"center", paddingTop: 5, paddingBottom:20, marginBottom:0, bottom:0, backgroundColor:"#fff"}}>
        <p style={{ fontSize: 20,marginTop:20}}> © {new Date().getFullYear()} | 👨‍💻 with 🧡 by Developers @{` `}
         <a style={{ fontSize: 20 }} href="https://www.istesrmncr.com">ISTE Student's Chapter SRM NCR</a></p>
