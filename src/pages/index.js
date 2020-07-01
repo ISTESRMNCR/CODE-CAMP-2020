@@ -52,12 +52,12 @@ const BlogIndex = ({ data, location }) => {
           subInfo="Frequently Asked Questions"
           buttonLink="/faqs" 
            />
-          <ComponentBox  
+          {/* <ComponentBox  
           info="Ideas are responsible for the progression and prosperity of humans – without them we would still be living in prehistoric times. No idea is too small, and all sorts of ideas have potential to change the world as we know it for the better. Visit the Themes Here."
           headline="🎉 Themes" 
           subInfo="Themes"
           buttonLink="/theme" 
-           />
+           /> */}
           <ComponentBox 
           info="Teams are what makes these Hackathons fun and Meaningful. Hackathons give us an opportunity to work in teams, Collaborate with each other and Contribute to the Society. You can see the details of all the enthusiastic Teams participating in the Hackathon, Here."
            headline="👨‍💻 Teams Registered" 
