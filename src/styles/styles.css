@@ -14,20 +14,13 @@
     align-items: space-around;
     width: 100%;
     margin: auto;
+    height: auto;
     }
     .imgage{
-        width: 300px;
-        height:  200px;
+        width: 380px;
+        height:  190px;
         padding: 13px;
         margin: auto;
-    }
-    a {
-        outline:none !important;
-
-        text-decoration: none !important;
-    }
-    a::before {
-        visibility: hidden !important;
     }
 
 .cover {

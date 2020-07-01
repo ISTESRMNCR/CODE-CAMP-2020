@@ -1,16 +1,12 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
-import Sponsors from '../components/sponsor'
-import Bio from "../components/bio"
+import { graphql } from "gatsby"
 import HomePage from "../components/homePage"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
 import ComponentBox from "../components/ComponentBox"
 import SassyButtons from '../components/SassyButtons'
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
 
   return (
     <HomePage location={location} title={siteTitle}>

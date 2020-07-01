@@ -4,11 +4,9 @@ import { rhythm, scale } from "../utils/typography"
 import { SocialIcon } from 'react-social-icons';
 import socialIcon from "react-social-icons/dist/social-icon";
 import '../styles/styles.css'
-import Bio from '../components/bio'
+
 import Sponsors from '../components/sponsor'
 import CodeCamp from '../sponsorsLogo/codecamp.png'
-import Iste from '../sponsorsLogo/Iste.png'
-import Srm from '../sponsorsLogo/Srm.png'
 import mountain from '../sponsorsLogo/Mountain.png'
 
 const HomePage = ({ location, title, children }) => {

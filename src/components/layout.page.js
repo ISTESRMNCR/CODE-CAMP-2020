@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import { rhythm, scale, background } from "../utils/typography"
+import { rhythm, scale } from "../utils/typography"
 
 const LayoutPost = ({ title, children }) => {
   const header = (

@@ -1,8 +1,9 @@
 ---
-title: CODE OF CONDUCT
+title: CODE OF CONDUCT 🧾
 date: "2020-06-20"
 description: "Harassment Policy"
 type: "blog"
+priority: "4"
 ---
 
 # Citizen Code of Conduct
@@ -80,7 +81,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-teamistesrmncr@gmail.com
+[Mail Us @ISTE](mailto:teamistesrmncr@gmail.com)
 
 ## 11. License and attribution
 
