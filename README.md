@@ -1,7 +1,4 @@
-
-<p align="center">
-      <img src="https://github.com/ISTESRMNCR/CODE-CAMP-1.0/blob/master/assets/CodeCampBanner.jpg" />
- </p>
+# How To Register? 
 
 # **CODE CAMP 1.0** 
 
