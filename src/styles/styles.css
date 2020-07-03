@@ -15,13 +15,30 @@
     width: 100%;
     margin: auto;
     height: auto;
-    }
-    .imgage{
-        width: 380px;
-        height:  190px;
-        padding: 13px;
-        margin: auto;
-    }
+}
+
+.image{
+    object-fit: contain;
+    width: 380px;
+    height:  190px;
+    padding: 13px;
+    margin: auto;
+}
+
+.image-container .image{
+    filter: grayscale();
+    transform: scale(0.95);
+    transition: all 300ms;
+}
+
+.image-container .image:hover{
+    filter: none;
+    transform: scale(1);
+}
+
+.image-container a {
+    box-shadow: none;
+}
 
 .cover {
     width: 100% !important;
