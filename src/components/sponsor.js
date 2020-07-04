@@ -7,7 +7,7 @@ import replit from '../sponsorsLogo/replit.png'
 import password from '../sponsorsLogo/1Password.png'
 import proto from '../sponsorsLogo/proto.png'
 import edtimes from '../sponsorsLogo/Edtimes.jpg'
-import zulip from '../sponsorsLogo/zulip.png'
+import zulip from '../sponsorsLogo/zulip.jpg'
 
 const Sponsors = (props) => { 
 return (
