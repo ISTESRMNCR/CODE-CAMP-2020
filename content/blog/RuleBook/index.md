@@ -12,8 +12,6 @@ priority: "5"
 
 - Check all the checkboxes in the checklist in the PULL-REQUEST-TEMPLATE by marking x inside the square brackets as [x].
 
-- The participation certificates will be given only to the teams which register for the event and pay the required fees.
-
 - No plagiarism activity will be tolerated. This will lead to disqualification of the team. You are expected to come up with new and innovative ideas, any idea that has been copied from somewhere will be disqualified.
 
 - No submission will be considered for evaluation after the deadline.
