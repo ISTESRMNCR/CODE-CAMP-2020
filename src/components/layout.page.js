@@ -42,7 +42,7 @@ const LayoutPost = ({ title, children }) => {
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
-          maxWidth: rhythm(40),
+          maxWidth: rhythm(30),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
           backgroundColor:"#fff"
         }}

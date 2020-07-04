@@ -6,22 +6,20 @@ type: "judge"
 
 Apan is an amateur game developer making games for game jams since 2nd semester of his B.Tech course. He has participated in various game jams including Ludum Dare, one of the largest online game jams making games within the time range of 36 hours! He is also a Linux enthusiast, tinkering with various linux distributions and making them his ideal gaming OS to play wide variety of games in them.
 
-<p align="center">
-<img src="../../assets/ApanTrikha.png"></img>
-</p>
-
 ## Job Role 🏭
 
 Apan is former SE Intern in **@amazonIndia**
 
-## How Apan Keeps Himself motivated ?
+<img src="../../assets/ApanTrikha.png" height="100" />
+
+## How Apan Keeps Himself motivated?
 
 His motivation generally comes from old tech during the days when computers were made to last and were optimized to solve problems efficiently.
 This include video archives of UNIX OS from AT&T Bell Labs, emulating old game consoles on his Linux setup, etc.
 
 ### WE ARE HAPPY TO HAVE YOU AS A JUDGE In CODE CAMP 1.0 
 
-## Where can we find him ?
+## Where can we find him? 
 
 - See where he Uploads his games [Itch](https://pixeltrik.itch.io/)
 

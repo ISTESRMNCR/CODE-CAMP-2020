@@ -5,4 +5,6 @@ priority: "6"
 tags: ["participation", "registration"]
 ---
 
-**Follow the step below as instructed**
+To know how to register Visit this page
+
+👉  [Here](/makingRegistration)
