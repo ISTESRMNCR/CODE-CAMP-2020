@@ -4,13 +4,14 @@ import rosenfeld from '../sponsorsLogo/rosenfeld.png'
 import wolfram from '../sponsorsLogo/wolfram.png'
 import balsamiq from '../sponsorsLogo/balsamiq-logo-noborder-screen.svg'
 import replit from '../sponsorsLogo/replit.png'
-import password from '../sponsorsLogo/1password.jpg'
-import proto from '../sponsorsLogo/proto.jpg'
+import password from '../sponsorsLogo/1Password.png'
+import proto from '../sponsorsLogo/proto.png'
 import edtimes from '../sponsorsLogo/Edtimes.jpg'
+import zulip from '../sponsorsLogo/zulip.png'
 
 const Sponsors = (props) => { 
 return (
-  <section style={{ padding:10, textAlign:"center",backgroundColor:"#fff", }}>
+  <section style={{ padding:10, textAlign:"center",backgroundColor:"#ffffff", }}>
 
     <div className="container" style={{ padding: 30, paddingTop:0}}>
   <div className="image-container" style={{ textAlign:"center", padding: 10 }}> 
@@ -38,6 +39,9 @@ return (
     </a>
     <a href="https://proto.io/" target="_blank" >
       <img src={proto} alt="proto" className="image"/>
+    </a>
+    <a href="https://zulipchat.com/" target="_blank" >
+      <img src={zulip} alt="proto" className="image"/>
     </a>
 
   </div>

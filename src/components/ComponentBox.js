@@ -34,16 +34,16 @@ const ComponentBox = ({headline, info, subInfo, buttonLink}) => {
 
   const { author, social } = data.site.siteMetadata
   return (
-    <div
+    <div 
       style={{
         alignItems:'center',
         flexDirection: `row`,
        }}
     >
     <h1 className="headings" style={{ marginRight: 30, color:"#fff" }}>{headline}</h1>
-    <p style={{backgroundColor:"#000", color:"gray" ,padding:20, borderRadius:20, textAlign:"justify",fontWeight:10 ,fontSize:24}}>
+    <p style={{backgroundColor:"#eee", color:"#000" ,padding:20, borderRadius:20, textAlign:"justify",fontWeight:10 ,fontSize:24}}>
       {info}  
-      <a style={{ color:"orange" }} href={buttonLink}>
+      <a className="image-container" href={buttonLink} style={{ paddingLeft: 10 }}>
         {subInfo}
       </a>
      </p>

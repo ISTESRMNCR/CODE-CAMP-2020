@@ -1,13 +1,10 @@
 import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
 import { rhythm, scale } from "../utils/typography"
-import { SocialIcon } from 'react-social-icons';
-import socialIcon from "react-social-icons/dist/social-icon";
 import '../styles/styles.css'
 
 import Sponsors from '../components/sponsor'
 import CodeCamp from '../sponsorsLogo/codecamp.png'
-import mountain from '../sponsorsLogo/Mountain.png'
 
 const HomePage = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -39,17 +36,10 @@ const HomePage = ({ location, title, children }) => {
 
   }
   return (
-    <div style={{ backgroundColor:"#383e56" }}>
-      <header style={{ backgroundColor:"#383e56", display:"flex", flexDirection:"row"}}>
-        <h1 style={{ width: "100%",textAlign:"center"}}>
-        <p style={{ padding: 20, paddingTop:0, paddingBottom:0}}>
-          <img src={CodeCamp}  width="200" />
-        </p>
-        </h1>
-      </header>
+    <div className="back" style={{ backgroundColor:"#000" }}>
     <div>
-       <img className="cover" src={mountain} alt="To do mountain" />
-    </div>
+       <img className="cover" src={CodeCamp} alt="To do mountain" />
+    </div> 
       <main
       style={{
         marginLeft: `auto`,
