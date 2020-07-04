@@ -12,8 +12,6 @@ No_Of_Member: ""
 
 Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
 
-# TeamName
-
 ---
 
 ## Project's Overview
@@ -117,7 +115,7 @@ _**Specialization**_ :
 _**GitHub-ID**_ :  
 
 ---
-_ 
+
 ## Member 6 Details
 
 _**Name**_ :

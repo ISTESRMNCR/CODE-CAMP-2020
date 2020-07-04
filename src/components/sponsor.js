@@ -15,7 +15,7 @@ return (
 
     <div className="container" style={{ padding: 30, paddingTop:0}}>
   <div className="image-container" style={{ textAlign:"center", padding: 10 }}> 
-  <p style={{ textAlign:"center", fontSize:30, fontWeight:700 }} >OUR SPONSORS 😍 </p>
+  <p style={{ textAlign:"center", fontSize:30, fontWeight:700 }} >OUR SPONSORS</p>
     <a href="https://balsamiq.cloud/" target="_blank" >
       <img src={balsamiq} className="image"/>
     </a>

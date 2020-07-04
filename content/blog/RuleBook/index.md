@@ -16,7 +16,7 @@ priority: "5"
 
 - No submission will be considered for evaluation after the deadline.
 
-- Maximum 6 developers and minimum 1 developers are allowed in a team.
+- Maximum 6 developers and minimum 1 developer are allowed in a team.
 
 - The certificates will be given in the form of e-certificates.
 

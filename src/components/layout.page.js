@@ -29,7 +29,7 @@ const LayoutPost = ({ title, children }) => {
   )
 
   return (
-    <div style={{ backgroundColor:"#fff" }}>
+    <div style={{ backgroundColor:"#eee" }}>
       <header
         style={{
           backgroundColor: "#000",
@@ -44,7 +44,7 @@ const LayoutPost = ({ title, children }) => {
           marginRight: `auto`,
           maxWidth: rhythm(30),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-          backgroundColor:"#fff"
+          backgroundColor:"#eee"
         }}
       >
         {children}

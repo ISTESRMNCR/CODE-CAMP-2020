@@ -3,7 +3,8 @@ import { graphql } from "gatsby"
 import HomePage from "../components/homePage"
 import SEO from "../components/seo"
 import ComponentBox from "../components/ComponentBox"
-import SassyButtons from '../components/SassyButtons'
+import Button from '@material-ui/core/Button'
+import styles from '../styles/styles.css'
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -18,14 +19,12 @@ const BlogIndex = ({ data, location }) => {
             `covid-19`,
           ]}/>
            <main>
-           {/* <div style={{ paddingLeft:60, paddingRight:60 , paddingTop:0, marginTop:0}}> 
-         <Bio />
-         </div> */}
-        <div style={{ paddingTop:0, marginTop:0, alignItems:"center"}}> 
-         <SassyButtons 
-            head="💻 REGISTER NOW"
-            link="https://github.com/ISTESRMNCR/CODE-CAMP-2020"
-         />
+        
+        <div style={{ paddingTop:0, marginTop:0, textAlign:"center"}}> 
+           <Button className="expand-2" href="https://github.com/ISTESRMNCR/CODE-CAMP-2020" target="_blank" link color="primary" variant="contained" size="large" >
+          💻 Register Now
+        </Button>
+         
          </div>
         
          <ComponentBox 
@@ -73,12 +72,11 @@ const BlogIndex = ({ data, location }) => {
            subInfo="Judges" 
            buttonLink="/judge" 
            />
-             <div style={{ paddingTop:0, marginTop:0, alignItems:"center"}}> 
+             <div style={{ paddingTop:20, marginTop:0,textAlign:"center" }}> 
     
-           <SassyButtons 
-             head="🤝 Partner With Us"
-             link="mailto:teamistesrmncr@gmail.com"
-           />
+             <Button className="expand-2" href="mailto:teamistesrmncr@gmail.com" target="_blank" link color="primary" variant="contained" size="large" >
+          🤝 Partner With Us
+        </Button>
          </div>
           </main>
     </HomePage>

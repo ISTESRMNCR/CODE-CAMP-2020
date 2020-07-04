@@ -54,7 +54,7 @@ const Layout = ({ location, title, children }) => {
     )
   }
   return (
-    <div style={{ backgroundColor:"#eee" }}>
+    <div style={{ backgroundColor:"#fff" }}>
       <header style={{ backgroundColor:"#000", textAlign:"center",boxShadow:"1px 3px 7px A9A9A9", paddingTop: 16, marginBottom:1, paddingBottom:5}}>{header}</header>
       <main
       style={{
@@ -64,10 +64,6 @@ const Layout = ({ location, title, children }) => {
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       }}
       >{children}</main>
-      <footer style={{ textAlign:"center", paddingTop: 5, paddingBottom:20, marginBottom:0, bottom:0, backgroundColor:"#fff"}}>
-       <p className="expand" style={{ fontSize: 20,marginTop:20 }}> © {new Date().getFullYear()} | 👨‍💻 with 🧡 by <a style={{ fontSize: 20, boxShadow:"none" }} href="https://github.com/Uyadav207">Utkarsh Yadav </a> {` `}@
-        <a  style={{ fontSize: 20, boxShadow:"none" }} href="https://www.istesrmncr.com">ISTE Students' Chapter SRM NCR</a> Technical Team</p>
-      </footer>
     </div>
   )
 }

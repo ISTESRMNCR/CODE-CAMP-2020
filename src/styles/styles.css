@@ -47,8 +47,7 @@
 
 .back {
     background-image: url("../../content/assets/backgroundcode.png");
-    padding: 20;
-
+    background-repeat: repeat-y;
 }
 
 a {
@@ -57,4 +56,9 @@ a {
 
 .expand:hover {
     letter-spacing: 0.5px;
+}
+
+.expand-2:hover {
+	position:relative;
+    top: 1px;
 }
