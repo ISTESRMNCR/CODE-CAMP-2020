@@ -16,7 +16,7 @@ This is how teams going to make the Pull Request for registering to the hackatho
 
 - Now you have to do changes on your repository and after that you need to send the pull Request to [ISTESRMNCR/CODE-CAMP-2020]
 
-## Step 2. **(Sending Registration Pull Request)**
+## Step 2. **(Generating Registration Pull Request)**
 
 **This step will be executed in your Forked Repository**
 

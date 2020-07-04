@@ -10,7 +10,7 @@ Winners of the hackathon will be honoured with prizes and swags. So what are you
 
 # FIRST PRIZE 🥇
 
-* **7k Cash prize** 
+* **`7K INR` Cash prize** 
 
 * **CODE CAMP T-shirts** 
 
@@ -22,7 +22,7 @@ Winners of the hackathon will be honoured with prizes and swags. So what are you
 
 # SECOND PRIZE 🥈
 
-* **5k Cash prize** 
+* **`5K INR` Cash prize** 
 
 * **Certificate Of Appreciation** 
 
@@ -32,7 +32,7 @@ Winners of the hackathon will be honoured with prizes and swags. So what are you
 
 # THIRD PRIZE 🥉
 
-* **3k Cash prize** 
+* **`3K INR` Cash prize** 
 
 * **Certificate Of Appreciation** 
 
@@ -48,4 +48,19 @@ Winners of the hackathon will be honoured with prizes and swags. So what are you
 
 # Other Prizes
 
-* Team showing best and most interactive prototype will get [Proto.io](https://proto.io) freelancer plan for 1 year.
+### **Proto.io**
+
+ * Team showing best and most interactive prototype will get [Proto.io](https://proto.io) freelancer plan for 1 year.
+ * 60-day full featured licenses of [Proto.io](https://proto.io) for all the participants.
+
+### **1Password**
+
+ * Winners to get sign up for 6 months free of a [1Password](https://1password.com/) Individual account.
+
+### **Repl.it**
+
+ * [Repl.it](https://repl.it/) offers 3 free months of our hacker plan to all participants and a year of free hacker to the winners.
+
+### **Balsamiq Cloud**
+
+ * A special 90-day extended trial promo code for the [Balsamiq Cloud](https://balsamiq.cloud/).
