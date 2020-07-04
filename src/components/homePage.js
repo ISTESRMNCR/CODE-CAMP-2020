@@ -50,9 +50,9 @@ const HomePage = ({ location, title, children }) => {
       >{children}</main>
         <Sponsors />
 
-      <footer style={{ textAlign:"center", paddingTop: 5, paddingBottom:20, marginBottom:0, bottom:0, backgroundColor:"#fff"}}>
-       <p style={{ fontSize: 20,marginTop:20}}> © {new Date().getFullYear()} | 👨‍💻 with 🧡 by Developers @{` `}
-        <a style={{ fontSize: 20 }} href="https://www.istesrmncr.com">ISTE Students' Chapter SRM NCR</a></p>
+        <footer style={{ textAlign:"center", paddingTop: 5, paddingBottom:20, marginBottom:0, bottom:0, backgroundColor:"#eee"}}>
+       <p className="expand" style={{ fontSize: 20,marginTop:20 }}> © {new Date().getFullYear()} | 👨‍💻 with 🧡 by <a style={{ fontSize: 20, boxShadow:"none" }} href="https://github.com/Uyadav207">Utkarsh Yadav </a> {` `}@
+        <a  style={{ fontSize: 20, boxShadow:"none" }} href="https://www.istesrmncr.com">ISTE Students' Chapter SRM NCR</a> Technical Team</p>
       </footer>
     </div>
   )

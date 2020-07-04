@@ -74,6 +74,7 @@ const BlogIndex = ({ data, location }) => {
            buttonLink="/judge" 
            />
              <div style={{ paddingTop:0, marginTop:0, alignItems:"center"}}> 
+    
            <SassyButtons 
              head="🤝 Partner With Us"
              link="mailto:teamistesrmncr@gmail.com"

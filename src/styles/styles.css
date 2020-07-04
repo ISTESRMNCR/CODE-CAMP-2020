@@ -50,3 +50,11 @@
     padding: 20;
 
 }
+
+a {
+    box-shadow: none;
+}
+
+.expand:hover {
+    letter-spacing: 0.5px;
+}
