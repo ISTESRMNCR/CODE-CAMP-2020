@@ -10,7 +10,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <HomePage location={location} title={siteTitle}>
-      <SEO title="All posts" keywords={[
+      <SEO title="Hackathon" keywords={[
             `challenges`,
             `hackathons`,
             `full-stack`,
