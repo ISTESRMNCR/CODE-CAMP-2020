@@ -6,7 +6,7 @@ type: "blog"
 priority: "3"
 ---
 
-Winners of the hackathon will be honoured with prizes and swags. So what are you waiting for send the Pull request now. Visit [CODE-CAMP-2020](https://github.com/ISTESRMNCR/CODE-CAMP-2020).
+Winners of the hackathon will be honored with prizes and swags. So what are you waiting for send the Pull request now. Visit [CODE-CAMP-2020](https://github.com/ISTESRMNCR/CODE-CAMP-2020).
 
 # FIRST PRIZE 🥇
 
