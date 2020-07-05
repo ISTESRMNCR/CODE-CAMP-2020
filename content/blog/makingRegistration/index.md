@@ -73,7 +73,7 @@ The orange underline part should be represented as **`The Pull request sender's 
 - Fill it completely and recheck it again. **`Before Confirmation`**
 
 
-### BRAVO! You made it and now maintain will check the Pull Request and will ensure your registration.
+### BRAVO! You made it and now your maintainer will check the Pull Request and will ensure your registration.
 
 ---
 

@@ -10,7 +10,9 @@ Apan is an amateur game developer making games for game jams since 2nd semester 
 
 Apan is former SE Intern in **@amazonIndia**
 
-<img src="../../assets/ApanTrikha.png" height="100" />
+<p Align="left">
+<img src="../../assets/ApanTrikha.png" />
+</p>
 
 ## How Apan Keeps Himself motivated?
 

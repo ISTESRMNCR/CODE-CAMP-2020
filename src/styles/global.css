@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Oswald:wght@200&family=Pangolin&display=swap');
@@ -7,9 +8,16 @@ html {
 }
 
 h3 {
-  font-family: 'Montserrat', cursive;
+  font-family: 'Roboto', sans-serif;
   color: black;
 }
 a {
   box-shadow: none;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  font-weight: 700 !important;
+  font-size: large;
 }
