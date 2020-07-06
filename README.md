@@ -42,6 +42,16 @@ See complete timeLine for the Event [Here](https://codecamphackathon.netlify.app
 
 Important Date and time to which the Team needs to be aware of :
 
-- 📆 **15 July 2020** 
-- ⏰ **8 AM** `to` **10 PM**
-- 📎 Add the [event](https://calendar.google.com/calendar/r/eventedit/copy/MHUzM2pvaDQwM3R1cDdxMmdjMmQyYjZpaHAgN3NhMzI0N2FpMzkzczAzbWo0YWMxNWVzdG9AZw) to your calendar.
+📆 **Important Dates:**
+
+* Themes Disclose: 15th July 2020
+* Theme Selection: 16th `to` 18th July 2020
+* Idea Submission: 19th `to` 20th July 2020
+
+  Idea Submission Time: ⏰ **8 AM** `to` **10 PM**
+* Hack Days: 21st `to` 26th July 2020
+* Project Submission: 27th July 2020
+* Project Evaluation: 28th `to` 29th July 2020
+* Result Declaration: 30th July 2020 (Tentative) 
+
+📎 Add the [event](https://calendar.google.com/calendar/r/eventedit/copy/MHUzM2pvaDQwM3R1cDdxMmdjMmQyYjZpaHAgN3NhMzI0N2FpMzkzczAzbWo0YWMxNWVzdG9AZw) to your calendar.
