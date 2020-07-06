@@ -24,7 +24,7 @@ _**Idea-Description**_ : complete idea description goes here with max 400 words.
 
 _**Tech-Stack-Used**_ : languages or framework used will go here.
 
-_**GitHub-Link**_ : Github Link Goes Here (This would be filled after you completed your application)(Will fill in submission Pull Request)
+_**GitHub-Link**_ : Github project Repository link Goes here (make a blank repository). 
 
 _**Hosted-Link**_ : Hosted link goes here. (Will submit in submission Pull Request)
 

@@ -1,4 +1,4 @@
-![banner](https://github.com/ISTESRMNCR/CODE-CAMP-2020/blob/master/CODE%20CAMP%20(7).png)
+![banner](https://github.com/ISTESRMNCR/CODE-CAMP-2020/blob/master/Banner.png)
 
 # **CODE CAMP 1.0** 
 
@@ -44,4 +44,4 @@ Important Date and time to which the Team needs to be aware of :
 
 - 📆 **15 July 2020** 
 - ⏰ **8 AM** `to` **10 PM**
-- 📎 Add the [Link that will be provided shortly](Google-Calend_link) to your calendar.
+- 📎 Add the [Link would be provided shortly](Google-Calend_link) to your calendar.

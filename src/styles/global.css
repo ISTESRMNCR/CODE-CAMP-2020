@@ -10,11 +10,14 @@ html {
 h3 {
   font-family: 'Roboto', sans-serif;
   color: black;
+  font-size: x-large;
 }
 a {
   box-shadow: none;
 }
-
+h1 {
+  font-family: 'Roboto', sans-serif;
+}
 p {
   font-family: 'Roboto', sans-serif;
   color: black;
