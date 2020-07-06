@@ -32,7 +32,7 @@ Any Student | graduates | Open-Source teams who loves to code 👨‍💻 are we
 
 ### HOW TO SEND THE PULL REQUEST
 
-
+* To see how to send pull request, visit [here](https://codecamphackathon.netlify.app/makingRegistration/) .
 
 ### Timeline 
 
@@ -44,4 +44,4 @@ Important Date and time to which the Team needs to be aware of :
 
 - 📆 **15 July 2020** 
 - ⏰ **8 AM** `to` **10 PM**
-- 📎 Add the [Link would be provided shortly](Google-Calend_link) to your calendar.
+- 📎 Add the [event](https://calendar.google.com/calendar/r/eventedit/copy/MHUzM2pvaDQwM3R1cDdxMmdjMmQyYjZpaHAgN3NhMzI0N2FpMzkzczAzbWo0YWMxNWVzdG9AZw) to your calendar.
