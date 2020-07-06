@@ -28,7 +28,7 @@ Any Student | graduates | Open-Source teams who loves to code 👨‍💻 are we
 - Open-source Teams
 - High School Graduates
 - College Graduates
-- Anyone who loves to code 👨‍💻.
+- Anyone who loves/have interest and curiosity to code 👨‍💻.
 
 ### HOW TO SEND THE PULL REQUEST
 
