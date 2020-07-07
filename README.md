@@ -1,5 +1,9 @@
 ![banner](https://github.com/ISTESRMNCR/CODE-CAMP-2020/blob/master/Banner.png)
 
+# Warning
+
+* Do not contribute unless and until you are here to participate as a developer or a team.
+
 # **CODE CAMP 1.0** 
 
 This repository contains the **CODE CAMP 1.0** Registration files. By issuing a pull request to this repository, you can request to register to the **CODE CAMP 1.0**.
