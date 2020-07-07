@@ -1,5 +1,9 @@
 ![banner](https://github.com/ISTESRMNCR/CODE-CAMP-2020/blob/master/Banner.png)
 
+# Disclaimer
+
+### THE PULL REQUEST WILL NOT BE ACCEPTED BEFORE 18th OF JULY AND PARTICIPANTS SHOULD FORK THE REPOSITORY ON 15th of JULY or AFTERWARDS.
+
 # Warning
 
 * Do not contribute unless and until you are here to participate as a developer or a team.
