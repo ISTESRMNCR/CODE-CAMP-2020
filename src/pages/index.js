@@ -22,7 +22,7 @@ const BlogIndex = ({ data, location }) => {
         
         <div style={{ paddingTop:0, marginTop:0, textAlign:"center"}}> 
            <Button className="expand-2" href="https://github.com/ISTESRMNCR/CODE-CAMP-2020" target="_blank" link color="primary" variant="contained" size="large" >
-          💻 Registeration From 19th JULY
+          💻 Registration From 19th JULY
         </Button>
          
          </div>
