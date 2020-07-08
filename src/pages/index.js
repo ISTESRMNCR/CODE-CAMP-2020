@@ -22,21 +22,21 @@ const BlogIndex = ({ data, location }) => {
         
         <div style={{ paddingTop:0, marginTop:0, textAlign:"center"}}> 
            <Button className="expand-2" href="https://github.com/ISTESRMNCR/CODE-CAMP-2020" target="_blank" link color="primary" variant="contained" size="large" >
-          💻 Registration From 19th JULY
+          💻 Registrations From 19th JULY
         </Button>
          
          </div>
         
          <ComponentBox 
             headline = "👋 About Us"
-            info="Code Camp is a Virtual Hackathon for programmers all over the world. The Teams would compete among themselves for providing the best solution for the listed themes. This Hackathon is being organized by ISTE Students' Chapter, SRM NCR. The Hackathon will be conducted on GITHUB and teams participating would have to send the PULL REQUEST by making it's profile on the website. To see how to send the pull request visit 👉 "
+            info="Code Camp is a Virtual Hackathon for programmers all over the world. The Teams would compete among themselves for providing the best solution for the listed themes. This Hackathon is being organized by ISTE Students' Chapter, SRM NCR. The Hackathon will be conducted on GITHUB and teams participating will have to send the Registration PULL REQUEST to hackathon git pository. There is no Google Forms, So To see how to send the Registration Pull Request visit Here 👉 "
                 subInfo="How to send Pull Request"
                 buttonLink="/makingRegistration"
           />
   
 
           <ComponentBox 
-          info="Hey! 👋 Read Our Instruction Manual to better understand the Rules | See TimeLines and Important Date regarding the Hackathon Code Camp 1.0, To see how to participate and kindly go through this page."
+          info="Hey! 👋 Read Our Instruction Manual to better understand the Rules | See Complete TimeLine | Important Dates | Code_Of_Conduct | And How to register for the hackathon, kindly visit this page."
            headline="👨‍🏫 Instructions"
            subInfo="Instruction Manual"
            buttonLink="/blog" 
