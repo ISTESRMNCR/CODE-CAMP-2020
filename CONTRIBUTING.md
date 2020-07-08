@@ -23,3 +23,7 @@ You may merge the Pull Request in once you have the sign-off of two other develo
 **DIVYANSHU TIWARI** : [divyanshutw](https://github.com/divyanshutw)
 
 - Tech Stack : Competitive Coding | Designs Apps using JavaFx | Machine Learning | OpenCV | Python.
+
+# volunteer Contributor
+
+* **Rikesh Makwana** [RikeshMMM](https://github.com/RikeshMMM)
