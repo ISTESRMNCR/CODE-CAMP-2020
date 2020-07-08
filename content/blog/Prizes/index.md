@@ -16,7 +16,7 @@ Winners of the hackathon will be honored with prizes and swags. So what are you 
 
 * **Certificate Of Appreciation** 
 
-* **Goodies & free Giveaways**
+* **free Giveaways**
 
 ---
 
@@ -26,7 +26,7 @@ Winners of the hackathon will be honored with prizes and swags. So what are you 
 
 * **Certificate Of Appreciation** 
 
-* **Goodies & free Giveaways**
+* **free Giveaways**
 
 ---
 
@@ -36,7 +36,7 @@ Winners of the hackathon will be honored with prizes and swags. So what are you 
 
 * **Certificate Of Appreciation** 
 
-* **Goodies & free Giveaways**
+* **free Giveaways**
 
 ---
 
@@ -44,7 +44,7 @@ Winners of the hackathon will be honored with prizes and swags. So what are you 
 
 * **Certificate of Participation**
 
-* **Goodies & free Giveaways**
+* **free Giveaways**
 
 # Other Prizes
 
@@ -64,3 +64,9 @@ Winners of the hackathon will be honored with prizes and swags. So what are you 
 ### **Balsamiq Cloud**
 
  * A special 90-day extended trial promo code for the [Balsamiq Cloud](https://balsamiq.cloud/).
+
+### **Rosenfeld**
+
+ * complimentary ebooks for winners.
+
+visit them here [Rosenfeld](https://rosenfeldmedia.com/)

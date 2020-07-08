@@ -22,11 +22,23 @@ This is how teams going to make the Pull Request for registering to the hackatho
 
 This step is to be followed very carefully as any mistake can results into your team's rejection.
 
-- Now got to **`content/teams`** folder.
-- Here you will see a pre-existing team folder named **`DemoTeam`**
-- Make a copy of **`DemoTeam`** folder and change the name of copied folder by your **`TeamName`**
+- Now go to **`content/teams`** folder.
+- Here you will see a pre-existing team folder named **`DemoTeam`**.
+- Make a copy of **`DemoTeam`** folder and change the name of copied folder by your **`TeamName`**, inside the **`TEAMS`** folder only, not anywhere else. 
 
 > Example : if your team name is **`Helio`** the copied folder name should be **`Helio`**
+
+### Check that the naming convention for your team, It should be 👇
+
+```javaScript
+|---- teams
+        |---- DemoTeam
+        |         |---- index.md
+        |
+        |---- YourTeam
+                  |---- index.md
+
+```
 
 - Now open Your Team's folder that you have just created and you will see something like below.
 
@@ -49,6 +61,8 @@ This step is to be followed very carefully as any mistake can results into your 
 > - Make sure the information is correct. ✅
 
 ## Step 3. **(Sending Pull Request)**
+
+> While making Pull request it is recommended to make a branch other than `master` branch and push your changes there.
 
 - Now push your changes in your github repo back again.
 - Raise a Pull request.
