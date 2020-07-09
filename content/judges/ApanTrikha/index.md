@@ -2,6 +2,7 @@
 title: Apan Trikha
 description: "Former SE Intern at Amazon India"
 type: "judge"
+priority: "2"
 ---
 
 Apan is an amateur game developer making games for game jams since 2nd semester of his B.Tech course. He has participated in various game jams including Ludum Dare, one of the largest online game jams making games within the time range of 36 hours! He is also a Linux enthusiast, tinkering with various linux distributions and making them his ideal gaming OS to play wide variety of games in them.
@@ -11,7 +12,7 @@ Apan is an amateur game developer making games for game jams since 2nd semester 
 Apan is former SE Intern in **@amazonIndia**
 
 <p Align="left">
-<img src="../../assets/ApanTrikha.png" />
+<img src="../../JudgeAssets/ApanTrikha.png" alt="Apan-Trikha" />
 </p>
 
 ## How Apan Keeps Himself motivated?
