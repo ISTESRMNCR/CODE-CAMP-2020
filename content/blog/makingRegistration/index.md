@@ -1,7 +1,7 @@
 ---
 title: Making Registration Pull Request
 date: "2020-06-17"
-description: "This is important for Participanting in the Hackathon"
+description: "Follow these Steps to Register"
 type: "blog"
 priority: "1"
 ---
