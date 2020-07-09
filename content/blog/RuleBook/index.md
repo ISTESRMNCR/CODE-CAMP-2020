@@ -3,7 +3,7 @@ title: Rule Book 2020 book 📕
 date: "2020-06-20"
 description: "Hello World"
 type: "blog"
-priority: "5"
+priority: "4"
 ---
 
 - All the teams must abide by the code of conduct of the event. Failing to do so will lead to disqualification of team or more severe consequences .

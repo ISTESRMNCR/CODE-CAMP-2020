@@ -1,50 +1,34 @@
 ---
 title: Prizes 🏆
 date: "2020-06-20"
-description: "The List of prizes to be distributed among winners."
+description: "What's at stake - Rewards and Prizes?"
 type: "blog"
 priority: "3"
 ---
 
 Winners of the hackathon will be honored with prizes and swags. So what are you waiting for send the Pull request now. Visit [CODE-CAMP-2020](https://github.com/ISTESRMNCR/CODE-CAMP-2020).
 
-# FIRST PRIZE 🥇
+## Winner 🥇
 
-* **`7K INR` Cash prize** 
-
-* **CODE CAMP T-shirts** 
-
-* **Certificate Of Appreciation** 
-
-* **free Giveaways**
+![First](../../assets/first.png)
 
 ---
 
-# SECOND PRIZE 🥈
+## First Runner Up 🥈
 
-* **`5K INR` Cash prize** 
-
-* **Certificate Of Appreciation** 
-
-* **free Giveaways**
+![First](../../assets/second.png)
 
 ---
 
-# THIRD PRIZE 🥉
+## Second Runner Up 🥉
 
-* **`3K INR` Cash prize** 
-
-* **Certificate Of Appreciation** 
-
-* **free Giveaways**
+![First](../../assets/third.png)
 
 ---
 
-# Other Participants
+## Other Participants
 
-* **Certificate of Participation**
-
-* **free Giveaways**
+![First](../../assets/participants.png)
 
 # Other Prizes
 

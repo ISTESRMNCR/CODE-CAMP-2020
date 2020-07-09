@@ -3,7 +3,7 @@ title: CODE OF CONDUCT 🧾
 date: "2020-06-20"
 description: "Harassment Policy"
 type: "blog"
-priority: "4"
+priority: "5"
 ---
 
 # Citizen Code of Conduct
