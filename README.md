@@ -8,6 +8,8 @@
 
 * Do not contribute unless and until you are here to participate as a developer or a team.
 
+### Do give this repo a star ⭐, and we thank you for it in Advance
+
 # **CODE CAMP 1.0** 
 
 This repository contains the **CODE CAMP 1.0** Registration files. By issuing a pull request to this repository, you can request to register to the **CODE CAMP 1.0**.
