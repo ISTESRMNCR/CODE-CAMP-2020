@@ -1,7 +1,7 @@
 ---
 title: What are Hackathons ?
 type: "faq"
-priority: "1"
+priority: "2"
 tags: ["participation", "registration"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: How to Register ?
 type: "faq"
-priority: "6"
+priority: "4"
 tags: ["participation", "registration"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: What is ISTE Students' Chapter SRM NCR ?
 type: "faq"
-priority: "2"
+priority: "6"
 tags: ["faqs", "code Camp 1.0"]
 ---
 

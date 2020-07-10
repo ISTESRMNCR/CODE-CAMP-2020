@@ -8,6 +8,7 @@ import password from '../sponsorsLogo/1Password.png'
 import proto from '../sponsorsLogo/proto.png'
 import edtimes from '../sponsorsLogo/Edtimes.jpg'
 import zulip from '../sponsorsLogo/zulip.jpg'
+import angrybaaz from '../sponsorsLogo/angrybaaz.png'
 
 const Sponsors = (props) => { 
 return (
@@ -42,6 +43,9 @@ return (
     </a>
     <a href="https://zulipchat.com/" target="_blank" >
       <img src={zulip} alt="proto" className="image"/>
+    </a>
+    <a href="https://www.angrybaaz.com/" target="_blank" >
+      <img src={angrybaaz} alt="proto" className="image"/>
     </a>
 
   </div>

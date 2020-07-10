@@ -51,8 +51,8 @@ const HomePage = ({ location, title, children }) => {
         <Sponsors />
 
         <footer style={{ textAlign:"center", paddingTop: 5, paddingBottom:20, marginBottom:0, bottom:0, backgroundColor:"#eee"}}>
-       <p className="expand" style={{ fontSize: 20,marginTop:20, opacity: 0.7 }}> © {new Date().getFullYear()} || An OpenSource Website Created by <a target="_blank" style={{ fontSize: 20, boxShadow:"none", opacity: 0.7 }} href="https://github.com/Uyadav207">Utkarsh </a> {` `} (Developer) 
-        <a target="_blank" style={{ fontSize: 20, boxShadow:"none", opacity:0.7 }} href="https://www.istesrmncr.com"> ISTE Students' Chapter SRM NCR</a></p>
+       <p className="expand" style={{ fontSize: 20,marginTop:20, opacity: 0.7 }}> © {new Date().getFullYear()} || An OpenSource Website Created by <a target="_blank" style={{ fontSize: 20, boxShadow:"none", opacity: 0.7 }} href="https://github.com/Uyadav207">Utkarsh </a> {` `} _Developer/ 
+        <a target="_blank" style={{ fontSize: 20, boxShadow:"none", opacity:0.7 }} href="https://www.istesrmncr.com">@ISTE Students' Chapter SRM NCR</a></p>
       </footer>
     </div>
   )
