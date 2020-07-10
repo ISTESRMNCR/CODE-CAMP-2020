@@ -31,4 +31,4 @@ This include video archives of UNIX OS from AT&T Bell Labs, emulating old game c
 - Connect with Apan on [LinkedIN](https://in.linkedin.com/in/apan-trikha-92737b159)
 
 
-### WE ARE HAPPY TO HAVE YOU AS A JUDGE In CODE CAMP 1.0 
+### WE ARE HAPPY TO HAVE HIM AS A JUDGE In CODE CAMP 1.0 

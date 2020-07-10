@@ -5,11 +5,9 @@ type: "judge"
 priority: "1"
 ---
 
-Meet MR. **YESHWANTH** ! Currently working in BYJU’s as Senior QA, and He is here to Judge the Teams of CODE CAMP on the basis of his expertise in software testing. He is Very Good in Handling Larger Teams across His Carrier also He is Having Great Leadership Qualities, has Guided larger people to develop their carrier on right Path. Let us walk you through his Bio and work that is worth recognizing.
+Meet MR. **Yeshwanth Vankina** ! Currently working in BYJU’s as Senior QA, and He is here to Judge the Teams of CODE CAMP on the basis of his expertise in software testing. He is Very Good in Handling Larger Teams across His Carrier also He is Having Great Leadership Qualities, has Guided larger people to develop their carrier on right Path. Let us walk you through his Bio and work that is worth recognizing.
 
-<p Align="center">
-    <img src="https://scontent-del1-1.xx.fbcdn.net/v/t1.0-9/87896787_2935197623186173_8413539280130932736_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=O2R77f4Y9qgAX_VHU5x&_nc_ht=scontent-del1-1.xx&oh=e1723c8465d7ee8057c9cf7b8b21f316&oe=5F2E2C76" width="500" height=500 />
-</p>
+<img src="../../assets/yeshwanthVankina.jpeg" />
 
 He has Worked in Fisdom (Finwizard Technology), Redbus (IBIBO Pvt Ltd) , Quintiles IMS, Goibibo and IDS Next Business Solution Pvt Ltd 
 
@@ -49,4 +47,4 @@ Learning New Technologies, Playing Cricket for RBCC Club, BKCC Club , Coaching f
 - Retweet his thoughts on [Twitter](https://twitter.com/Yeshwanth_1990)
 
 
-WE ARE HAPPY TO HAVE YOU AS A JUDGE In CODE CAMP 1.0
+WE ARE HAPPY TO HAVE HIM AS A JUDGE In CODE CAMP 1.0
