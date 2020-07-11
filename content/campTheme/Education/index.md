@@ -19,3 +19,4 @@ Connecting teachers and students, sharing of study material, avoiding cheating d
 # **Referrals**
 
 - https://www.trustradius.com/buyer-blog/how-technology-improves-education 
+- https://www.klientsolutech.com/how-has-technology-improved-education/
