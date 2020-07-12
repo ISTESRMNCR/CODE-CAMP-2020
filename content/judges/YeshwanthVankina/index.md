@@ -2,7 +2,7 @@
 title: Yeshwanth Vankina
 description: "Currently in BYJU’s as Senior QA"
 type: "judge"
-priority: "1"
+priority: "4"
 ---
 
 Here is Mr.Yeshwanth Vankina, He is Currently Working as Senior Quality Assurance Engineer in BYJU's (ThinknLearn), and he is here to Judge Our Event. He is very good in handling larger teams across his career also he is having Great Leadership Qualities, he has Guided larger audience to develop their career on right Path. Let us walk you through his Bio and work that is worth recognizing.

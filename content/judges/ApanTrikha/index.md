@@ -13,6 +13,8 @@ Apan is an amateur game developer making games for game jams since 2nd semester 
 
 ### Apan is former SE Intern in **@amazonIndia**
 
+---
+
 ## How Apan Keeps Himself motivated?
 
 His motivation generally comes from old tech during the days when computers were made to last and were optimized to solve problems efficiently.
