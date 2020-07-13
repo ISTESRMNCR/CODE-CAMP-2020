@@ -22,7 +22,7 @@ Shaila loves exploring, composing and narrating stories through Data Science in 
 
 ## What she writes other than code?
 
-`She is an Author of a book`
+`She is a Researcher, one of her Research paper is:`
 
 - **A Composite Approach t0 Digital Video Watermarking - ` published by Springer in` `June 2016`.**
 

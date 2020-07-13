@@ -18,4 +18,8 @@ Prasoon is a Tech Enthusiast | Stock Market Enthusiast also automates useless st
 > ### Motivation Quote
 > Never delete your code , comment it, You never know your Manager’sRequirement 
 
+## Where can we find him? 
+
+- Connect with him on [LinkedIn](https://www.linkedin.com/in/prasoon-david-5152a8165)
+
 WE ARE HAPPY TO HAVE HIM AS A JUDGE IN CODE CAMP 1.0
