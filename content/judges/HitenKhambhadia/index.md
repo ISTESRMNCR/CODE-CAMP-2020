@@ -5,7 +5,7 @@ type: "judge"
 priority: "7"
 ---
 
-Welcomimg Hiten Khambhadia ! Let us walk you through his Expertise.
+Welcoming Hiten Khambhadia ! Let us walk you through his Expertise.
 
 `Digital Transformation` - Platform setup and Monetization Models, Cloud Native Architecture, Microservices, Agile/DevOps, Cloud Strategy/Assessment
 
