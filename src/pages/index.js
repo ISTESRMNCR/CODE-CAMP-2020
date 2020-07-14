@@ -29,7 +29,7 @@ const BlogIndex = ({ data, location }) => {
         
          <ComponentBox 
             headline = "👋 About Us"
-            info="Code Camp is a Virtual Hackathon for programmers all over the world. The Teams would compete among themselves for providing the best solution for the listed themes. This Hackathon is being organized by ISTE Students' Chapter, SRM NCR. The Hackathon will be conducted on GITHUB and teams participating will have to send the Registration PULL REQUEST to hackathon git Repository"
+            info="Code Camp is a Virtual Hackathon for programmers all over the world. The Teams would compete among themselves for providing the best solution for the listed themes. This Hackathon is being organized by ISTE Students' Chapter, SRM NCR. The Hackathon will be conducted on GITHUB and teams participating will have to send the Registration PULL REQUEST to hackathon git Repository. Teams are provided with themes on which they have to build their Projects and Submit it later, for Evaluation."
           />
           <ComponentBox 
            info="Select the theme from Themes section and discuss with your teammates. After theme selection from 19th July, 2020. send the Pull request on our GitHub repository. The link to the Github repository is given in the Registration Button. To know how to make a Pull request Follow these Guidelines."
