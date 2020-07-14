@@ -9,6 +9,7 @@ import proto from '../sponsorsLogo/proto.png'
 import edtimes from '../sponsorsLogo/Edtimes.jpg'
 import zulip from '../sponsorsLogo/zulip.jpg'
 import angrybaaz from '../sponsorsLogo/angrybaaz.png'
+import DigitalOceans from '../sponsorsLogo/DigitalOceans.svg'
 
 const Sponsors = (props) => { 
 return (
@@ -17,6 +18,9 @@ return (
     <div className="container" style={{ padding: 30, paddingTop:0}}>
   <div className="image-container" style={{ textAlign:"center", padding: 10 }}> 
   <p style={{ textAlign:"center", fontSize:30, fontWeight:700 }} >OUR SPONSORS</p>
+  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer" >
+      <img src={DigitalOceans} className="image"/>
+    </a>
     <a href="https://balsamiq.cloud/" target="_blank" rel="noreferrer" >
       <img src={balsamiq} className="image"/>
     </a>

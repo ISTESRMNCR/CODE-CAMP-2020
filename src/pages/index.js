@@ -29,12 +29,14 @@ const BlogIndex = ({ data, location }) => {
         
          <ComponentBox 
             headline = "👋 About Us"
-            info="Code Camp is a Virtual Hackathon for programmers all over the world. The Teams would compete among themselves for providing the best solution for the listed themes. This Hackathon is being organized by ISTE Students' Chapter, SRM NCR. The Hackathon will be conducted on GITHUB and teams participating will have to send the Registration PULL REQUEST to hackathon git pository. There is no Google Forms, So To see how to send the Registration Pull Request visit Here 👉 "
-                subInfo="How to send Pull Request"
-                buttonLink="/makingRegistration"
+            info="Code Camp is a Virtual Hackathon for programmers all over the world. The Teams would compete among themselves for providing the best solution for the listed themes. This Hackathon is being organized by ISTE Students' Chapter, SRM NCR. The Hackathon will be conducted on GITHUB and teams participating will have to send the Registration PULL REQUEST to hackathon git Repository"
           />
-  
-
+          <ComponentBox 
+           info="Select the theme from Themes section and discuss with your teammates. After theme selection from 19th July, 2020. send the Pull request on our GitHub repository. The link to the Github repository is given in the Registration Button. To know how to make a Pull request Follow these Guidelines."
+           headline="❓ Registration Guide"
+           subInfo="Procedure for Pull request"
+           buttonLink="/makingRegistration" 
+           />         
           <ComponentBox 
           info="Hey! 👋 Read Our Instruction Manual to better understand the Rules | See Complete TimeLine | Important Dates | Code_Of_Conduct | And How to register for the hackathon, kindly visit this page."
            headline="👨‍🏫 Instructions"
@@ -47,12 +49,12 @@ const BlogIndex = ({ data, location }) => {
           subInfo="Frequently Asked Questions"
           buttonLink="/faqs" 
            />
-          {/* <ComponentBox  
+          <ComponentBox  
           info="Ideas are responsible for the progression and prosperity of humans – without them we would still be living in prehistoric times. No idea is too small, and all sorts of ideas have potential to change the world as we know it for the better. Visit the Themes Here."
           headline="🎉 Themes" 
           subInfo="Themes"
           buttonLink="/theme" 
-           /> */}
+           />
           <ComponentBox 
           info="Teams are what makes these Hackathons fun and Meaningful. Hackathons give us an opportunity to work in teams, Collaborate with each other and Contribute to the Society. You can see the details of all the enthusiastic Teams participating in the Hackathon, Here."
            headline="👨‍💻 Teams Registered" 

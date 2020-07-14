@@ -13,7 +13,7 @@ class PostsIndex extends React.Component {
     return (
       <Layout
         location={this.props.location}
-        title={"THEMES For CODE CAMP 👀"}
+        title={"THEMES FOR CODE CAMP 👀"}
         siteTitle={siteTitle}
       >
         <SEO
