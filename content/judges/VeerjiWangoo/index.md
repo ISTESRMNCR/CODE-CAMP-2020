@@ -1,6 +1,6 @@
 ---
 title: Veer Ji Wangoo 
-description: "TCS Nordics Strategic Management Professional | Ex- Micrsoft MVP"
+description: "TCS Nordics Strategic Management Professional | Ex- Microsoft MVP"
 type: "judge"
 priority: "6"
 ---
