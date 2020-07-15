@@ -5,9 +5,9 @@ name: "DemoTeam"
 github-link: "https://github.com/ "
 description: "hello I am Bot Developer"
 Team-Quote: ""
-Team_Tech_Stack: ""
-Application_Type: ""
-No_Of_Member: ""
+Team_Tech_Stack: "Artificial Intelligence and Image Processing"
+Application_Type: "Web Application"
+No_Of_Member: "2"
 ---
 
 Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
@@ -22,7 +22,7 @@ _**Application-Type**_ :   Web Application
 
 _**Idea-Description**_ :   complete idea description goes here with max 400 words.
 
-_**Tech-Stack-Used**_ :   Image Processing, Yolo v3 Algorithm, COCO Dataset.
+_**Tech-Stack-Used**_ :   Image Processing, Yolo v3 Algorithm, COCO Dataset, Artificial Intelligence.
 
 _**GitHub-Link**_ :   Github project Repository link Goes here (make a blank repository). 
 
@@ -40,13 +40,13 @@ Fill Team Details for only the valid no of members in your team and delete the l
 
 _**Name**_ : Jenith.
 
-_**University-Name**_ : 
+_**University-Name**_ : St.Joseph's College of Engineering.
 
-_**country**_ :
+_**country**_ : India.
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ : Angular, Image Processing, Python.
 
-_**Specialization**_ :
+_**Specialization**_ : 
 
 _**GitHub-ID**_ :  
 
@@ -54,19 +54,18 @@ _**GitHub-ID**_ :
 
 ## Member 2 Details
 
-_**Name**_ :
+_**Name**_ : Hasitha.
 
-_**University-Name**_ : 
+_**University-Name**_ : St.Joseph's College of Engineering.
 
-_**country**_ :
+_**country**_ : India.
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ : Angular, Image Processing, Python.
 
 _**Specialization**_ :
-
-_**GitHub-ID**_ :   
-
+ 
 ---
+
 
 ## Member 3 Details
 
@@ -80,54 +79,11 @@ _**Technical-Skills**_ :
 
 _**Specialization**_ :
 
-_**GitHub-ID**_ :   
-
----
-
-## Member 4 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
 _**GitHub-ID**_ :  
 
 ---
 
-## Member 5 Details
 
-_**Name**_ :
 
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
----
-
-## Member 6 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
 
 
