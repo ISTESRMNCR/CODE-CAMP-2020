@@ -1,7 +1,7 @@
 ---
 type: "team"                                                        
-title: DemoTeam
-name: "DemoTeam"
+title: Code Hard
+name: "Code Hard"
 github-link: "https://github.com/jenith-hue"
 description: "We have the best team who play with Artificial Intelligence and Machine Learning at it's peak"
 Team-Quote: "Rock And Roll With Code"
