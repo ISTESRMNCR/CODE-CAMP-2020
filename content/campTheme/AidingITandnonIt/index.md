@@ -1,7 +1,7 @@
 ---
 title: Aiding IT and non-IT companies
 date: "2020-06-30"
-description: "The Theme  include setting up supply chain network, improve accounting and bookkeeping, marketing, informing business leaders about Government schemes, etc."
+description: "Building Monitoring tools and Analytics"
 type: "theme"
 priority: "5"
 ---

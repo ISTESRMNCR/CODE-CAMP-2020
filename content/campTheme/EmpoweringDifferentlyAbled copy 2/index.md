@@ -1,7 +1,7 @@
 ---
 title: "Empowering Differently Abled"
 date: "2020-06-27"
-description: ""
+description: "Helping Differently Abled"
 type: "theme"
 priority: "2"
 ---

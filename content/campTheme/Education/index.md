@@ -1,7 +1,7 @@
 ---
 title: "Education"
 date: "2020-06-28"
-description: ""
+description: "For All the Institutions Fighting Covid-19"
 type: "theme"
 priority: "2"
 ---
