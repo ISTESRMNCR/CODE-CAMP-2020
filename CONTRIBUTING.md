@@ -16,13 +16,9 @@ You may merge the Pull Request in once you have the sign-off of two other develo
 
 # Contributors
  
-**UTKARSH YADAV**  : [Uyadav207](https://github.com/Uyadav207) **GitHub DPM**
-
-- Tech Stack_ : ReactJS | React Native | GatsByJs | Python | MongoDB | ExpressJS | NodeJS | Expo 📱 | PWAs | GraphQl. 
+**UTKARSH YADAV**  : [Uyadav207](https://github.com/Uyadav207)
 
 **DIVYANSHU TIWARI** : [divyanshutw](https://github.com/divyanshutw)
-
-- Tech Stack : Competitive Coding | Designs Apps using JavaFx | Machine Learning | OpenCV | Python.
 
 # volunteer Contributor
 
