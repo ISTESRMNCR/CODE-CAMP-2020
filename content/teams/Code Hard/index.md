@@ -3,14 +3,14 @@ type: "team"
 title: DemoTeam
 name: "DemoTeam"
 github-link: "https://github.com/ "
-description: "hello I am Bot Developer"
+description: ""
 Team-Quote: ""
 Team_Tech_Stack: "Artificial Intelligence and Image Processing"
 Application_Type: "Web Application"
 No_Of_Member: "2"
 ---
 
-Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
+Hey ! We are Team Code Hard. We are here to win. and we also love open source.
 
 ---
 
