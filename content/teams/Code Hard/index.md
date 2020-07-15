@@ -3,8 +3,8 @@ type: "team"
 title: DemoTeam
 name: "DemoTeam"
 github-link: "https://github.com/jenith-hue"
-description: ""
-Team-Quote: ""
+description: "We have the best team who play with Artificial Intelligence and Machine Learning at it's peak"
+Team-Quote: "Rock And Roll With Code"
 Team_Tech_Stack: "Artificial Intelligence and Image Processing"
 Application_Type: "Web Application"
 No_Of_Member: "2"
@@ -24,7 +24,7 @@ _**Idea-Description**_ :   complete idea description goes here with max 400 word
 
 _**Tech-Stack-Used**_ :   Image Processing, Yolo v3 Algorithm, COCO Dataset, Artificial Intelligence.
 
-_**GitHub-Link**_ :   Github project Repository link Goes here (make a blank repository). 
+_**GitHub-Link**_ :   https://github.com/jenith-hue/Code_Hard
 
 _**Hosted-Link**_ :    Hosted link goes here. (Will submit in submission Pull Request)
 
@@ -32,9 +32,9 @@ _**Hosted-Link**_ :    Hosted link goes here. (Will submit in submission Pull Re
 
 # Member Details
 
-_**No of members**_ : 
+_**No of members**_ : 2
 
-Fill Team Details for only the valid no of members in your team and delete the leftover Template...
+
 
 ## Leader Details
 
