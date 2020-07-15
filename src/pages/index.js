@@ -28,7 +28,7 @@ const BlogIndex = ({ data, location }) => {
           <ComponentBox 
             subInfo="ISSUE SECTION FOR CODE CAMP"
             buttonLink="https://github.com/ISTESRMNCR/CODE-CAMP-2020/issues" 
-            info="Now you can fork the Repository. Discuss the Ideas with your team and Send the Pull Request on 19th July For Registrating Your team to hackathon. For Any Futher Query Visit "
+            info="Now you can fork the Repository. Discuss the Ideas with your team and Send the Pull Request on 19th July For Registering Your team to hackathon. For Any Futher Query Visit "
           />
            <Button className="expand-2" href="https://github.com/ISTESRMNCR/CODE-CAMP-2020" target="_blank" link color="primary" variant="contained" size="large" >
           💻 FORK THE REPOSITORY NOW
