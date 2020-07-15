@@ -1,6 +1,6 @@
 ---
 title: Aiding Small Businesses
-date: "2020-07-1"
+date: "2020-06-30"
 description: "The Theme  include setting up supply chain network, improve accounting and bookkeeping, marketing, informing business leaders about Government schemes, etc."
 type: "theme"
 priority: "6"
