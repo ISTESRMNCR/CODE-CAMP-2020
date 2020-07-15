@@ -7,11 +7,8 @@ description: "hello I am Bot Developer"
 Team-Quote: ""
 Team_Tech_Stack: ""
 Application_Type: ""
-No_Of_Member: ""
+No_Of_Member: "5"
 ---
-
-Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
-
 ---
 
 ## Project's Overview
@@ -40,9 +37,9 @@ Fill Team Details for only the valid no of members in your team and delete the l
 
 _**Name**_ :
 
-_**University-Name**_ : 
+_**University-Name**_ : SRMIST
 
-_**country**_ :
+_**country**_ : India
  
 _**Technical-Skills**_ :
 
@@ -56,9 +53,9 @@ _**GitHub-ID**_ :
 
 _**Name**_ :
 
-_**University-Name**_ : 
+_**University-Name**_ : SRMIST
 
-_**country**_ :
+_**country**_ : India
  
 _**Technical-Skills**_ :
 
@@ -72,9 +69,9 @@ _**GitHub-ID**_ :
 
 _**Name**_ :
 
-_**University-Name**_ : 
+_**University-Name**_ : SRMIST
 
-_**country**_ :
+_**country**_ : India
  
 _**Technical-Skills**_ :
 
@@ -88,9 +85,9 @@ _**GitHub-ID**_ :
 
 _**Name**_ :
 
-_**University-Name**_ : 
+_**University-Name**_ : SRMIST
 
-_**country**_ :
+_**country**_ : India
  
 _**Technical-Skills**_ :
 
@@ -104,9 +101,9 @@ _**GitHub-ID**_ :
 
 _**Name**_ :
 
-_**University-Name**_ : 
+_**University-Name**_ : SRMIST
 
-_**country**_ :
+_**country**_ : India
  
 _**Technical-Skills**_ :
 
@@ -115,19 +112,5 @@ _**Specialization**_ :
 _**GitHub-ID**_ :  
 
 ---
-
-## Member 6 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
 
 
