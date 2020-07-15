@@ -23,7 +23,7 @@ class PostsIndex extends React.Component {
         numberOfParticipants={faqs.length}
       >
         <SEO
-          title="teams"
+          title="Teams"
           keywords={[
             `teams`,
             `code camp 1.0`,
