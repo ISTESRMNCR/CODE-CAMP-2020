@@ -54,7 +54,7 @@ const BlogIndex = ({ data, location }) => {
            buttonLink="/makingRegistration" 
            />         
           <ComponentBox 
-          info="Hey! 👋 Read Our Instruction Manual to better understand the Rules | See Complete TimeLine | Important Dates | Code_Of_Conduct | And How to register for the hackathon, kindly visit this page."
+          info="Read Our Instructions Manual to better understand the Rules | See Complete TimeLine | Important Dates | Code_Of_Conduct | And How to register for the hackathon, kindly visit this page."
            headline="👨‍🏫 Instructions"
            subInfo="Instruction Manual"
            buttonLink="/blog" 
