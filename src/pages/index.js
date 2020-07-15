@@ -21,8 +21,17 @@ const BlogIndex = ({ data, location }) => {
            <main>
         
         <div style={{ paddingTop:0, marginTop:0, textAlign:"center"}}> 
+        <ComponentBox 
+            headline = "Welcome to Code Camp Arena 🎉"
+            info="Today we have released the Themes For the Hackathon as we have promised. Now Select themes on which you want to build your project for the Hackathon."
+          />
+          <ComponentBox 
+            subInfo="ISSUE SECTION FOR CODE CAMP"
+            buttonLink="https://github.com/ISTESRMNCR/CODE-CAMP-2020/issues" 
+            info="Now you can fork the Repository. Discuss the Ideas with your team and Send the Pull Request on 19th July For Registrating Your team to hackathon. For Any Futher Query Visit "
+          />
            <Button className="expand-2" href="https://github.com/ISTESRMNCR/CODE-CAMP-2020" target="_blank" link color="primary" variant="contained" size="large" >
-          💻 Registrations From 19th JULY
+          💻 FORK THE REPOSITORY NOW
         </Button>
          
          </div>
