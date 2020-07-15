@@ -22,13 +22,20 @@ const BlogIndex = ({ data, location }) => {
         
         <div style={{ paddingTop:0, marginTop:0, textAlign:"center"}}> 
         <ComponentBox 
+          subInfo="Check Now"
+          buttonLink="/theme" 
             headline = "Welcome to Code Camp Arena 🎉"
-            info="Today we have released the Themes For the Hackathon as we have promised. Now Select themes on which you want to build your project for the Hackathon."
+            info="Themes for Hackathon Code Camp 1.0 has been released"
+          />
+          <ComponentBox 
+          subInfo="Making Pull Request Guide"
+          buttonLink="/makingRegistration" 
+            info="Now Teams are Requested to Fork The Repository and be ready with your Pull Requests. To see how to create Pull Request Visit here."
           />
           <ComponentBox 
             subInfo="ISSUE SECTION FOR CODE CAMP"
             buttonLink="https://github.com/ISTESRMNCR/CODE-CAMP-2020/issues" 
-            info="Now you can fork the Repository. Discuss the Ideas with your team and Send the Pull Request on 19th July For Registering Your team to hackathon. For Any Futher Query Visit "
+            info="The Teams will Send the Pull Request on 19th July, 2020. from 8 AM to 10 PM. and between that timezone the maintainer will merge your Pull request after reviewing it. For Any Futher Query Visit "
           />
            <Button className="expand-2" href="https://github.com/ISTESRMNCR/CODE-CAMP-2020" target="_blank" link color="primary" variant="contained" size="large" >
           💻 FORK THE REPOSITORY NOW
