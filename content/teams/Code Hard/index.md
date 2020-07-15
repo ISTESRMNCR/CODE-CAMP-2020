@@ -2,7 +2,7 @@
 type: "team"                                                        
 title: DemoTeam
 name: "DemoTeam"
-github-link: "https://github.com/ "
+github-link: "https://github.com/jenith-hue"
 description: ""
 Team-Quote: ""
 Team_Tech_Stack: "Artificial Intelligence and Image Processing"
@@ -48,7 +48,7 @@ _**Technical-Skills**_ : Angular, Image Processing, Python.
 
 _**Specialization**_ : 
 
-_**GitHub-ID**_ :  
+_**GitHub-ID**_ :  https://github.com/jenith-hue
 
 ---
 
