@@ -35,7 +35,7 @@ Fill Team Details for only the valid no of members in your team and delete the l
 
 ## Leader Details
 
-_**Name**_ : Karan Bengnai
+_**Name**_ : Karan Bengani
 
 _**University-Name**_ : SRMIST
 
