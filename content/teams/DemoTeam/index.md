@@ -7,7 +7,7 @@ description: "hello I am Bot Developer"
 Team-Quote: ""
 Team_Tech_Stack: ""
 Application_Type: ""
-No_Of_Member: ""
+No_Of_Members: ""
 ---
 
 Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
@@ -26,7 +26,7 @@ _**Tech-Stack-Used**_ :   languages or framework used will go here.
 
 _**GitHub-Link**_ :   Github project Repository link Goes here (make a blank repository). 
 
-_**Hosted-Link**_ :    Hosted link goes here. (Will submit in submission Pull Request)
+_**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 
 ---
 
