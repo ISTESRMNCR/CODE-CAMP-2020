@@ -2,7 +2,7 @@
 type: "team"                                                        
 title: Code Blooded
 name: "Code Blooded"
-github-link: "https://github.com/ "
+github-link: "https://github.com/KaranBengani "
 description: "hello I am Bot Developer"
 Team-Quote: ""
 Team_Tech_Stack: ""
@@ -13,13 +13,13 @@ No_Of_Member: "5"
 
 ## Project's Overview
 
-_**Theme-Name**_ : 
+_**Theme-Name**_ : AIDING SMALL BUSINESSES
 
-_**Application-Type**_ :   Web Application | Website | Mobile Application (The Application should be hosted and Bundled)
+_**Application-Type**_ :   Website
 
 _**Idea-Description**_ :   complete idea description goes here with max 400 words.
 
-_**Tech-Stack-Used**_ :   languages or framework used will go here.
+_**Tech-Stack-Used**_ :   HTML5, CSS 3, JAVASCRIPT, JQUERY, SQL, DJANGO, 
 
 _**GitHub-Link**_ :   Github project Repository link Goes here (make a blank repository). 
 
