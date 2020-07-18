@@ -7,7 +7,7 @@ description: "hello I am Bot Developer"
 Team-Quote: ""
 Team_Tech_Stack: ""
 Application_Type: ""
-No_Of_Members: ""
+No_Of_Member: ""
 ---
 
 Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
