@@ -7,7 +7,7 @@ description: "We have the best team who play with Artificial Intelligence and Ma
 Team-Quote: "Rock And Roll With Code"
 Team_Tech_Stack: "Artificial Intelligence and Image Processing"
 Application_Type: "Web Application"
-No_Of_Member: "2"
+No_Of_Member: "4"
 ---
 
 Hey ! We are Team Code Hard. We are here to win. and we also love open source.
