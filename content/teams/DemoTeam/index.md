@@ -1,5 +1,5 @@
 ---
-type: "team"                                                        
+type: "team"                   
 title: DemoTeam
 name: "DemoTeam"
 github-link: "https://github.com/ "
