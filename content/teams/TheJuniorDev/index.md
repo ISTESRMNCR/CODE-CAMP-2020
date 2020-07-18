@@ -3,10 +3,10 @@ type: "team"
 title: TheJuniorDev
 name: "TheJuniorDev"
 github-link: "https://github.com/Nalin-2005/Food4All"
-description: ""
+description: "A huge team of 1 person."
 Team-Quote: "Maybe Not the best, but not the least..."
 Team_Tech_Stack: "Python, HTML, CSS, Javascript"
-Application_Type: "Web Application | Website "
+Application_Type: " Website "
 No_Of_Member: "1"
 ---
 
@@ -16,7 +16,7 @@ No_Of_Member: "1"
 
 _**Theme-Name**_ : Eradicate Hunger
 
-_**Application-Type**_ :  Web Application | Website 
+_**Application-Type**_ :  Website 
 
 _**Idea-Description**_ :   
 
@@ -36,7 +36,7 @@ _**No of members**_ : 1
 
 _**Name**_ : Nalin Angrish
 
-_**University-Name**_ : 
+_**University-Name**_ : Mount Carmel School, Chandigarh
 
 _**country**_ : India
  
