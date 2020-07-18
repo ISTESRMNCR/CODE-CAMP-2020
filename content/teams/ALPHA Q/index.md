@@ -2,7 +2,7 @@
 type: "team"                                                        
 title: ALPHA Q
 name: "ALPHA Q"
-github-link: "https://github.com/ "
+github-link: "https://github.com/shivambhatia5432/GleeTimes"
 description: "Hi I am a full stack web developer."
 Team-Quote: ""
 Team_Tech_Stack: "MongoDB,Express,EJS,Node.js,Passport.js,SpeechSynthesis"
