@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Notable&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Oswald:wght@200&family=Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+.headings {
+    font-family: 'Oswald', sans-serif;
+}
+.main-heading {
+    font-family: 'Ubuntu Mono', monospace;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: space-around;
+    width: 100%;
+    margin: auto;
+    height: auto;
+}
+
+.image{
+    object-fit: contain;
+    width: 380px;
+    height:  190px;
+    padding: 13px;
+    margin: auto;
+}
+
+.image-container .image{
+    filter: grayscale();
+    transform: scale(0.95);
+    transition: all 300ms;
+}
+
+.image-container .image:hover{
+    filter: none;
+    transform: scale(1);
+}
+
+.image-container a {
+    box-shadow: none;
+}
+
+.cover {
+    width: 100% !important;
+    max-height: 200;
+}
+
+.back {
+    background-image: url("../../content/assets/backgroundcode.png");
+    background-repeat: repeat-y;
+}
+
+a {
+    box-shadow: none;
+}
+
+.expand:hover {
+    letter-spacing: 0.5px;
+}
+
+.expand-2:hover {
+	position:relative;
+    top: 1px;
+}
