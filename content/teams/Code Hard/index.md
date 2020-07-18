@@ -73,17 +73,32 @@ _**Specialization**_ : Artificial intelligence projects and Angular projects.
 
 ## Member 3 Details
 
-_**Name**_ :
+_**Name**_ : Rathi.
 
-_**University-Name**_ : 
+_**University-Name**_ : St.Joseph's College of Engineering.
 
-_**country**_ :
+_**country**_ : India.
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ : SQL, Mongo DB, Java Script.
 
-_**Specialization**_ :
+_**Specialization**_ : Backend Developer
 
-_**GitHub-ID**_ :  
+
+---
+
+
+## Member 4 Details
+
+_**Name**_ : Preethi.
+
+_**University-Name**_ : St.Joseph's College of Engineering.
+
+_**country**_ : India.
+ 
+_**Technical-Skills**_ : Angular, CSS, BootStrap.
+
+_**Specialization**_ : Frontend Developer
+
 
 ---
 
