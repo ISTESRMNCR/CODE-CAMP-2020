@@ -21,9 +21,13 @@ _**Theme-Name**_ : Atma Nirbhar Bharat
 _**Application-Type**_ :   Mobile Application 
 
 _**Idea-Description**_ :   People in India are unaware of the good and quality products produced largely all over the country by a number of self-employed workers. They produce goods on a small scale which become locally popular in their towns/cities. Our aim is to spread awareness about these locally popular brands and products so that they can attract customers out of their localities and cities. 
+
 Moreover, the lockdown enforced due to the COVID-19 pandemic has effected these businesses greatly as people can’t reach the shops to buy the products. The main objective of our team is to provide a platform to these “Atma-Nirbhar” (self- employed) workers of our country through our App named ShopEasy. Any shop owner or any seller can login to the app and can add there products. Users can easily order the products to their home .We will provide easy and effortless SignIn methods like Google Signin ,Facebook SignIn, Phone Number SignIn, Email SignIn. Cash on Delivery option will be provided with proper Order Tracking System. Many option like adding categories and brands will be provided so that each admin i.e. the owner or the seller can customize the app in his/her way. 
+
 COVID-19 effected people financially all across the country. This urged a lot of people to start their own businesses from home. We aim to reach out to these people also and help them expand their customer chain through our app. They can easily sell their products anywhere in the country for free. All these services will be provided free of cost. 
+
 In this way we promote our Prime Minister’s Atma Nirbhar Bharat campaign by providing small businesses and self-employed workers from any part of the country a platform for their business growth. This will encourage Atma-Nirbhar(self-independent) nature among the people of India, which will lead us to a better future. 
+
 
 
 _**Tech-Stack-Used**_ :   Flutter, Dart, Firebase
@@ -38,7 +42,7 @@ _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submiss
 
 _**No of members**_ : 6
 
-Fill Team Details for only the valid no of members in your team and delete the leftover Template...
+
 
 ## Leader Details
 
