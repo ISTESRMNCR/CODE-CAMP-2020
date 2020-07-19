@@ -1,14 +1,16 @@
 ---
-type: "team"                                                        
+type: "team"                   
 title: The Bug Slayer
 name: "The Bug Slayer"
-Team-Quote: "We Just Came here for Candy"
-Team_Tech_Stack: "Bootstrap,HTML,CSS,JavaScript,Firebase,Github"
+github-link: "https://github.com/Amik-Sen/CODE-CAMP-2020.git"
+description: "Hello we are Web Developers"
+Team-Quote: "We just came here for Candy"
+Team_Tech_Stack: "BootStrap, Firebase, HTML, CSS, Javascript"
 Application_Type: "Web Application"
-No_Of_Member: "2"
+No_Of_Member: ""
 ---
 
-Hey ! We are Team The Bug Slayer. We are here to win. and we also love open source.
+Hey ! We are Team The Bug Slayer. We just came here for Candy and we also love open source.
 
 ---
 
@@ -16,7 +18,15 @@ Hey ! We are Team The Bug Slayer. We are here to win. and we also love open sour
 
 _**Theme-Name**_ : AtmaNirbhar Bharat
 
-_**Application-Type**_ :   Web Application
+_**Application-Type**_ :   Web Application 
+
+_**Idea-Description**_ :   
+
+_**Tech-Stack-Used**_ :   
+
+_**GitHub-Link**_ :   
+
+_**Hosted-Link**_ :    
 
 ---
 
@@ -24,32 +34,35 @@ _**Application-Type**_ :   Web Application
 
 _**No of members**_ : 2
 
+
 ## Leader Details
 
-_**Name**_ : Rishabh Singhvi
+_**Name**_ : Nancy Agrawal
 
-_**University-Name**_ : National Institute of Engineering,Mysore
+_**University-Name**_ : Indian Institute of Technology, Kharagpur
 
 _**country**_ : India
+ 
+_**Technical-Skills**_ : BootStrap, Firebase, HTML, CSS, Javascript, C++
 
-_**Technical-Skills**_ : Vue.js,HTML,CSS,JS,Firebase,C,C++,Java,Python,DSA,Github,Virtual Prototyping,SQL
+_**Specialization**_ : Front-End Developer
 
-_**Specialization**_ : Vuejs
-
-_**GitHub-ID**_ :  49827700
+_**GitHub-ID**_ :  NancyAgrawal
 
 ---
 
 ## Member 2 Details
 
-_**Name**_ : Shubham Jain
+_**Name**_ : Amik Sen
 
-_**University-Name**_ : National Institute of Engineering,Mysore
+_**University-Name**_ : Indian Institute of Technology, Kharagpur
 
 _**country**_ : India
+ 
+_**Technical-Skills**_ : BootStrap, Firebase, HTML, CSS, Javascript
 
-_**Technical-Skills**_ : Vue.js,HTML,CSS,JS,Firebase,C,C++,Python,DSA,Github,Virtual Prototyping
+_**Specialization**_ : Front-End Developer
 
-_**Specialization**_ : Vuejs
+_**GitHub-ID**_ :  Amik-Sen 
 
-_**GitHub-ID**_ :  63341653
+---
