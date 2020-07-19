@@ -1,9 +1,10 @@
 ---
 type: "team"                   
-title: GrowTogether app
+title: GrowTogether 
 name: "GrowTogether"
 github-link: "https://github.com/pranavi79/grow-together-app "
-description: "An app to connect NGO's/individuals directly to volunteers"
+description: "An app to connect NGO's/individuals directly to volunteers.
+Users will login as an NGO or as an individual.On main page interested can post an event along with day and time.Anyone can commit to the event as 'going'.A chatbox is also available to directly contact the organiser.An abstract has also been included for a detailed description."
 Team-Quote: "Commit to making lives better"
 Team_Tech_Stack: "Java,XML,Dart,Flutter"
 Application_Type: "app"
