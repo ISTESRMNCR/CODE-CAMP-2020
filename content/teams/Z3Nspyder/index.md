@@ -2,7 +2,7 @@
 type: "team"                   
 title: Z3Nspyder
 name: Z3Nspyder
-github-link: https://github.com/orgs/Z3nSpyder/teams/z3nspyder-main
+github-link: https://github.com/orgs/Z3nSpyder
 description: "Hey ! We are Team Z3Nspyder. We are here to win and we also love open source."
 Team-Quote: "Privacy delivered on a spoon"
 Team_Tech_Stack: Android, Google Firebase, Java
