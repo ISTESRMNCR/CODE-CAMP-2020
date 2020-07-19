@@ -3,7 +3,7 @@ type: "team"
 title: MATRIX
 name: "MATRIX"
 github-link: "https://github.com/sarthak290/ShopEasy"
-description: "Hey! We are team MATRIX. We like unique creations and are determined towards creating a platform to help the people in our country."
+description: "We are team matrix. We are a group of 6 growing developers. By using our technical experience and coding skills we want to contribute to the aatma-nirbhar mission. We wish to help people in this pandemic."
 Team-Quote: ""
 Team_Tech_Stack: "Flutter, Dart, Firebase"
 Application_Type: "Flutter Mobile Application"
@@ -24,7 +24,8 @@ _**Idea-Description**_ :   People in India are unaware of the good and quality p
 
 Moreover, the lockdown enforced due to the COVID-19 pandemic has effected these businesses greatly as people can’t reach the shops to buy the products. The main objective of our team is to provide a platform to these “Atma-Nirbhar” (self- employed) workers of our country through our App named ShopEasy. Any shop owner or any seller can login to the app and can add there products. Users can easily order the products to their home .We will provide easy and effortless SignIn methods like Google Signin ,Facebook SignIn, Phone Number SignIn, Email SignIn. Cash on Delivery option will be provided with proper Order Tracking System. Many option like adding categories and brands will be provided so that each admin i.e. the owner or the seller can customize the app in his/her way. 
 
-COVID-19 effected people financially all across the country. This urged a lot of people to start their own businesses from home. We aim to reach out to these people also and help them expand their customer chain through our app. They can easily sell their products anywhere in the country for free. All these services will be provided free of cost. 
+COVID-19 effected people financially all across the country. This urged a lot of people to start their own businesses from home. We aim to reach out to these people also and help them expand their customer chain through our app. They can easily sell their products anywhere in the country for free. All these services will be provided free of cost.
+All the updates and other imformation about the products, orders etc will be provided through Notification to every user.
 
 In this way we promote our Prime Minister’s Atma Nirbhar Bharat campaign by providing small businesses and self-employed workers from any part of the country a platform for their business growth. This will encourage Atma-Nirbhar(self-independent) nature among the people of India, which will lead us to a better future. 
 
@@ -120,7 +121,7 @@ _**Technical-Skills**_ : Python, C++, C, Data Structure and Algorithms
 
 _**Specialization**_ : Python, C++, C, Data Structure and Algorithms
 
-_**GitHub-ID**_ :  
+_**GitHub-ID**_ :  https://github.com/ishita-035
 
 ---
 
