@@ -1,8 +1,8 @@
 ---
 type: "team"                   
 title: FS
-name: FS
-github-link: "https://github.com/Nish7/HandsUp.git "
+name: "TEAM FS"
+github-link: "https://github.com/Nish7/HandsUp"
 description: "Doubt App for students and teachers"
 Team-Quote: "Lets bring people together at these tough times and innovate!"
 Team_Tech_Stack: "Mongo DB, Express, Node js, React"
@@ -49,7 +49,8 @@ _**Technical-Skills**_ : Backend
 
 _**Specialization**_ : Mongo DB and Node JS
 
-_**GitHub-ID**_ :  piyush2003m
+_**GitHub-ID**_ :  https://github.com/piyush2003m
+
 
 ---
 
@@ -65,7 +66,7 @@ _**Technical-Skills**_ : React and Node JS
 
 _**Specialization**_ : Front end
 
-_**GitHub-ID**_ :   Nish7
+_**GitHub-ID**_ :   https://github.com/Nish7
 
 ---
 
@@ -81,7 +82,8 @@ _**Technical-Skills**_ : Javascript
 
 _**Specialization**_ : Express and Mongo db 
 
-_**GitHub-ID**_ :   samjain
+_**GitHub-ID**_ :   https://github.com/samjain215
+
 
 ---
 
@@ -97,7 +99,8 @@ _**Technical-Skills**_ : UI/UX, Javascript and python
 
 _**Specialization**_ : UI/UX and JS
 
-_**GitHub-ID**_ : anxnyajain 
+_**GitHub-ID**_ : https://github.com/anxnyajain
+ 
 
 ---
 
@@ -113,7 +116,8 @@ _**Technical-Skills**_ :  Javascript, Node js , express and SQL
 
 _**Specialization**_ : JS
 
-_**GitHub-ID**_ :  lordSaumya
+_**GitHub-ID**_ :   https://github.com/LordSaumya
+
 
 ---
 
@@ -129,6 +133,6 @@ _**Technical-Skills**_ : JS , python, React
 
 _**Specialization**_ : JS 
 
-_**GitHub-ID**_ :  mahandev
+_**GitHub-ID**_ :  https://github.com/mahandev
 
 
