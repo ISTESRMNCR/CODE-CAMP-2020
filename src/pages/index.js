@@ -38,7 +38,7 @@ const BlogIndex = ({ data, location }) => {
             info="The Teams will Send the Pull Request on 19th July, 2020. from 8 AM to 10 PM. and between that timezone the maintainer will merge your Pull request after reviewing it. For Any Futher Query Visit "
           />
            <Button className="expand-2" href="https://github.com/ISTESRMNCR/CODE-CAMP-2020" target="_blank" link color="primary" variant="contained" size="large" >
-          💻 FORK THE REPOSITORY NOW
+          💻 Registrations Started
         </Button>
          
          </div>
@@ -77,12 +77,6 @@ const BlogIndex = ({ data, location }) => {
            subInfo="Teams"
            buttonLink="/teams" 
            />
-          {/* <ComponentBox 
-          info="No event can be Successful without Sponsors. Their assistance is of great importance. You can see here the Companies who lend us a helping hand in setting up the Code Camp 1.0"
-           headline="🧡 Our Sponsors" 
-           subInfo="Sponsors"
-           buttonLink="/sponsors" 
-           /> */}
           <ComponentBox 
           info="A competition is worthless without a leaderboard as it encroaches a sense of competition among the teams. Also great results are achieved with good competitors. Leaderboard is not possible without judges.
             We have the finest judges who have great experience in the industry. You can see our panel of judges here."
