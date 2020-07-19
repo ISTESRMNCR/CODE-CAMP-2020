@@ -1,30 +1,37 @@
 ---
 type: "team"                                                        
-title: DemoTeam
-name: "DemoTeam"
-github-link: "https://github.com/ "
-description: "hello I am Bot Developer"
+title: ALPHA Q
+name: "ALPHA Q"
+github-link: "https://github.com/shivambhatia5432/SRM_Hackathon"
+description: "Hi, We are a team of Web developers."
 Team-Quote: ""
-Team_Tech_Stack: ""
-Application_Type: ""
-No_Of_Members: ""
+Team_Tech_Stack: "MongoDB, Express, EJS, Node.js, Javascript"
+Application_Type: "We Application"
+No_Of_Members: "3"
 ---
 
-Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
+Hey ! We are Team ALPHA Q. We are here to win. and we also love web development.
 
 ---
 
 ## Project's Overview
 
-_**Theme-Name**_ : 
+_**Theme-Name**_ : Education
 
-_**Application-Type**_ :   Web Application | Website | Mobile Application (The Application should be hosted and Bundled)
+_**Application-Type**_ :  Web Application
 
-_**Idea-Description**_ :   complete idea description goes here with max 400 words.
+_**Idea-Description**_ :   
+So we are aiming to start a positive news and media company for kids. Just imagine how does a 10 year old kid would look at the world if he is seeing news tv channels 24x7 with his family everyday.
+There are riots, pandemic, encounters, suicides and youtube is filled with objectionable content so a question arises do our kids really need to see all this?
+Yes, they do need to understand the concept of poverty, depression and pandemic but we don't need to bombard them with all the negative news and Indian parents also don't have an option these channels, newspapers and twitter are the only source for their updates and news.
 
-_**Tech-Stack-Used**_ :   languages or framework used will go here.
+So we want to solve this problem, in simple words:
+We want to build a positive platform for kids to learn new things and see that this world is not bad at all, good things happen everyday here.
+Most kids can hardly read so we have also attached listen news feature with each article and speed of the audio can also be changed.
 
-_**GitHub-Link**_ :   Github project Repository link Goes here (make a blank repository). 
+_**Tech-Stack-Used**_ :   MongoDB, Express, EJS, Node.js, Javascript
+
+_**GitHub-Link**_ :   https://github.com/shivambhatia5432 
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 
@@ -32,102 +39,54 @@ _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submiss
 
 # Member Details
 
-_**No of members**_ : 
+_**No of members**_ : 3
 
 Fill Team Details for only the valid no of members in your team and delete the leftover Template...
 
 ## Leader Details
 
-_**Name**_ :
+_**Name**_ : Aryan Vikas Jain
 
-_**University-Name**_ : 
+_**University-Name**_ : SRM University, Delhi-NCR
 
-_**country**_ :
+_**country**_ : India
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ : MEAN Stack, Machine Learning, Deep Learning
 
-_**Specialization**_ :
+_**Specialization**_ : Machine Learning and Data Science
 
-_**GitHub-ID**_ :  
+_**GitHub-ID**_ :  https://github.com/aryan4avj
 
 ---
 
 ## Member 2 Details
 
-_**Name**_ :
+_**Name**_ :  Shivam Bhatia
 
-_**University-Name**_ : 
+_**University-Name**_ : SRM University, Delhi-NCR
 
-_**country**_ :
+_**country**_ : India
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ : MERN Stack
 
-_**Specialization**_ :
+_**Specialization**_ : Web Development
 
-_**GitHub-ID**_ :   
+_**GitHub-ID**_ :  https://github.com/shivambhatia5432
 
 ---
 
 ## Member 3 Details
 
-_**Name**_ :
+_**Name**_ : Uditanshu Tomar
 
-_**University-Name**_ : 
+_**University-Name**_ : SRM University, Delhi-NCR
 
-_**country**_ :
+_**country**_ : India
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ : MERN Stack
 
-_**Specialization**_ :
+_**Specialization**_ : Web Development
 
-_**GitHub-ID**_ :   
+_**GitHub-ID**_ :  https://github.com/uditanshutomar 
 
 ---
-
-## Member 4 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
----
-
-## Member 5 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
----
-
-## Member 6 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
-
