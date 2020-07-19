@@ -1,6 +1,6 @@
 ---
 type: "team"                                                        
-title: DemoTeam
+title: MangNOVA
 name: "MangNOVA"
 github-link: "https://github.com/the-cross-art/Muni_Tech "
 description: "hello I am Bot Developer"
