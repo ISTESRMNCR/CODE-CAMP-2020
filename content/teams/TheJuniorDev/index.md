@@ -40,8 +40,8 @@ _**University-Name**_ : Mount Carmel School, Chandigarh
 
 _**country**_ : India
  
-_**Technical-Skills**_ : Learns python, Java and has basic knowledge of html, css, and javascript
+_**Technical-Skills**_ : Python, Java, HTML, CSS, Javascript
 
 _**Specialization**_ : Python
 
-_**GitHub-ID**_ :  Nalin-2005
+_**GitHub-ID**_ :  54469875
