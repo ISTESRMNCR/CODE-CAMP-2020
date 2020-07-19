@@ -16,7 +16,7 @@ Hey ! We are Team Utopians. We are here to win. and we also love open source.
 
 ## Project's Overview
 
-_**Theme-Name**_ : Gesture recognition
+_**Theme-Name**_ : Empowering Differently Abled
 
 _**Application-Type**_ :   Desktop application
 
