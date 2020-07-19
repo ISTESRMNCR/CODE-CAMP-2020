@@ -5,9 +5,9 @@ name: "DemoTeam"
 github-link: "https://github.com/ "
 description: "hello I am Bot Developer"
 Team-Quote: ""
-Team_Tech_Stack: ""
-Application_Type: ""
-No_Of_Member: ""
+Team_Tech_Stack: Android Studio
+Application_Type: Android App
+No_Of_Member: 6
 ---
 
 Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
