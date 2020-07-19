@@ -3,7 +3,7 @@ type: "team"
 title: Tstar
 name: "Tstar"
 github-link: "https://github.com/Neelkukreti/CodeCampSubmission.git"
-description: "hello I am Bot Developer"
+description: "hello I am not a Bot Developer trust me"
 Team-Quote: "Making ideas a reality"
 Team_Tech_Stack: "VR"
 Application_Type: "Mobile app"
@@ -39,8 +39,7 @@ _**Tech-Stack-Used**_ :   Unity Game Engine C#
 
 _**GitHub-Link**_ :   https://github.com/Neelkukreti/CodeCampSubmission.git 
 
-_**Hosted-Link**_ :    https://drive.google.com/file/d/1OmgyR80H_UFbu2APdmX_GBf-2ok84uYt/view?usp=sharing
-
+_**Hosted-Link**_ :    N/A
 ---
 
 # Member Details
@@ -79,68 +78,5 @@ _**Specialization**_ : ML
 
 _**GitHub-ID**_ :   https://github.com/tanvi070299
 
----
-
-## Member 3 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :   
-
----
-
-## Member 4 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
----
-
-## Member 5 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
----
-
-## Member 6 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
 
 
