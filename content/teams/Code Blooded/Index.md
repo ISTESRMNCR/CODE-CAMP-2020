@@ -52,7 +52,7 @@ _**country**_ : India
  
 _**Technical-Skills**_ : HTML 5|CSS 3|JAVASCRIPT ES6|JQUERY 
 
-_**Specialization**_ : HTML 5|CSS 3|JAVASCRIPT ES6|PYTHON|C|C++
+_**Specialization**_ : HTML 5|CSS 3|JAVASCRIPT ES6|PYTHON|C|C++ 
 
 _**GitHub-ID**_ :  https://github.com/KaranBengani
 
