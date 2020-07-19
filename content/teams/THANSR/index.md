@@ -16,7 +16,7 @@ Hey ! We are Team THANSR.We are here to compete.We love to code and believe in u
 
 ## Project's Overview
 
-_**Theme-Name**_ :Eradicate Hunger 
+_**Theme-Name**_ : Eradicate Hunger 
 
 _**Application-Type**_ :   Website
 
@@ -25,7 +25,7 @@ Since we all know whenever there is a function there is large quantity of food w
 So we are indulging our innovation into reality by developing a website which will give a platform to all the ngos serving for the former purpose.
 Feed the needy!!
 
-_**Tech-Stack-Used**_ :"Atom,HTML,Javascript,Bootstrap4,CSS,Java Advance,Netbeans,MYSQL,JSP and servelet."
+_**Tech-Stack-Used**_ : Atom,HTML,Javascript,Bootstrap4,CSS,Java Advance,Netbeans,MYSQL,JSP and servelet.
 
 _**GitHub-Link**_ :   https://github.com/hemant3454/coderepo 
 
