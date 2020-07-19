@@ -7,7 +7,7 @@ description: "Hello we are Web Developers"
 Team-Quote: "We just came here for Candy"
 Team_Tech_Stack: "BootStrap, Firebase, HTML, CSS, Javascript"
 Application_Type: "Web Application"
-No_Of_Member: ""
+No_Of_Member: "2"
 ---
 
 Hey ! We are Team The Bug Slayer. We just came here for Candy and we also love open source.
