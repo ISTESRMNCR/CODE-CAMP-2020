@@ -3,8 +3,7 @@ type: "team"
 title: Code Blooded
 name: "Code Blooded"
 github-link: "https://github.com/KaranBengani "
-description: "While("CODE BLOODED"=="BEST TEAM")
-               { printf("we will win");}"
+description: "We are a team of newcomers that accepts New challenges"
 Team-Quote: "Coding is in our Blood"
 Team_Tech_Stack: "HTML5, CSS 3, JAVASCRIPT, JQUERY, SQL, DJANGO, Bootstrap"
 Application_Type: "Website"
