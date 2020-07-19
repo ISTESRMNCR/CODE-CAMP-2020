@@ -2,7 +2,7 @@
 type: "team"                   
 title: Tstar
 name: "Tstar"
-github-link: "https://github.com/Neelkukreti/CodeCampSubmission.git"
+github-link: "https://github.com/Neelkukreti"
 description: "hello I am not a Bot Developer trust me"
 Team-Quote: "Making ideas a reality"
 Team_Tech_Stack: "VR"
@@ -40,6 +40,7 @@ _**Tech-Stack-Used**_ :   Unity Game Engine C#
 _**GitHub-Link**_ :   https://github.com/Neelkukreti/CodeCampSubmission.git 
 
 _**Hosted-Link**_ :    N/A
+
 ---
 
 # Member Details
@@ -77,6 +78,3 @@ _**Technical-Skills**_ : AI, ML , Blockchain , Unity , AR , VR
 _**Specialization**_ : ML
 
 _**GitHub-ID**_ :   https://github.com/tanvi070299
-
-
-
