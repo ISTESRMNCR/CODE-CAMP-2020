@@ -1,7 +1,7 @@
 ---
 type: "team"                                                        
 title: DemoTeam
-name: "MagNOVA"
+name: "MangNOVA"
 github-link: "https://github.com/ "
 description: "hello I am Bot Developer"
 Team-Quote: "Transforming Technology to Transform India"
