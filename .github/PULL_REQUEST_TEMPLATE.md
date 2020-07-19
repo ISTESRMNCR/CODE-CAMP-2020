@@ -7,7 +7,7 @@ This pull request template helps you complete an application to the **CODE CAMP 
 
 ## Select the type of Pull Request
 
-[x] Registration Pull request.
+- [x] Registration Pull request.
 
 [] Submission Pull request.
 
