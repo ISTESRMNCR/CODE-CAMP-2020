@@ -2,7 +2,7 @@
 type: "team"                   
 title: M.A.R.S.S.Z
 name: "M.A.R.S.S.Z"
-github-link: "https://github.com/manahshetty/M.A.R.S.S.Z "
+github-link: "https://github.com/manahshetty/Bamboozled "
 description: "hello I am a Developer"
 Team-Quote: ""
 Team_Tech_Stack: "Python, HTML, CSS, JS, PHP, Bootstrap"
