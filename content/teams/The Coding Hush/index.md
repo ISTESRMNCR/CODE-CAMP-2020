@@ -1,14 +1,11 @@
-
 ---
 type: "team"                                                        
 title: The Coding Hush
 name: "The Coding Hush"
-github-link: "https://github.com/richhaa"
-        
+github-link: "https://github.com/richhaa"        
 description: "We are Web Application developers"
 Team-Quote: "Winners find a way, not a way out!"
-Team_Tech_Stack: "Python, Java, Html5, CSS3, flask, React Js, php, javascript, SQLite-3, MYSQL, Oracle,
-                  SQL server"
+Team_Tech_Stack: "Python, Java, Html5, CSS3, flask, React Js, php, javascript, SQLite-3, MYSQL, Oracle,SQL server"
 Application_Type: "Web Application"
 No_Of_Member: "3"
 ---
@@ -52,8 +49,6 @@ _**Idea-Description**_ :   Hello There , We are Team “The Coding Hush” .We a
 	                   We might not have the experience or the pain they go through on a daily basis but 
                            we do understand it and hence, this web application is our way of empathizing with
                            them.
-
-
 
 
 _**Tech-Stack-Used**_ : Python, Java, Html5, CSS3, flask, React Js, php, javascript, sql lite3, MySql, 
