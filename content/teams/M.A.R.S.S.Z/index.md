@@ -1,24 +1,24 @@
 ---
 type: "team"                   
-title: DemoTeam
-name: "DemoTeam"
+title: MARSSZ Team
+name: "MARSSZ"
 github-link: "https://github.com/ "
-description: "hello I am Bot Developer"
-Team-Quote: ""
-Team_Tech_Stack: ""
-Application_Type: ""
-No_Of_Member: ""
+description: "Game Changers"
+Team-Quote: "We're here to Stay!"
+Team_Tech_Stack: "Spacy, HTML, CSS, JS, Python, PHP"
+Application_Type: "Web Application"
+No_Of_Member: "6"
 ---
 
-Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
+Hey ! We are Team MARSSZ. We are here to win. and we also love open source.
 
 ---
 
 ## Project's Overview
 
-_**Theme-Name**_ : 
+_**Theme-Name**_ : Education
 
-_**Application-Type**_ :   Web Application | Website | Mobile Application (The Application should be hosted and Bundled)
+_**Application-Type**_ :   Web Application
 
 _**Idea-Description**_ :   complete idea description goes here with max 400 words.
 
