@@ -5,7 +5,7 @@ name: "Constant Variables"
 github-link: "https://github.com/rxhxt/R5-Educate-App.git "
 description: "Helping students in developing knowledge"
 Team-Quote: "In it to win it"
-Team_Tech_Stack: "Html, css, bootstrap, materialise, python, flask"
+Team_Tech_Stack: "Html, css, bootstrap, materialise, python, flask , javascript"
 Application_Type: "Website"
 No_Of_Member: "5"
 ---
@@ -20,9 +20,29 @@ _**Theme-Name**_ : Education
 
 _**Application-Type**_ :   Website
 
-_**Idea-Description**_ :    We believe that it's very difficult for students remember everything thats being taught to them and they generally tend to forget some topics after studying it once. Our tool uses text simmarization to provide concise and important notes to the students. Both the teachers and the students can upload their notes or textbook paragraphs and we will minimize upto 60% - 70% of it. We believe that practice is the key to success and that a student needs to practice a topic atleast 3-4 times depending on the difficulty of the topic before they fully grasp the concept. We provide students revision after regular intervals until they start getting better at that topic. We also help teachers schedule their curriculum, teachers can see how much syllabus is to be completed till when, they can see the performance of individual students and the overall performance of the class on our dashboard. The dashboard offered will help students get an overview of their progress.
+_**Idea-Description**_ :   To tackle this problem, our project, R5 Assist is a balance of a classroom-based teaching-learning website and an Analytics based tool beneficial for both students as well as teachers.
+We propose a comprehensive product website with the following features:
+Login/SignUp facility for teachers as well as students. A teacher will be able to view any activity that a student in his/her class does.
+Summarization of various lecture notes provided by the teachers or even uploaded by the student for his/her reference.
+Exhaustive revision tests to validate the performance of candidates based on the topics covered to date using the Fibonacci Study and Revision Plan.
+An interactive dashboard where the students can see their progress and the teacher can view the progress of all the students of the class.
 
-_**Tech-Stack-Used**_ :  Html, css, bootstrap, materialise, python, flask
+The significance of 5 R’s in R5 Assist 
+Resource
+Remember
+Reproduce
+Review
+Reflect
+Our project proves to be a resource for the students where teachers can upload assignments, notes, and many more things.
+It also helps students remember by summarising the content so that students can learn what's most important.
+Our practice tests help students reproduce what they have already learned.
+Students can review their performance from our analytics dashboard, not only that our project also helps teachers review their students' performance, their schedule, and compare results.
+In the end, after reviewing their performance the students can reflect and improve by taking our periodic review practice tests.
+
+Overall we aim to provide a complete platform where we bridge the gap between the traditional classrooms and the online teaching-learning process.
+
+
+_**Tech-Stack-Used**_ :  Html, css, bootstrap, materialise, python, flask, javascript
 
 _**GitHub-Link**_ :  https://github.com/rxhxt/R5-Educate-App.git
 
@@ -41,7 +61,7 @@ Fill Team Details for only the valid no of members in your team and delete the l
 
 *Name* : Himani Gwalani
 
-*University-Name* :  SPPU
+*University-Name* :  Savitribai Phule Pune University
 
 *country* : India
  
