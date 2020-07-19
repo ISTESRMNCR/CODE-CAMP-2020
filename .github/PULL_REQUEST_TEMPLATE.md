@@ -9,7 +9,7 @@ This pull request template helps you complete an application to the **CODE CAMP 
 
 - [x] Registration Pull request.
 
-[] Submission Pull request.
+- [] Submission Pull request.
 
 ## Checklist ✅  
 
