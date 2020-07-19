@@ -1,7 +1,7 @@
 ---
 type: "team"                                                        
-title: DemoTeam
-name: "DemoTeam"
+title: MATRIX
+name: "MATRIX"
 github-link: "https://github.com/ "
 description: "hello I am Bot Developer"
 Team-Quote: ""
