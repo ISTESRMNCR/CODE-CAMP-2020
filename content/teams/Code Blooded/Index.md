@@ -30,7 +30,7 @@ _**Idea-Description**_ :  "People in india are largely unaware of the quality pr
 
 _**Tech-Stack-Used**_ :   HTML5, CSS 3, JAVASCRIPT, JQUERY, SQL, DJANGO, BOOTSTRAP, FONT AWESOME.
 
-_**GitHub-Link**_ :   https://github.com/KaranBengani/CRAFTIFY 
+_**GitHub-Link**_ :   https://github.com/KaranBengani/KRAFTIFY 
 
 _**Hosted-Link**_ :    Hosted link goes here. (Will submit in submission Pull Request)
 
@@ -76,7 +76,7 @@ _**GitHub-ID**_ : https://github.com/sailashreepandab
 
 ## Member 3 Details
 
-_**Name**_ : Shubrha Aggarwal
+_**Name**_ : Shubhra Aggarwal
 
 _**University-Name**_ : SRMIST
 
