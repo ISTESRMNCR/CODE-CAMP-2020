@@ -2,10 +2,10 @@
 type: "team"                                                        
 title: DemoTeam
 name: "MangNOVA"
-github-link: "https://github.com/ "
+github-link: "https://github.com/the-cross-art/Muni_Tech "
 description: "hello I am Bot Developer"
 Team-Quote: "Transforming Technology to Transform India"
-Team_Tech_Stack: ""
+Team_Tech_Stack: "Image Processing,web Application"
 Application_Type: "Web Application/Mobile"
 No_Of_Members: "5"
 ---
@@ -130,19 +130,4 @@ _**Specialization**_ :Full Stack Web Devlopment
 _**GitHub-ID**_ :https://github.com/the-cross-art  
 
 ---
-
-## Member 6 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
 
