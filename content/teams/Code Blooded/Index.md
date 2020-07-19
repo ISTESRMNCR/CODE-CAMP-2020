@@ -28,9 +28,9 @@ _**Idea-Description**_ :  "People in india are largely unaware of the quality pr
                            they can buy it through our online delievery facility."
 
 
-_**Tech-Stack-Used**_ :   HTML5, CSS 3, JAVASCRIPT, JQUERY, SQL, DJANGO, BOOTSTRAP.
+_**Tech-Stack-Used**_ :   HTML5, CSS 3, JAVASCRIPT, JQUERY, SQL, DJANGO, BOOTSTRAP, FONT AWESOME.
 
-_**GitHub-Link**_ :   Github project Repository link Goes here (make a blank repository). 
+_**GitHub-Link**_ :   https://github.com/KaranBengani/CRAFTIFY 
 
 _**Hosted-Link**_ :    Hosted link goes here. (Will submit in submission Pull Request)
 
