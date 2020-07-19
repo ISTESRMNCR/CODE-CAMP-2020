@@ -2,7 +2,7 @@
 type: "team"                                                        
 title: ALPHA Q
 name: "ALPHA Q"
-github-link: "https://github.com/shivambhatia5432/SRM_Hackathon"
+github-link: "https://github.com/TEAM-ALPHA-Q/SRM_HACKATHON"
 description: "Hi, We are a team of Web developers."
 Team-Quote: ""
 Team_Tech_Stack: "MongoDB, Express, EJS, Node.js, Javascript"
@@ -31,9 +31,9 @@ Most kids can hardly read so we have also attached listen news feature with each
 
 _**Tech-Stack-Used**_ :   MongoDB, Express, EJS, Node.js, Javascript
 
-_**GitHub-Link**_ :   https://github.com/shivambhatia5432 
+_**GitHub-Link**_ :   https://github.com/TEAM-ALPHA-Q/ 
 
-_**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
+_**Hosted-Link**_ :   
 
 ---
 
