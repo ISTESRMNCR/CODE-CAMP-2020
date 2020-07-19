@@ -63,7 +63,7 @@ _**Technical-Skills**_ : c/c++, python, js, cyber threat intelligence, basic ML
 
 _**Specialization**_ : B.E Computer Science And Engineering
 
-_**GitHub-ID**_ : appleo11official  
+_**GitHub-ID**_ : https://github.com/appleo11official  
 
 ---
 
@@ -79,7 +79,7 @@ _**Technical-Skills**_ : C/C++,  Python, Java, Web development, Android developm
 
 _**Specialization**_ : B.E Computer Science And Engineering
 
-_**GitHub-ID**_ : hanieljacob   
+_**GitHub-ID**_ : www.github.com/hanieljacob   
 
 ---
 
@@ -95,7 +95,7 @@ _**Technical-Skills**_ : C/C++   python, java, basic ML, HTML, CSS
 
 _**Specialization**_ : B.E Computer Science And Engineering
 
-_**GitHub-ID**_ : jpjosh4   
+_**GitHub-ID**_ : https://github.com/jpjosh4   
 
 ---
 
@@ -111,7 +111,7 @@ _**Technical-Skills**_ :  C/C++,Python,Java,Android
 
 _**Specialization**_ :  B.E Computer Science And Engineering
 
-_**GitHub-ID**_ :  Ashtrix  
+_**GitHub-ID**_ :  https://github.com/Ashtrix  
 
 ---
 
@@ -127,7 +127,7 @@ _**Technical-Skills**_ : C, C++, Java, Networking, Python, HTML
 
 _**Specialization**_ : B.E Computer Science And Engineering
 
-_**GitHub-ID**_ : joshua2705  
+_**GitHub-ID**_ : https://github.com/joshua2705  
 
 ---
 
@@ -143,5 +143,5 @@ _**Technical-Skills**_ : C/C++, Python, JS, HTML, CSS
 
 _**Specialization**_ : B.E Computer Science And Engineering
 
-_**GitHub-ID**_ : Aaraamuthan  
+_**GitHub-ID**_ : https://github.com/Aaraamuthan  
 
