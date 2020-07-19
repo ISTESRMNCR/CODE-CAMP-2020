@@ -20,14 +20,15 @@ _**Theme-Name**_ : Education
 
 _**Application-Type**_ :   Website
 
-_**Idea-Description**_ :   To tackle this problem, our project, R5 Assist is a balance of a classroom-based teaching-learning website and an Analytics based tool beneficial for both students as well as teachers.
-We propose a comprehensive product website with the following features:
+_**Idea-Description**_ :   Since the advent of digital platforms for learning, and their tremendous use due to the current scenario, the students are getting bombarded with a lot of data, making it difficult for them to understand, digest,reproduce and even analyse their progress.
+
+ To tackle this problem, our project, R<sup>5</sup> Assist is a balance of a classroom-based teaching-learning website and an Analytics based tool beneficial for both students as well as teachers. We propose a comprehensive product website with the following features:
 Login/SignUp facility for teachers as well as students. A teacher will be able to view any activity that a student in his/her class does.
 Summarization of various lecture notes provided by the teachers or even uploaded by the student for his/her reference.
 Exhaustive revision tests to validate the performance of candidates based on the topics covered to date using the Fibonacci Study and Revision Plan.
 An interactive dashboard where the students can see their progress and the teacher can view the progress of all the students of the class.
 
-The significance of 5 R’s in R5 Assist 
+The significance of 5 R<sup>s</sup> in R5 Assist 
 Resource
 Remember
 Reproduce
