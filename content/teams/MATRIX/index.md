@@ -4,7 +4,7 @@ title: MATRIX
 name: "MATRIX"
 github-link: "https://github.com/sarthak290/ShopEasy"
 description: "We are team matrix. We are a group of 6 growing developers. By using our technical experience and coding skills we want to contribute to the aatma-nirbhar mission. We wish to help people in this pandemic."
-Team-Quote: ""
+Team-Quote: "Exploration is the engine that drives innovation. Innovation drives economic growth. So let's all go exploring."
 Team_Tech_Stack: "Flutter, Dart, Firebase"
 Application_Type: "Flutter Mobile Application"
 No_Of_Members: "6"
