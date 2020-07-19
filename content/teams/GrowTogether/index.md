@@ -52,7 +52,7 @@ _**Technical-Skills**_ : App building
 
 _**Specialization**_ : application building
 
-_**GitHub-ID**_ :  Bhavi-Khator
+_**GitHub-ID**_ :  https://github.com/Bhavi-Khator
 
 ---
 
@@ -68,7 +68,7 @@ _**Technical-Skills**_ : App building
 
 _**Specialization**_ : UI
 
-_**GitHub-ID**_ :   Shamoyeeta
+_**GitHub-ID**_ :   https://github.com/Shamoyeeta
 
 ---
 
@@ -84,7 +84,7 @@ _**Technical-Skills**_ : App building
 
 _**Specialization**_ : Non SQL database
 
-_**GitHub-ID**_ :   pranavi79
+_**GitHub-ID**_ :   https://github.com/pranavi79
 
 ---
 
