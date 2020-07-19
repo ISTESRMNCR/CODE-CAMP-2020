@@ -2,7 +2,7 @@
 type: "team"                   
 title: "Constant Variables"
 name: "Constant Variables"
-github-link: "https://github.com/rxhxt/R5-Educate-App.git "
+github-link: "https://github.com/rxhxt "
 description: "Helping students in developing knowledge"
 Team-Quote: "In it to win it"
 Team_Tech_Stack: "Html, css, bootstrap, materialise, python, flask , javascript"
@@ -62,17 +62,17 @@ Fill Team Details for only the valid no of members in your team and delete the l
 
 ## Leader Details
 
-*Name* : Himani Gwalani
+*Name* : Rohit Nagotkar
 
-*University-Name* :  Savitribai Phule Pune University
+*University-Name* : Savitribai Phule Pune University
 
 *country* : India
  
-*Technical-Skills* : HTML, CSS, JS, ReactJS, Python, C++, C, SQL, MongoDB
+*Technical-Skills* : C |C++|Python|Flask
 
-*Specialization* : Business Intelligence and Analytics, Cpp
+*Specialization* : Python
 
-*GitHub-ID* : 36113199
+*GitHub-ID* : https://github.com/rxhxt
 
 ---
 
@@ -88,23 +88,24 @@ Fill Team Details for only the valid no of members in your team and delete the l
 
 *Specialization* : C |C++|Python
 
-*GitHub-ID* : 50925060
+*GitHub-ID* : https://github.com/jineshparakh
 
 ---
 
 ## Member 3 Details
 
-*Name* : Rohit Nagotkar
 
-*University-Name* : Savitribai Phule Pune University
+*Name* : Himani Gwalani
+
+*University-Name* :  Savitribai Phule Pune University
 
 *country* : India
  
-*Technical-Skills* : C |C++|Python|Flask
+*Technical-Skills* : HTML, CSS, JS, ReactJS, Python, C++, C, SQL, MongoDB
 
-*Specialization* : Python
+*Specialization* : Business Intelligence and Analytics, Cpp
 
-*GitHub-ID* :42618865
+*GitHub-ID* : https://github.com/HimaniGW
 
 ---
 
@@ -120,7 +121,7 @@ Fill Team Details for only the valid no of members in your team and delete the l
 
 *Specialization* : C |Java|Python
 
-*GitHub-ID* : 48618975
+*GitHub-ID* : https://github.com/VedantKP
 
 ---
 
@@ -136,7 +137,7 @@ Fill Team Details for only the valid no of members in your team and delete the l
 
 *Specialization* : C++|Python
 
-*GitHub-ID* : 53872993
+*GitHub-ID* : https://github.com/manasbede
 
 ---
 
