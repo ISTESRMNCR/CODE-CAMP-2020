@@ -18,7 +18,7 @@ Hey ! I am Team TechBrave. I am here to win. and I also love open source.
 
 _**Theme-Name**_ : Aiding Small Businesses
 
-_**Application-Type**_ :   Web Application | Website (The Application should be hosted and Bundled)
+_**Application-Type**_ : Website (The Application should be hosted and Bundled)
 
 _**Idea-Description**_ : With rise in covid-19 , many countries's small businesses are shutting and many Startups are struggling to survive in this pandamic . As more people are not buying things as often or many people are not going to public places for buying things as these are crowded , some people are not wearing mask . My idea is to promote social-distancing by providing token system booking slots in nearby shops where customers can book a slot. Eradicates crowd in the shop counters and promotes social-distancing.
 And for nearby shops if someone does not want delivery at home , they can book their goods online and pay also , then they can to go the shop tell the OPT and take home thier goods. This is increase customers safety as well as increase no. of customers for that shops . I am strongly focused to keep running of small business for Our Indian Economy 
