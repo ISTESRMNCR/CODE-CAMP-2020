@@ -22,9 +22,9 @@ _**Application-Type**_ :   Website
 
 _**Idea-Description**_ :   complete idea description goes here with max 400 words.
 
-_**Tech-Stack-Used**_ :   languages or framework used will go here.
+_**Tech-Stack-Used**_ :   Python, HTML, CSS, JavaScript, PHP
 
-_**GitHub-Link**_ :   Github project Repository link Goes here (make a blank repository). 
+_**GitHub-Link**_ :   https://github.com/manahshetty/Bamboozled 
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 
