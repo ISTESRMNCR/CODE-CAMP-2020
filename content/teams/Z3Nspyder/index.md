@@ -41,7 +41,7 @@ _**Tech-Stack-Used**_ :   Android, Google Firebase, Java
 
 _**GitHub-Link**_ :   https://github.com/Z3nSpyder/B2p
 
-_**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
+_**Hosted-Link**_ :    N/A
 
 ---
 
