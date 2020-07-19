@@ -5,7 +5,7 @@ name: "Manikant Rai"
 github-link: "https://github.com/Manikant25"
 description: "Hello, I am full stack web developer in MERN stack with litle experience. I have made small websites and web aplications . Other than that I know itermediate ML in supervised learning . At last I know C,C++ and python "
 Team-Quote: "Small opportunities are often the begining of great enterprises"
-Team_Tech_Stack: "I am alone so not required"
+Team_Tech_Stack: "MERN"
 Application_Type: "Solo"
 No_Of_Member: "1"
 ---
@@ -25,7 +25,7 @@ And for nearby shops if someone does not want delivery at home , they can book t
 
 _**Tech-Stack-Used**_ : MERN Stack , HTML,CSS,Bootrap 4, Javascript, Jquery, NodeJs, Python , Java
 
-_**GitHub-Link**_ :  https://github.com/Manikant25/Abiding-Small-Business.git
+_**GitHub-Link**_ :  https://github.com/Manikant25/Aiding-Small-Business.git
 
 _**Hosted-Link**_ :    Hosted link goes here. (Will submit in submission Pull Request)
 
