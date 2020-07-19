@@ -1,16 +1,16 @@
 ---
 type: "team"                   
-title: DemoTeam
-name: "DemoTeam"
-github-link: "https://github.com/ "
-description: "hello I am Bot Developer"
-Team-Quote: ""
-Team_Tech_Stack: ""
+title: GrowTogether app
+name: "GrowTogether"
+github-link: "https://github.com/pranavi79/grow-together-app "
+description: "An app to connect NGO's/individuals directly to volunteers"
+Team-Quote: "Commit to making lives better"
+Team_Tech_Stack: "Java,XML,Dart,Flutter"
 Application_Type: "app"
 No_Of_Member: "3"
 ---
 
-Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
+Hey ! We are here to make new things!
 
 ---
 
