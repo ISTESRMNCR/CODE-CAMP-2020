@@ -2,14 +2,11 @@
 type: "team"                   
 title: codeAR
 name: "codeAR"
-
 github-link: "https://github.com/arnav-snowleo/ScannerApp "
-
 description: "Flutter App Developers"
 Team-Quote: "codeforgood"
 Team_Tech_Stack: "Flutter"
 Application_Type: "Mobile App"
-
 No_Of_Member: "2"
 ---
 
