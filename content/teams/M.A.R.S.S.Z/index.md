@@ -60,7 +60,7 @@ _**University-Name**_ : PES University
 
 _**country**_ : India
  
-_**Technical-Skills**_ : Python, C, R, NLP, SQL, Frontend Developer
+_**Technical-Skills**_ : Python, C, R, NLP, SQL, Data Science, Frontend Developer
 
 _**Specialization**_ : C
 
@@ -124,9 +124,9 @@ _**University-Name**_ : PES University
 
 _**country**_ : India
  
-_**Technical-Skills**_ : Python, C, Backend Developer
+_**Technical-Skills**_ : Machine Learning, Data Science, Python, C, Backend Developer
 
-_**Specialization**_ : Backend Developer
+_**Specialization**_ : Machine Learning
 
 _**GitHub-ID**_ :  Zeeshan-Khan75
 
