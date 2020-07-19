@@ -1,19 +1,16 @@
 ---
 type: "team"                                                        
 title: THANSR
-name: "THANSR"
-github-link: "https://github.com/hemant3454/coderepo"
-description: "Since we are going through pandemic the condition of poors have become worse then earlier as we all are noticing these things in televisions , social media so we are giving the NGO 's a platform to serve for those who don't have food  to eat.
-Since we all know whenever there is a function there is large quantity of food which gets wasted so rather than throwing in the garbage bins we can utilise that food by feeding poors and help them to survive the pandemic and even after that.
-So we are indulging our innovation into reality by developing a website which will give a platform to all the ngos serving for the former purpose.
-Feed the needy!!"
+name: THANSR
+github-link: https://github.com/hemant3454/coderepo
+description: We are team "THANSR".A group of 6 coders and Innovators.Using our Technical and Social Experience we decided to use the coding skills in this initiative.This is a team that runs behind the needies ,So needies doesn't have to run behind anyone.
 Team-Quote: "When fate hands us Innovation , Lets vanish the Hunger!!"
-Team_Tech_Stack: "Atom,HTML,Javascript,Bootstrap4,CSS,Java Advance,Netbeans,MYSQL,JSP and servelet."
-Application_Type: "Web design"
+Team_Tech_Stack: Atom,HTML,Javascript,Bootstrap4,CSS,Java Advance,Netbeans,MYSQL,JSP and servelet.
+Application_Type: Web design
 No_Of_Members: "6"
 ---
 
-Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
+Hey ! We are Team THANSR.We are here to compete.We love to code and believe in unique creations.
 
 ---
 
@@ -23,10 +20,10 @@ _**Theme-Name**_ :Eradicate Hunger
 
 _**Application-Type**_ :   Website
 
-_**Idea-Description**_ :  "Since we are going through pandemic the condition of poors have become worse then earlier as we all are noticing these things in televisions , social media so we are giving the NGO 's a platform to serve for those who don't have food  to eat.
+_**Idea-Description**_ :  Since we are going through pandemic the condition of poors have become worse then earlier as we all are noticing these things in televisions , social media so we are giving the NGO 's a platform to serve for those who don't have food  to eat.
 Since we all know whenever there is a function there is large quantity of food which gets wasted so rather than throwing in the garbage bins we can utilise that food by feeding poors and help them to survive the pandemic and even after that.
 So we are indulging our innovation into reality by developing a website which will give a platform to all the ngos serving for the former purpose.
-Feed the needy!!"
+Feed the needy!!
 
 _**Tech-Stack-Used**_ :"Atom,HTML,Javascript,Bootstrap4,CSS,Java Advance,Netbeans,MYSQL,JSP and servelet."
 
