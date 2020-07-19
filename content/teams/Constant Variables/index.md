@@ -28,12 +28,12 @@ Summarization of various lecture notes provided by the teachers or even uploaded
 Exhaustive revision tests to validate the performance of candidates based on the topics covered to date using the Fibonacci Study and Revision Plan.
 An interactive dashboard where the students can see their progress and the teacher can view the progress of all the students of the class.
 
-The significance of 5 R<sup>s</sup> in R5 Assist 
-Resource
-Remember
-Reproduce
-Review
-Reflect
+The significance of 5 R's in R<sup>5</sup> Assist 
+- Resource
+- Remember
+- Reproduce
+- Review
+- Reflect
 Our project proves to be a resource for the students where teachers can upload assignments, notes, and many more things.
 It also helps students remember by summarising the content so that students can learn what's most important.
 Our practice tests help students reproduce what they have already learned.
