@@ -57,7 +57,7 @@ _**Technical-Skills**_ : Python, OpenCV, NLP, Frontend Developer
 
 _**Specialization**_ : Python
 
-_**GitHub-ID**_ :  Araz1103
+_**GitHub-ID**_ :  https://github.com/Araz1103
 
 ---
 
@@ -73,7 +73,7 @@ _**Technical-Skills**_ : Python, C, R, NLP, SQL, Data Science, Frontend Develope
 
 _**Specialization**_ : C
 
-_**GitHub-ID**_ :  manahshetty 
+_**GitHub-ID**_ :  https://github.com/manahshetty 
 
 ---
 
@@ -89,7 +89,7 @@ _**Technical-Skills**_ : Python, C, Frontend Developer
 
 _**Specialization**_ : Frontend Developer
 
-_**GitHub-ID**_ :   RudraBaksi
+_**GitHub-ID**_ :   https://github.com/RudraBaksi
 
 ---
 
@@ -105,7 +105,7 @@ _**Technical-Skills**_ : Python, C, Data Science, Frontend Developer
 
 _**Specialization**_ : Frontend Developer
 
-_**GitHub-ID**_ :  Saurav51
+_**GitHub-ID**_ :  https://github.com/Saurav51
 
 ---
 
@@ -121,7 +121,7 @@ _**Technical-Skills**_ : Python, C, R, Frontend Developer
 
 _**Specialization**_ : Frontend Developer
 
-_**GitHub-ID**_ :  shreyashukla-26
+_**GitHub-ID**_ :  https://github.com/shreyashukla-26
 
 ---
 
@@ -137,6 +137,6 @@ _**Technical-Skills**_ : Machine Learning, Data Science, Python, C, Backend Deve
 
 _**Specialization**_ : Machine Learning
 
-_**GitHub-ID**_ :  Zeeshan-Khan75
+_**GitHub-ID**_ :  https://github.com/Zeeshan-Khan75
 
 
