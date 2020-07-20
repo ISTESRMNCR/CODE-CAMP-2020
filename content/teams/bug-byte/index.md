@@ -16,7 +16,7 @@ Hey ! We are Team bug-byte. We are here to win. and we also love open source.
 
 ## Project's Overview 
 
-_**Theme-Name**_ : develope for good
+_**Theme-Name**_ : atmanirbhar bharat
 
 _**Application-Type**_ :   vs code|pg admin|
 
@@ -63,7 +63,7 @@ _**Technical-Skills**_ :full stack
 
 _**Specialization**_ :backend
 
-_**GitHub-ID**_ :   
+_**GitHub-ID**_ :  prashant19may 
 
 ---
 
@@ -79,54 +79,4 @@ _**Technical-Skills**_ :frontend
 
 _**Specialization**_ :frontend
 
-_**GitHub-ID**_ :   
-
----
-
-## Member 4 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
----
-
-## Member 5 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
----
-
-## Member 6 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
-
+_**GitHub-ID**_ :   usernameofpuneet
