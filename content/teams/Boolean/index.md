@@ -1,9 +1,9 @@
 ---
 type: "team"                   
-title: DemoTeam
-name: "DemoTeam"
+title: Boolean
+name: "Boolean"
 github-link: "https://github.com/ "
-description: "hello I am Bot Developer"
+description: "Students of Shaheed Rajguru College of Applied Sciences for Women, Delhi University"
 Team-Quote: ""
 Team_Tech_Stack: ""
 Application_Type: ""
