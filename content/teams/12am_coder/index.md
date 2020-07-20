@@ -4,13 +4,13 @@ title: 12am_coder
 name: "shantanu Raut"
 github-link: "https://github.com/s4shantanu"
 description: "Hi, I am beginner in Web developing."
-Team-Quote: ""
-Team_Tech_Stack: ""
+Team-Quote: "i love web devlopment"
+Team_Tech_Stack: "HTML,CSS"
 Application_Type: "Web Application"
-No_Of_Member: ""
+No_Of_Member: "1"
 ---
 
-Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
+Hii ! I am shantanu (12am_coder). I'm here to win and also love web development.
 
 ---
 
@@ -18,7 +18,7 @@ Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
 
 _**Theme-Name**_ : Education
 
-_**Application-Type**_ :   Web Application | Website 
+_**Application-Type**_ :   Website 
 
 _**Idea-Description**_ :   Beginners like us need a lot of project for practice, If there is such a community build, then let us all add and provide free projects to beginners like me and we all are work on them and submit the work. Then launch them which one is good.
 The advantage of that the knowledge of upcoming students is well provide and they give such healthy information for studies, also increase the experience by working on new project full of knowledge, which will help them in future..
@@ -33,9 +33,8 @@ _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submiss
 
 # Member Details
 
-_**No of members**_ : 0
+_**No of members**_ : 1
 
-Fill Team Details for only the valid no of members in your team and delete the leftover Template...
 
 ## Leader Details
 
