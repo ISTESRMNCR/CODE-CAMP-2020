@@ -1,4 +1,3 @@
-
 ---
 type: "team"                   
 title: quadCore
@@ -35,8 +34,6 @@ _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submiss
 # Member Details
 
 _**No of members**_ : 4
-
-
 
 ## Leader Details
 
