@@ -2,7 +2,7 @@
 type: "team"                   
 title: Tycoons
 name: "Tycoons"
-github-link: "https://github.com/ "
+github-link: "https://github.com/rishiagrawal2609/studymate_online"
 description: " Revolutionizing the Education Infrastructure "
 Team-Quote: "Develop and nurture the ideas through teamwork"
 Team_Tech_Stack: "WEB-DEV,FLUTTER,ML/DL,DESIGN,VERSION CONTROL"
@@ -18,13 +18,13 @@ Hey ! We are Team Tycoons. We are here to win. and we also love open source. We 
 
 _**Theme-Name**_ : Education
 
-_**Application-Type**_ :  APP
+_**Application-Type**_ : web app
 
-_**Idea-Description**_ :  
+_**Idea-Description**_ :  Studymate_online is a cross platform application in which we are trying to help students as well as teacher to provide a unified platform teaching and Learning. We are going to add features like Video Calling, Test format from which cheating can be reduced, results and many other acadamic needs which are required.
 
-_**Tech-Stack-Used**_ :   languages or framework used will go here.
+_**Tech-Stack-Used**_ : Flutter,Python,Dart
 
-_**GitHub-Link**_ :   Github project Repository link Goes here (make a blank repository). 
+_**GitHub-Link**_ :   https://github.com/rishiagrawal2609/studymate_online
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 
@@ -32,102 +32,85 @@ _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submiss
 
 # Member Details
 
-_**No of members**_ : 
-
-Fill Team Details for only the valid no of members in your team and delete the leftover Template...
+_**No of members**_ : 5
 
 ## Leader Details
 
-_**Name**_ :
+_**Name**_ : LAXMENDRA GURJAR
 
-_**University-Name**_ : 
+_**University-Name**_ : SRMIST(Ramapuram)
 
-_**country**_ :
+_**country**_ : INDIA
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ :C, C++, Python,  HTML5, CSS3, DART.
 
-_**Specialization**_ :
+_**Specialization**_ : Penetration testing and software development.
 
-_**GitHub-ID**_ :  
+_**GitHub-ID**_ :  https://github.com/VICTOR4046
 
 ---
 
 ## Member 2 Details
 
-_**Name**_ :
+_**Name**_ :  Dakshendra Singh
 
-_**University-Name**_ : 
+_**University-Name**_ : SRMIST(RAMAPURAM) 
 
-_**country**_ :
+_**country**_ : INDIA
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ :C,C++,HTML,CSS,BOOTSTRAP,PHP,DART
 
-_**Specialization**_ :
+_**Specialization**_ :WEB DEVLOPMENT
 
-_**GitHub-ID**_ :   
+_**GitHub-ID**_ :  https://github.com/daksh80
 
 ---
 
 ## Member 3 Details
 
-_**Name**_ :
+_**Name**_ : Rishi Agrawal
 
-_**University-Name**_ : 
+_**University-Name**_ : SRMIST(Ramapuram)
 
-_**country**_ :
+_**country**_ : Indian
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ : ML/DL/RL, C ,Python,FLutter,Android Development
 
-_**Specialization**_ :
+_**Specialization**_ : NEURAL NETS and App devlopment
 
-_**GitHub-ID**_ :   
+_**GitHub-ID**_ :    https://github.com/rishiagrawal2609/
 
 ---
 
 ## Member 4 Details
 
-_**Name**_ :
+_**Name**_ : Piyush Mohanta
 
-_**University-Name**_ : 
+_**University-Name**_ : SRMIST (RAMAPURAM)
 
-_**country**_ :
+_**country**_ :  INDIA
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ : MySQL, JAVA, HTML, CSS
 
-_**Specialization**_ :
+_**Specialization**_ : Website Designing and UI Development
 
-_**GitHub-ID**_ :  
+_**GitHub-ID**_ :   https://github.com/piyushmohanta9
 
 ---
 
 ## Member 5 Details
 
-_**Name**_ :
+_**Name**_ : Parth Sardana
 
-_**University-Name**_ : 
+_**University-Name**_ : SRMIST(Ramapuram)
 
-_**country**_ :
+_**country**_ : India
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ : Java, Design UI, Android Development
 
-_**Specialization**_ :
+_**Specialization**_ : java and UI design
 
-_**GitHub-ID**_ :  
+_**GitHub-ID**_ :  https://github.com/parthsardana
 
 ---
-
-## Member 6 Details
-
-_**Name**_ :
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
 
