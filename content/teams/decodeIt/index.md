@@ -28,7 +28,7 @@ _**Tech-Stack-Used**_ :   Django, python
 
 _**GitHub-Link**_ :   https://github.com/swathi-vennela/eradicateHunger 
 
-_**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
+_**Hosted-Link**_ :  Hosted link of project goes here. (Will submit in submission Pull Request)
 
 ---
 
@@ -50,7 +50,7 @@ _**Technical-Skills**_ : Web development
 
 _**Specialization**_ : CSE UNdergrad at IIIT Sricity
 
-_**GitHub-ID**_ :  swathi-vennela
+_**GitHub-ID**_ :  https://github.com/swathi-vennela
 
 ---
 
