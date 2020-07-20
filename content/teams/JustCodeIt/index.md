@@ -2,7 +2,7 @@
 type: "team"                   
 title: JustCodeIt
 name: "JustCodeIt"
-github-link: "https://github.com/ "
+github-link: "https://github.com/JustCodeIt "
 description: "hello I am Application Developer"
 Team-Quote: "just do it"
 Team_Tech_Stack: "Java, Android Studio, Firebase "
