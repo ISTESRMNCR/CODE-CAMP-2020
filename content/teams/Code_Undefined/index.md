@@ -53,7 +53,7 @@ _**Technical-Skills**_ : C/C++, Python, Java, HTML, CSS, Javascript, jquery, JSO
 
 _**Specialization**_ : Full Stack Web Development
 
-_**GitHub-ID**_ :  jatinkumar027
+_**GitHub-ID**_ :  https://github.com/jatinkumar027
 
 ---
 
@@ -69,7 +69,7 @@ _**Technical-Skills**_  HTML, CSS, AngularJS, Flutter
 
 _**Specialization**_ : Cloud Computing
 
-_**GitHub-ID**_ : tapas-baranwal  
+_**GitHub-ID**_ : https://github.com/tapas-baranwal  
 
 ---
 
@@ -85,7 +85,7 @@ _**Technical-Skills**_ : HTML, CSS, Javascript, PHP, Python, Java, C/C++
 
 _**Specialization**_ : Full Stack Web Development
 
-_**GitHub-ID**_ : ishwar2303
+_**GitHub-ID**_ : https://github.com/ishwar2303
 
 ---
 
@@ -101,7 +101,7 @@ _**Technical-Skills**_ : Python, Django, HTML, MySQL, C/C++
 
 _**Specialization**_ : Back-end Web Development
 
-_**GitHub-ID**_ :  pragya7ag
+_**GitHub-ID**_ :  https://github.com/pragya7ag
 
 ---
 
@@ -117,7 +117,7 @@ _**Technical-Skills**_ : HTML, CSS, Javascript, PHP
 
 _**Specialization**_ : Frond-End Web Development
 
-_**GitHub-ID**_ : piyush1321
+_**GitHub-ID**_ : https://github.com/piyush1321
 
 ---
 
@@ -133,4 +133,4 @@ _**Technical-Skills**_ : HTML, CSS, Javascript
 
 _**Specialization**_ : Cybersecurity
 
-_**GitHub-ID**_ : samarthtandon
+_**GitHub-ID**_ : https://github.com/samarthtandon
