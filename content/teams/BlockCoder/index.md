@@ -4,7 +4,7 @@ title: BlockCoder
 name: "BlockCoder"
 github-link: "https://github.com/ajinkyabrahmankar"
 description: "Blockchain enthusiast"
-Team-Quote: ""
+Team-Quote: "Chaining it all"
 Team_Tech_Stack: "Blockchain"
 Application_Type: "Web Application"
 No_Of_Member: "1"
