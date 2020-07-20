@@ -15,11 +15,12 @@ Hey ! We are Team Boolean
 
 ## Project's Overview
 
-_**Theme-Name*AtmaNirbhar Bharat*_ : 
+_**Theme-Name*  AtmaNirbhar Bharat*_ : 
 
 _**Application-Type**_ :   Mobile Application (The Application should be hosted and Bundled)
 
-_**Idea-Description**_ :   Vishesh an application for special parents
+_**Idea-Description**_ :   Vishesh an application for 'special parents'
+
 Every life is a gift of god and every child is blessed in a special way.The differently-abled children somehow,are  unable to explore themselves and the broader horizons of life.Not only the child but also the parents are subject to various challenges when it comes to the parenting of a differently-abled child.It is now high time to utilise the emerging technological advancements to provide them myriads of opportunities so that they grow,prosper and lead an independent life breaking all barriers. 
 
 Our Solution:
@@ -27,10 +28,15 @@ Catering to the problem stated above, we came up with an idea of app/platform fo
 
 Features in the application:
 Our Application will be a one stop destination for all the know-abouts for differently-abled people.
+
 1.User authentication on both sides: Application will ensure that both end users (Special child and Organization) are verified/genuine, which can be attained through the checking of the uploaded proofs of identification during signing-up and providing login credentials only to those who are verified.
+
 2.Information regarding the special schools: Application will provide the contact information about the school, their address,he fees they charge,their admission procedure.
+
 3.Information regarding the Schemes provided by the Government: We will be providing the information about all the schemes and benefits government has allotted for them.We will also include various scholarships for the kids who perform extraordinarily well in their academics or extra-curriculars. 
+
 4.Information about the NGOs: This platform would make differently-abled people contact the NGOs who work consistently for their empowerment by providing opportunities in the field of vocational training like tailoring,candle making,chocolate making,data entry etc.
+
 5.Emergency calling facility to the doctors in vicinity: Whenever there is a health emergency, there is a way to get help quickly.Also,they can find doctors for regular consultation.
 
 Future Prospects:
