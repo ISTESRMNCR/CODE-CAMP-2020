@@ -16,7 +16,7 @@ Hey ! We are Team JustCodeIt. We are here to win. and we also love open source.
 
 ## Project's Overview
 
-_**Theme-Name**_ : Yoga Fitness App
+_**Theme-Name**_ : Aatma-Nirbhar Bharat
 
 _**Application-Type**_ :   Mobile Application (The Application should be hosted and Bundled)
 
