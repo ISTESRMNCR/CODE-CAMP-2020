@@ -1,16 +1,16 @@
 ---
 type: "team"                   
-title: Code_Undefined
-name: "Code_Undefined"
+title: Scope_Undefined
+name: "Scope_Undefined"
 github-link: "https://github.com/ "
-description: "Discovering Light in the Darkest Place is not that easy. We have to push our boundaries and change our limits from defined to undefined. That's what Team Code_Undefined do. "
+description: "Discovering Light in the Darkest Place is not that easy. We have to push our boundaries and change our limits from defined to undefined. That's what Team Scope_Undefined do. "
 Team-Quote: "Finding the Possibility"
 Team_Tech_Stack: "HTML, CSS, PHP, Javascript, jquery, JSON, MySQL, Python, C/C++, Java"
 Application_Type: "Web-Application"
 No_Of_Member: "6"
 ---
 
-Hey ! We are Team Code_Undefined. We are here to win. and we also love open source.
+Hey ! We are Team Scope_Undefined. We are here to win. and we also love open source.
 
 ---
 
