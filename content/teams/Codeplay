@@ -1,10 +1,10 @@
 ---
 type: "team"                   
-title: DemoTeam
+title: Codeplay
 name: "Codeplay"
 github-link: " https://github.com/adrikagupta "
-description: ""
-Team-Quote: ""
+description: "We aspire to get better everyday and help others using technology as much as possible."
+Team-Quote: "In love with coding."
 Team_Tech_Stack: "Flutter,Firebase"
 Application_Type: "Web and App"
 No_Of_Member: "2"
