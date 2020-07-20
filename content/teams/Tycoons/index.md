@@ -72,11 +72,11 @@ _**Name**_ : Rishi Agrawal
 
 _**University-Name**_ : SRMIST(Ramapuram)
 
-_**country**_ : Indian
+_**country**_ : India
  
 _**Technical-Skills**_ : ML/DL/RL, C ,Python,FLutter,Android Development
 
-_**Specialization**_ : NEURAL NETS and App devlopment
+_**Specialization**_ : App devlopment and backend, AI and Deep learning
 
 _**GitHub-ID**_ :    https://github.com/rishiagrawal2609/
 
