@@ -16,7 +16,7 @@ Hey ! We are Team Freaks. We are here to win. and we also love open source. We a
 
 ## Project's Overview
 
-_**Theme-Name**_ : 
+_**Theme-Name**_ : AtmaNirbhar Bharat
 
 _**Application-Type**_ :   Web Application
 
@@ -32,7 +32,7 @@ _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submiss
 
 # Member Details
 
-_**No of members**_ : 
+_**No of members**_ :  3
 
 Fill Team Details for only the valid no of members in your team and delete the leftover Template...
 
