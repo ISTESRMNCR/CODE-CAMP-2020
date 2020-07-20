@@ -115,7 +115,7 @@ _**country**_ : India
  
 _**Technical-Skills**_ : PYTHON|DJANGO|SQL
 
-_**Specialization**_ : HTML 5|CSS 3|PYTHON
+_**Specialization**_ : HTML 5|CSS 3|PYTHON .
 
 _**GitHub-ID**_ :  https://github.com/MrNenoo
 
