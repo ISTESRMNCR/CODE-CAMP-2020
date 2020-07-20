@@ -22,15 +22,13 @@ const BlogIndex = ({ data, location }) => {
         
         <div style={{ paddingTop:0, marginTop:0, textAlign:"center"}}> 
         <ComponentBox 
-          subInfo="Check Now"
-          buttonLink="/theme" 
+          subInfo="Here"
+          buttonLink="/teams" 
             headline = "Welcome to Code Camp Arena 🎉"
-            info="Themes for Hackathon Code Camp 1.0 has been released"
+            info="Hack Day 1 Started. And registrations are closed. Visit registered Teams "
           />
           <ComponentBox 
-          subInfo="Making Pull Request Guide"
-          buttonLink="/makingRegistration" 
-            info="Now Teams are Requested to Fork The Repository and be ready with your Pull Requests. To see how to create Pull Request Visit here."
+            info="Now Teams are Requested to build their projects. And keep updating their project's Github repository on daily basis."
           />
           <ComponentBox 
             subInfo="ISSUE SECTION FOR CODE CAMP"
