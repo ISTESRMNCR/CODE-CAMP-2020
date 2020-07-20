@@ -7,7 +7,7 @@ description: "hello I am Application Developer"
 Team-Quote: "just do it"
 Team_Tech_Stack: "Java, Android Studio, Firebase "
 Application_Type: "Application"
-No_Of_Member: ""
+No_Of_Member: "3"
 ---
 
 Hey ! We are Team JustCodeIt. We are here to win. and we also love open source.
@@ -24,7 +24,7 @@ _**Idea-Description**_ :   The restricted travel, panic over the risk of infecti
 
 _**Tech-Stack-Used**_ :   Java, Android Studio
 
-_**GitHub-Link**_ :   https://github.com/iamanantshukla/JustCodeIt/tree/master
+_**GitHub-Link**_ :   https://github.com/iamanantshukla/JustCodeIt
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 
@@ -32,9 +32,8 @@ _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submiss
 
 # Member Details
 
-_**No of members**_ :
+_**No of members**_ :3
 
-3
 
 ## Leader Details
 
@@ -61,7 +60,7 @@ _**country**_ : India
 
 _**Technical-Skills**_ : Backend
 
-_**Specialization**_ :
+_**Specialization**_ : Backend
 
 _**GitHub-ID**_ :   https://github.com/Devashish77
 
@@ -77,54 +76,8 @@ _**country**_ : India
 
 _**Technical-Skills**_ : Backend
 
-_**Specialization**_ :
+_**Specialization**_ : Backend
 
 _**GitHub-ID**_ :   https://github.com/MK4070
 
 ---
-
-## Member 4 Details
-
-_**Name**_ :
-
-_**University-Name**_ :
-
-_**country**_ :
-
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
----
-
-## Member 5 Details
-
-_**Name**_ :
-
-_**University-Name**_ :
-
-_**country**_ :
-
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
----
-
-## Member 6 Details
-
-_**Name**_ :
-
-_**University-Name**_ :
-
-_**country**_ :
-
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
