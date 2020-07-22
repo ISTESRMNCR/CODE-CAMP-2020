@@ -41,7 +41,7 @@ Conclusion :
 
 _**Tech-Stack-Used**_ :   Android, Googl Firebase, Java
 
-_**GitHub-Link**_ :   https://github.com/Z3nSpyder/B2p
+<!-- _**GitHub-Link**_ :   https://github.com/Z3nSpyder/B2p -->
 
 _**Hosted-Link**_ :    N/A
 

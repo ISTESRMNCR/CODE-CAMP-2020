@@ -25,7 +25,7 @@ The advantage of that the knowledge of upcoming students is well provide and the
 
 _**Tech-Stack-Used**_ :   HTML,CSS.
 
-_**GitHub-Link**_ :   https://github.com/s4shantanu/12am_coder.git . 
+<!-- _**GitHub-Link**_ :   https://github.com/s4shantanu/12am_coder.git .  -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

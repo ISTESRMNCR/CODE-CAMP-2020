@@ -31,7 +31,7 @@ This will remain the key differentiator and the reason why Kirana, dairy and med
 
 _**Tech-Stack-Used**_ :   HTML, CSS, Javascript, jquery, JSON, PHP, MySQL
 
-_**GitHub-Link**_ :  https://github.com/jatinkumar027/Zarurat.in
+<!-- _**GitHub-Link**_ :  https://github.com/jatinkumar027/Zarurat.in -->
 
 _**Hosted-Link**_ :    (Will submit in submission Pull Request)
 

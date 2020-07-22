@@ -24,7 +24,7 @@ _**Idea-Description**_ :  We plan to build an application that'll let users sear
 
 _**Tech-Stack-Used**_ :  HTML, CSS, Vanilla JS, Mongo DB, Flask
 
-_**GitHub-Link**_ :   https://github.com/nitin10s/vocalforlocal
+<!-- _**GitHub-Link**_ :   https://github.com/nitin10s/vocalforlocal -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

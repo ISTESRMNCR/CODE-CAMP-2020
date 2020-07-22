@@ -25,7 +25,7 @@ And for nearby shops if someone does not want delivery at home , they can book t
 
 _**Tech-Stack-Used**_ : MERN Stack , HTML,CSS,Bootrap 4, Javascript, Jquery, NodeJs, Python , Java
 
-_**GitHub-Link**_ :  https://github.com/Manikant25/Aiding-Small-Business.git
+<!-- _**GitHub-Link**_ :  https://github.com/Manikant25/Aiding-Small-Business.git -->
 
 _**Hosted-Link**_ :    Hosted link goes here. (Will submit in submission Pull Request)
 

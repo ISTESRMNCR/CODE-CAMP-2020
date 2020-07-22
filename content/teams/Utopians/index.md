@@ -24,7 +24,7 @@ _**Idea-Description**_ :   A gesture recognition based application, which can de
 
 _**Tech-Stack-Used**_ :   Python, OpenCV
 
-_**GitHub-Link**_ :   https://github.com/Karthikeshwar1/CodeCamp1.0
+<!-- _**GitHub-Link**_ :   https://github.com/Karthikeshwar1/CodeCamp1.0 -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

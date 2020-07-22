@@ -37,7 +37,7 @@ More details - https://drive.google.com/file/d/1JiIjQ2llw0X2mn_BYni1FgbUc0H-Ec12
 
 _**Tech-Stack-Used**_ :   Unity Game Engine C#
 
-_**GitHub-Link**_ :   https://github.com/Neelkukreti/CodeCampSubmission.git 
+<!-- _**GitHub-Link**_ :   https://github.com/Neelkukreti/CodeCampSubmission.git  -->
 
 _**Hosted-Link**_ :    N/A
 

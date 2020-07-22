@@ -28,7 +28,7 @@ _**Working**_: Initially we will be identifying people from the given any forms 
 
 _**Tech-Stack-Used**_ :   Image Processing, Yolo v3 Algorithm, COCO Dataset, Artificial Intelligence.
 
-_**GitHub-Link**_ :   https://github.com/jenith-hue/Code_Hard
+<!-- _**GitHub-Link**_ :   https://github.com/jenith-hue/Code_Hard -->
 
 _**Hosted-Link**_ :    Hosted link goes here. (Will submit in submission Pull Request)
 

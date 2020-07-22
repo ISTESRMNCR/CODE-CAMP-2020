@@ -47,7 +47,7 @@ So, the Vishesh is mitigating all the issues of a ‘Special Parent’ regarding
 
 _**Tech-Stack-Used**_ :   Node.js, React-Native, MongoDB
 
-_**GitHub-Link**_ :   https://github.com/VaishnaviJha786/Vishesh 
+<!-- _**GitHub-Link**_ :   https://github.com/VaishnaviJha786/Vishesh  -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

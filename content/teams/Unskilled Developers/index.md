@@ -29,7 +29,7 @@ People will get to know their business and ratings will help customers find good
 
 _**Tech-Stack-Used**_ :   Java|XML|Android Studio|Firebase|Maps
 
-_**GitHub-Link**_ :   https://github.com/LalitKumarTyagi/Desi-Marketplace
+<!-- _**GitHub-Link**_ :   https://github.com/LalitKumarTyagi/Desi-Marketplace -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

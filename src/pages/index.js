@@ -21,26 +21,14 @@ const BlogIndex = ({ data, location }) => {
            <main>
         
         <div style={{ paddingTop:0, marginTop:0, textAlign:"center"}}> 
-        <ComponentBox 
-          subInfo="Here"
-          buttonLink="/teams" 
-            headline = "Welcome to Code Camp Arena 🎉"
-            info="Hack Day 1 Started. And registrations are closed. Visit registered Teams "
-          />
-          <ComponentBox 
-            info="Now Teams are Requested to build their projects. And keep updating their project's Github repository on daily basis."
-          />
-          <ComponentBox 
-            subInfo="ISSUE SECTION FOR CODE CAMP"
-            buttonLink="https://github.com/ISTESRMNCR/CODE-CAMP-2020/issues" 
-            info="The Teams will Send the Pull Request on 19th July, 2020. from 8 AM to 10 PM. and between that timezone the maintainer will merge your Pull request after reviewing it. For Any Futher Query Visit "
-          />
-           <Button className="expand-2" href="https://github.com/ISTESRMNCR/CODE-CAMP-2020" target="_blank" link color="primary" variant="contained" size="large" >
-          💻 Registrations Started
-        </Button>
-         
+          
+           {/* <Button className="expand-2" href="https://github.com/ISTESRMNCR/CODE-CAMP-2020" target="_blank" link color="primary" variant="contained" size="large" >
+            
+           </Button> */}
          </div>
-        
+         <ComponentBox 
+           info="The Hack Days have started. Teams are Requested to Build their project and be ready for Evaluation round 1 on 23rd and 25th July, 2020."
+           />   
          <ComponentBox 
             headline = "👋 About Us"
             info="Code Camp is a Virtual Hackathon for programmers all over the world. The Teams would compete among themselves for providing the best solution for the listed themes. This Hackathon is being organized by ISTE Students' Chapter, SRM NCR. The Hackathon will be conducted on GITHUB and teams participating will have to send the Registration PULL REQUEST to hackathon git Repository. Teams are provided with themes on which they have to build their Projects and Submit it later, for Evaluation."

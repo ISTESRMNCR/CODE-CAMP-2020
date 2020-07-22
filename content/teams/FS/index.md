@@ -25,7 +25,7 @@ Online school has made interactions between students and teachers much more diff
 
 _**Tech-Stack-Used**_ :  Mongo DB, React , Express, Node JS
 
-_**GitHub-Link**_ :   https://github.com/Nish7/HandsUp.git
+<!-- _**GitHub-Link**_ :   https://github.com/Nish7/HandsUp.git -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

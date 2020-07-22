@@ -30,7 +30,7 @@ This website will be a one-stop destination for those looking for start-ups’ s
 
 _**Tech-Stack-Used**_ :   Python, Django, HTML, Java Script, CSS
 
-_**GitHub-Link**_ :   https://github.com/rohith-4296/Code_For_Hackathon
+<!-- _**GitHub-Link**_ :   https://github.com/rohith-4296/Code_For_Hackathon -->
 
 _**Hosted-Link**_ : 
 

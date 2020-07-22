@@ -31,7 +31,7 @@ Most kids can hardly read so we have also attached listen news feature with each
 
 _**Tech-Stack-Used**_ :   MongoDB, Express, EJS, Node.js, Javascript
 
-_**GitHub-Link**_ :   https://github.com/TEAM-ALPHA-Q/ 
+<!-- _**GitHub-Link**_ :   https://github.com/TEAM-ALPHA-Q/  -->
 
 _**Hosted-Link**_ :   
 

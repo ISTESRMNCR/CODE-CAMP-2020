@@ -39,7 +39,7 @@ The spirit of self reliance and self help would be imbibed by the people hencefo
 
 _**Tech-Stack-Used**_ :  Python/Django HTML/CSS/JavaScript PHP
 
-_**GitHub-Link**_ :   https://github.com/the-cross-art/Muni_Tech.git 
+<!-- _**GitHub-Link**_ :   https://github.com/the-cross-art/Muni_Tech.git  -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

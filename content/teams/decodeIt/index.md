@@ -26,7 +26,7 @@ facilitating food distribution.
 
 _**Tech-Stack-Used**_ :   Django, python
 
-_**GitHub-Link**_ :   https://github.com/swathi-vennela/eradicateHunger 
+<!-- _**GitHub-Link**_ :   https://github.com/swathi-vennela/eradicateHunger  -->
 
 _**Hosted-Link**_ :  Hosted link of project goes here. (Will submit in submission Pull Request)
 

@@ -24,7 +24,7 @@ _**Idea-Description**_ :   school app
 
 _**Tech-Stack-Used**_ :   full stack
 
-_**GitHub-Link**_ :   "https://github.com/om-12/srm-bug-byte.git"
+<!-- _**GitHub-Link**_ :   "https://github.com/om-12/srm-bug-byte.git" -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

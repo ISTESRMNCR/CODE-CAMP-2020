@@ -24,7 +24,7 @@ _**Idea-Description**_ :   The restricted travel, panic over the risk of infecti
 
 _**Tech-Stack-Used**_ :   Java, Android Studio
 
-_**GitHub-Link**_ :   https://github.com/iamanantshukla/JustCodeIt
+<!-- _**GitHub-Link**_ :   https://github.com/iamanantshukla/JustCodeIt -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

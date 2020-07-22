@@ -27,7 +27,7 @@ Furthermore, we plan to integrate on the fly image editing and text detection us
 
 _**Tech-Stack-Used**_ :   The Mobile App will be built in Flutter Framework with Dart Language
 
-_**GitHub-Link**_ :    https://github.com/arnav-snowleo/ScannerApp 
+<!-- _**GitHub-Link**_ :    https://github.com/arnav-snowleo/ScannerApp  -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

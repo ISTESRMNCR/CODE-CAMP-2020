@@ -24,7 +24,7 @@ _**Idea-Description**_ :   An application with a chatbot to help people during t
 
 _**Tech-Stack-Used**_ :   Flutter, IBM Watson, Node-Red(maybe), Firebase.
 
-_**GitHub-Link**_ :   https://github.com/avats-dev/TheGlitch-app 
+<!-- _**GitHub-Link**_ :   https://github.com/avats-dev/TheGlitch-app  -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

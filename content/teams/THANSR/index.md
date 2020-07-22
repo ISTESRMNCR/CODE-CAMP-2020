@@ -27,7 +27,7 @@ Feed the needy!!
 
 _**Tech-Stack-Used**_ : Atom,HTML,Javascript,Bootstrap4,CSS,Java Advance,Netbeans,MYSQL,JSP and servelet.
 
-_**GitHub-Link**_ :   https://github.com/hemant3454/coderepo 
+<!-- _**GitHub-Link**_ :   https://github.com/hemant3454/coderepo  -->
 
 _**Hosted-Link**_ :https://github.com/hemant3454
 

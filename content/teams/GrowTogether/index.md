@@ -28,7 +28,7 @@ In this app, there will be two types of accounts for signing up- Individuals and
 
 _**Tech-Stack-Used**_ :    Java,XML,Dart,Flutter
 
-_**GitHub-Link**_ :    https://github.com/pranavi79/grow-together-app
+<!-- _**GitHub-Link**_ :    https://github.com/pranavi79/grow-together-app -->
 
 _**Hosted-Link**_ :     (Will submit in submission Pull Request)
 

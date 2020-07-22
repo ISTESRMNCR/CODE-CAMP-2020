@@ -26,7 +26,7 @@ This website will help those donor organizations who do not have the database/kn
 
 _**Tech-Stack-Used**_ :   Python , HTML, CSS, Javascript
 
-_**GitHub-Link**_ :   https://github.com/Nalin-2005/Food4All 
+<!-- _**GitHub-Link**_ :   https://github.com/Nalin-2005/Food4All  -->
 
 _**Hosted-Link**_ :    Hosted link goes here. (Will submit in submission Pull Request)
 

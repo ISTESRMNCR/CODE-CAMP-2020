@@ -24,7 +24,7 @@ _**Idea-Description**_ :   One-stop platform for all the study resources at one 
 
 _**Tech-Stack-Used**_ :   "Firebase, HTML, CSS, Javascript"
 
-_**GitHub-Link**_ :   "https://github.com/zenithexpo/Study-Buddy"
+<!-- _**GitHub-Link**_ :   "https://github.com/zenithexpo/Study-Buddy" -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

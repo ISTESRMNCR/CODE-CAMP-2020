@@ -47,7 +47,7 @@ Overall we aim to provide a complete platform where we bridge the gap between th
 
 _**Tech-Stack-Used**_ :  Html, css, bootstrap, materialise, python, flask, javascript
 
-_**GitHub-Link**_ :  https://github.com/rxhxt/R5-Educate-App.git
+<!-- _**GitHub-Link**_ :  https://github.com/rxhxt/R5-Educate-App.git -->
 
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)

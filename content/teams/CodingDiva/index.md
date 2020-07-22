@@ -24,7 +24,7 @@ _**Idea-Description**_ :  Smart note taker with text summarization: Online learn
 
 _**Tech-Stack-Used**_ :  React, Postgresql, Node, Express, Firebase
 
-_**GitHub-Link**_ :  https://github.com/Harshita-Kanal/Smart-Note-Taker
+<!-- _**GitHub-Link**_ :  https://github.com/Harshita-Kanal/Smart-Note-Taker -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

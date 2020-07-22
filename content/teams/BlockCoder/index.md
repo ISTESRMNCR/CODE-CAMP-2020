@@ -24,7 +24,7 @@ _**Idea-Description**_ :   In the present scenario, there are various functions 
 
 _**Tech-Stack-Used**_ :   Languages: Solidity, JavaScript, Technology : Blockchain
 
-_**GitHub-Link**_ :   https://github.com/ajinkyabrahmankar/Hunger-Block.git
+<!-- _**GitHub-Link**_ :   https://github.com/ajinkyabrahmankar/Hunger-Block.git -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

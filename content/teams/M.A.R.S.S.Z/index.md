@@ -33,7 +33,7 @@ We believe our WebApp will help impart education, hampered by Covid-19, by armin
 
 _**Tech-Stack-Used**_ :   Python, HTML, CSS, JavaScript, PHP
 
-_**GitHub-Link**_ :   https://github.com/manahshetty/Bamboozled 
+<!-- _**GitHub-Link**_ :   https://github.com/manahshetty/Bamboozled  -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

@@ -35,7 +35,7 @@ Take breaks
  
 _**Tech-Stack-Used**_ :   Flutter,Firebase,Dart.
 
-_**GitHub-Link**_ :   https://github.com/adrikagupta/code-camp_codeplay.git 
+<!-- _**GitHub-Link**_ :   https://github.com/adrikagupta/code-camp_codeplay.git  -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

@@ -24,7 +24,7 @@ _**Idea-Description**_ :  Studymate_online is a cross platform application in wh
 
 _**Tech-Stack-Used**_ : Flutter,Python,Dart
 
-_**GitHub-Link**_ :   https://github.com/rishiagrawal2609/studymate_online
+<!-- _**GitHub-Link**_ :   https://github.com/rishiagrawal2609/studymate_online -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

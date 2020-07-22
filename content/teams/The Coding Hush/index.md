@@ -54,7 +54,7 @@ _**Idea-Description**_ :   Hello There , We are Team “The Coding Hush” .We a
 _**Tech-Stack-Used**_ : Python, Java, Html5, CSS3, flask, React Js, php, javascript, sql lite3, MySql, 
                          Oracle, sql server 
 
-_**GitHub-Link**_ :   https://github.com/richhaa/The-Coding-Hush
+<!-- _**GitHub-Link**_ :   https://github.com/richhaa/The-Coding-Hush -->
 
 _**Hosted-Link**_ :    Hosted link goes here. (Will submit in submission Pull Request)
 

@@ -33,7 +33,7 @@ In this way we promote our Prime Minister’s Atma Nirbhar Bharat campaign by pr
 
 _**Tech-Stack-Used**_ :   Flutter, Dart, Firebase
 
-_**GitHub-Link**_ :  https://github.com/sarthak290/ShopEasy
+<!-- _**GitHub-Link**_ :  https://github.com/sarthak290/ShopEasy -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 

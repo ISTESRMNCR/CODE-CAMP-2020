@@ -33,7 +33,7 @@ The platform will consist majorly of 3 parts:
 
 _**Tech-Stack-Used**_ :   Android, Python, Django, PostgreSQL, Docker, AWS
 
-_**GitHub-Link**_ :   https://github.com/SubhamPramanik/voomp
+<!-- _**GitHub-Link**_ :   https://github.com/SubhamPramanik/voomp -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 
