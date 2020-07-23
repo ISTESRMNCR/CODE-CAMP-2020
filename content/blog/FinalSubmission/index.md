@@ -23,15 +23,9 @@ The step for making finalist pull request is to be followed strictly. and If the
 
 ![finalist-Folder](../../assets/Final2.png)
 
-* Kindly head in to `Team/index.md`. And after opening `index.md` at the top right corner, Edit the file `index.md`.
+* Now Make a `New Folder` below `Team's folder`. Name of the `New Folder` will be your team name as mentioned in registration Pull Request and inside that folder `index.md` file should be there.
 
-![finalist-Folder](../../assets/Final3.png)
-
-* And Now `Delete` the Pre-Existing Text in there.
-
-![finalist-Folder](../../assets/Final4.png)
-
-* After `Deleting` Pre-Existing text. Replace it with the following Template.
+* Inside the `index.md` file. please copy following Template Exactly.
 
 ```
 ---
@@ -123,14 +117,12 @@ _**University/School**_ :
 (Extend the members as per your team's Size)
 ```
 
-## Renaming the Team's Folder
-
-* After adding the details for the finalist. Rename the teams folder as instructed below.
-
-![finalist-Folder](../../assets/Final5.gif)
-
 ## Now Commiting Changes
 
 ![Finals](../../assets/Final6.gif)
 
+# Warning
 
+> # No Pull Request will be Entertained after 10:00 PM.
+
+> # Submission for finalist Starts On 27th july, 2020 from 10:00 AM to 10:00 PM

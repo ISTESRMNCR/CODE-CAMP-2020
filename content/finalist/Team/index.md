@@ -1,9 +1,6 @@
 ---
-type: "finalist"                   
-title: 
-name: ""
+title: "No ONe"                
 description: ""
-Team-Quote: ""
-Application_Type: ""
+type: "finalist"
 ---
 
