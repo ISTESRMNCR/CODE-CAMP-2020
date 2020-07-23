@@ -3,7 +3,7 @@ title: Making Registration Pull Request
 date: "2020-06-17"
 description: "Follow these Steps to Register"
 type: "blog"
-priority: "1"
+priority: "6"
 ---
 
 This is how teams going to make the Pull Request for registering to the hackathon CODE CAMP 1.0. so read the instructions carefully.
