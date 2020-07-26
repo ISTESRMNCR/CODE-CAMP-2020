@@ -122,4 +122,4 @@ _**University/School**_ : SRM Institue of Science And Technology
 
 
 
-#### We the members of Team Matrix present to you our App ShopEasy. A digital platform built to uplift the Self- employed growing business people of our country .
+### We the members of Team Matrix present to you our App ShopEasy. A digital platform built to uplift the Self- employed growing business people of our country .
