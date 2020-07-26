@@ -97,6 +97,24 @@ _**Working-Stack**_ : MS Word, Github
 _**University/School**_ : SRM Institue of Science And Technology
 
 
+## Features of ShopEasy App
 
+- Easy and simple to use
+- Sign In and Sign Up using Email
+- Sign In using Facebook
+- Sign In using Google
+- Phone authentication by flutter firebase (Test: +911234567890, CODE: 333333)
+- Clean and Well documented code
+- Used Bloc pattern
+- Custom Carousel Slider
+- Form Validation
+- Admin dashboard
+- Complete e-commerce features – Dynamic Product variants, checkout process, order tracking, wishlist, manage address.
+- Attractive UX design multi-level categories, quick product filter, super fast checkout flow.
+- Powerful User Setting – the ability to enable the push notification, view wishlist, order history.
+- Push notification
+- Fast loading of images with Offline Image Caching
+- Realtime
+- 60 fps app
+- Supports both Android and Ios devices.
 
-(Extend the members as per your team's Size)
