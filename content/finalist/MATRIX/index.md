@@ -1,87 +1,99 @@
 ---
 type: "finalist"                   
-title: 
-name: ""
-description: ""
-Team-Quote: ""
-Application_Type: ""
+title: MATRIX
+name: "MATRIX"
+description: "We are team matrix. We are a group of 6 growing developers. By using our technical experience and coding skills we want to contribute to the aatma-nirbhar mission. We wish to help people in this pandemic."
+Team-Quote: "Exploration is the engine that drives innovation. Innovation drives economic growth. So let's all go exploring."
+Application_Type: "Flutter Mobile Application"
 ---
 
-Team Introduction will go here.
+Hey! We are team MATRIX. We like unique creations and are determined towards creating a platform to help the people in our country.
 
 ---
 
-# Project's Name
+# ShopEasy App
 
-_**Theme-Name**_ : 
+_**Theme-Name**_ : Atma Nirbhar Bharat
 
-_**Application-Type**_ :   
+_**Application-Type**_ : Mobile Application
 
 ---
 
 # Description
 
-> The description will go here and it should be Short and descriptive. (limit 150)
+> A number of good and quality products are produced all over India on a small-scale by many self-employed workers. These business though good are unable to attract customers outside their cities .Our main-objective is to spread awareness about these locally popular products by providing them a platform, i.e. our App ShopEasy and help them expand their customer-chain. We also aim to reach-out to all the business-startups, during the COVID-19 pandemic. Our App ShopEasy is open for all the sellers and businesses. Users can Sign-In to the app by using the various methods we have provided, (Google, Facebook, phone-Number and Email. ) and add their products. Cash-on-delivery option is provided along-with a proper tracking-system. Options are provided where an admin can add product category and brands and customize the app in his way. We have tried to contribute to the atma-Nirbhar campaign by providing small-businesses a platform to expand their growth. 
 
 
 ---
 
-_**Tech-Stack**_  :   
+_**Tech-Stack**_  : Flutter, Dart, Firebase
 
-_**GitHub-Link**_ :   
+_**GitHub-Link**_ : https://github.com/sarthak290/ShopEasy  
 
-_**Hosted-Link**_ :   
+_**Hosted-Link**_ : https://drive.google.com/folderview?id=1w6HNk5d8v8HqFPAhiOVWGXKSgg4S_D87 
 
 
 ---
 
 
-# Leader's Name
+# Sarthak Bhatnagar
 
-_**Role-In-Team**_  : 
+_**Role-In-Team**_  : App Developer, Technical Lead, Database Administrator
 
-_**Working-Stack**_ : 
+_**Working-Stack**_ : Flutter, Dart, Firebase
 
-_**University/School**_ :
-
-
-# Member1 Name
-
-_**Role-In-Team**_  : 
-
-_**Working-Stack**_ : 
-
-_**University/School**_ :
+_**University/School**_ : SRM Institue of Science And Technology
 
 
+# Yashashvi Singh
 
-# Member2 Name
+_**Role-In-Team**_  : App Developer, Software Tester
 
-_**Role-In-Team**_  : 
+_**Working-Stack**_ : Flutter, Dart
 
-_**Working-Stack**_ : 
-
-_**University/School**_ :
+_**University/School**_ : SRM Institue of Science And Technology
 
 
 
-# Member3 Name
+# Vanshika Agarwal
 
-_**Role-In-Team**_  : 
+_**Role-In-Team**_  : UI/UX Designer, Resource Manager
 
-_**Working-Stack**_ : 
+_**Working-Stack**_ : Flutter, MS Word, Adobe Photoshop
 
-_**University/School**_ :
+_**University/School**_ : SRM Institue of Science And Technology
 
 
 
-# Member4 Name
+# Shray Rastogi
 
-_**Role-In-Team**_  : 
+_**Role-In-Team**_  : Database Administrator, UI/UX Designer
 
-_**Working-Stack**_ : 
+_**Working-Stack**_ : Firebase, Adobe Photoshop
 
-_**University/School**_ :
+_**University/School**_ : SRM Institue of Science And Technology
+
+
+
+# Ishita Saxena
+
+_**Role-In-Team**_  : UI/UX Designer
+
+_**Working-Stack**_ : Adobe Photoshop, Github
+
+_**University/School**_ : SRM Institue of Science And Technology
+
+
+
+# Muskan Bhatia
+
+_**Role-In-Team**_  : Resource Manager
+
+_**Working-Stack**_ : MS Word, Github
+
+_**University/School**_ : SRM Institue of Science And Technology
+
+
 
 
 (Extend the members as per your team's Size)
