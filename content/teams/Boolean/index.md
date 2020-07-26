@@ -4,7 +4,7 @@ title: Boolean
 name: "Boolean"
 github-link: "https://github.com/VaishnaviJha786/Vishesh"
 description: "Students of Shaheed Rajguru College of Applied Sciences for Women, Delhi University"
-Team-Quote: ""
+Team-Quote: "Two flints who believe to spark"
 Team_Tech_Stack: "React-Native, Node.js, MongoDB,"
 Application_Type: "Mobile Application"
 No_Of_Member: "2"
