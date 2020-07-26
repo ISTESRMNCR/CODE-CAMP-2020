@@ -12,6 +12,7 @@ Hey! We are team MATRIX. We like unique creations and are determined towards cre
 ---
 
 # ShopEasy App
+## Flutter App made by Team MATRIX using Firebase for CodeCamp 1.0
 
 ![shopEasy](https://github.com/sarthak290/ShopEasy/blob/master/assets/lo2.PNG)
 
