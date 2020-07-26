@@ -15,7 +15,7 @@ Hey ! We are Team Boolean
 
 ## Project's Overview
 
-_**Theme-Name*  AtmaNirbhar Bharat*_ : 
+_**Theme-Name**_ :   Empowering Differently Abled 
 
 _**Application-Type**_ :   Mobile Application (The Application should be hosted and Bundled)
 
