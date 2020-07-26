@@ -49,7 +49,7 @@ _**Tech-Stack-Used**_ :   Node.js, React-Native, MongoDB
 
 _**GitHub-Link**_ :   https://github.com/VaishnaviJha786/Vishesh 
 
-_**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
+_**Hosted-Link**_ :    https://expo.io/@vaishnavijha/Vishesh
 
 ---
 
