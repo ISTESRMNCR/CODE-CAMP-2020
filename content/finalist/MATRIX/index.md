@@ -123,4 +123,4 @@ _**University/School**_ : SRM Institue of Science And Technology
 
 ### We the members of Team MATRIX present to you our App ShopEasy. A digital platform built to uplift the Self- employed growing business people of our country .
 
-### We truely believe that " The only way to DISCOVER the limits of the POSSIBLE  is to go beyond them into the IMPOSSIBLE ".
+### We truly believe that " The only way to DISCOVER the limits of the POSSIBLE  is to go beyond them into the IMPOSSIBLE ".
