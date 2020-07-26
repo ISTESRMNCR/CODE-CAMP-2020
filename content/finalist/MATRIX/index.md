@@ -97,6 +97,8 @@ _**Working-Stack**_ : MS Word, Github
 _**University/School**_ : SRM Institue of Science And Technology
 
 
+
+
 # Features of ShopEasy App
 
 - Easy and simple to use
