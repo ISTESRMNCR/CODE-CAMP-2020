@@ -35,8 +35,7 @@ _**Hosted-Link**_ :
 ---
 
 
-# Leader's Name  
-  Vaishnavi Jha
+# Vaishnavi Jha
 
 _**Role-In-Team**_  :  Backend Developer
 
@@ -45,8 +44,7 @@ _**Working-Stack**_ :  MongoDB, Mongoose, Express, Node.js
 _**University/School**_ :  Shaheed Rajguru College of Applied Sciences for Women, Delhi University
 
 
-# Member1 Name
-  Astha Pattanaik
+# Astha Pattanaik
 
 _**Role-In-Team**_  :  Frontend Developer
 
