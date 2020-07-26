@@ -21,7 +21,7 @@ _**Application-Type**_ :  Mobile Application
 
 # Description
 
-Vishesh is a mobile application for special parents to provide them genuine inforamtion of the Schools, NGOs, Schemes, and Doctors for their special Child.
+Vishesh is a mobile application for special parents to provide them genuine inforamtion of the Schools, NGOs, Schemes, and Doctors for their special Child. It will provide the inforamtion of the special schools, NGOs supporting them, Government scehemes for their welfare, and the Doctors in their vicinity, who they can contact to in emergencies.
 
 ---
 
@@ -29,7 +29,7 @@ _**Tech-Stack**_  : React-Native, Node.js, MongoDB
 
 _**GitHub-Link**_ :  https://github.com/VaishnaviJha786/Vishesh 
 
-_**Hosted-Link**_ :   
+_**Hosted-Link**_ :  https://expo.io/@vaishnavijha/Vishesh
 
 
 ---
