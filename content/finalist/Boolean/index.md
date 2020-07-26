@@ -1,9 +1,9 @@
 ---
 type: "finalist"                   
-title: 
+title: Boolean
 name: "Boolean"
 description: "Students of Shaheed Rajguru College of Applied Sciences for Women, Delhi University"
-Team-Quote: ""
+Team-Quote: "Two flints who believe to spark"
 Application_Type: "Mobile Application"
 ---
 
@@ -21,7 +21,7 @@ _**Application-Type**_ :  Mobile Application
 
 # Description
 
-Vishesh is a mobile application for special parents to provide them genuine inforamtion of the Schools, NGOs, Schemes, and Doctors for their special Child
+Vishesh is a mobile application for special parents to provide them genuine inforamtion of the Schools, NGOs, Schemes, and Doctors for their special Child.
 
 ---
 
