@@ -13,6 +13,8 @@ Hey! We are team MATRIX. We like unique creations and are determined towards cre
 
 # ShopEasy App
 
+![shopEasy](https://github.com/sarthak290/ShopEasy/blob/master/assets/lo2.PNG)
+
 _**Theme-Name**_ : Atma Nirbhar Bharat
 
 _**Application-Type**_ : Mobile Application
