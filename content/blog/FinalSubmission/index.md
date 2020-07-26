@@ -6,7 +6,7 @@ type: "blog"
 priority: "1"
 ---
 
-**Hey Devs ! Happy to see everyone clearing the first Evaluation Round. And now it's the time to fasten your seat belts and get ready for Second Evaluation Round.**
+**Hey Devs ! Happy to see you in as a finalist**
 
 # Making Finalist Pull Request.
 
