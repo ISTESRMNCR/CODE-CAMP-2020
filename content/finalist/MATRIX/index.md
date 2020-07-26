@@ -45,7 +45,7 @@ _**Hosted-Link**_ : https://drive.google.com/folderview?id=1w6HNk5d8v8HqFPAhiOVW
 - Sign In and Sign Up using Email
 - Sign In using Facebook
 - Sign In using Google
-- Phone authentication by flutter firebase (Test: +911234567890, CODE: 333333)
+- Phone authentication by flutter firebase (Test: +919876543210, CODE: 123456)
 - Clean and Well documented code
 - Used Bloc pattern
 - Custom Carousel Slider
