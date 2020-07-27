@@ -11,7 +11,7 @@ Hey ! We are Team Boolean. We are the students of Shaheed Rajguru College of App
 
 ---
 
-# Project's Name
+# Vishesh
 
 _**Theme-Name**_ :  Empowering Differently Abled
 
@@ -21,11 +21,9 @@ _**Application-Type**_ :  Mobile Application
 
 # Description
 
-Vishesh -
+> Every life is a gift of god and every child is blessed in a special way.The differently-abled children somehow,are unable to explore themselves and the broader horizons of life.Not only the child but also the parents are subject to various challenges when it comes to the parenting of a differently-abled child.It is now high time to utilise the emerging technological advancements to provide them myriads of opportunities so that they grow,prosper and lead an independent life breaking all barriers.
 
-Every life is a gift of god and every child is blessed in a special way.The differently-abled children somehow,are unable to explore themselves and the broader horizons of life.Not only the child but also the parents are subject to various challenges when it comes to the parenting of a differently-abled child.It is now high time to utilise the emerging technological advancements to provide them myriads of opportunities so that they grow,prosper and lead an independent life breaking all barriers.
-
-Catering to the problem stated above, we came up with an idea of app/platform for the parents who have children with special needs, which will provide them the genuine information regarding the Special schools, schemes provided by the government, the NGOs helping in these situation, and the doctors whom they can refer to in emergency, in their vicinity.
+> Catering to the problem stated above, we came up with an idea of app/platform for the parents who have children with special needs, which will provide them the genuine information regarding the Special schools, schemes provided by the government, the NGOs helping in these situation, and the doctors whom they can refer to in emergency, in their vicinity.
 
 
 
@@ -39,7 +37,7 @@ _**Hosted-Link**_ :  https://expo.io/@vaishnavijha/Vishesh
 
 _**APK-Link**_ :    https://expo.io/artifacts/67bf81a1-1fd3-46a1-92dd-950af661ad71
 
-_**Video-demonstration**_ :   https://drive.google.com/file/d/1GIUHBGegAnod6StL4y0cR6An02Woucbj/view
+_**Video-demonstration**_ :https://drive.google.com/file/d/1GIUHBGegAnod6StL4y0cR6An02Woucbj/view
 
 
 ---
