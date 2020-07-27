@@ -26,6 +26,7 @@ _**Application-Type**_ : Web Development
 Since we are going through pandemic the condition of poors have become worse then earlier as we all are noticing these things in televisions , social media so we are providing the users and NGO 's a platform to serve for those who don't have food  to eat.
 Since we all know whenever there is a function there is large quantity of food which gets wasted so rather than throwing in the garbage bins we can utilise that food by feeding poors and help them to survive the pandemic and even after that.
 So we are indulging our innovation into reality by developing a website which will give a platform to all the Ngo's serving for the former purpose.
+The best part of this project is that it doesn’t require a huge amount. And by amount we doesn’t mean cash we mean awareness of not wasting food rather we can give that to Ngo's they can serve poor. In the website we have given a list of Ngo’s state wise so that it will be easy for users to serve poor. Due to this website helping poor is just one click away. So concluding, it’s non funded project requiring minimal or no amount of money, which directly aims in saving the food from greedier and funding to needier.
 Feed the needy!!
 
 
