@@ -38,7 +38,7 @@ _**Tech-Stack**_  : Python/Django HTML/CSS/JavaScript Android PHP
 
 _**GitHub-Link**_ : https://github.com/the-cross-art/Muni_Tech  
 
-_**Hosted-Link**_ : WebSite Link-https://munitechnova.herokuapp.com/
+_**Hosted-Link**_ : WebSite Link-https://munitechnova.herokuapp.com/ <br />
 Application Apk bundle Link-https://docs.google.com/uc?export=download&id=1G71ETONKxaxQoCJoykRUK6kXDg4BfV37 
 
 
