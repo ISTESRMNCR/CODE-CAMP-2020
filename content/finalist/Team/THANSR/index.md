@@ -1,11 +1,11 @@
 
 ---
 type: "finalist"                   
-title: 
-name: ""
+title: THANSR
+name: "THANSR"
 description: ""
-Team-Quote: ""
-Application_Type: ""
+Team-Quote: "When fate hands us Innovation ,Let's vanish the hunger"
+Application_Type: "Web Development"
 ---
 
 Team Introduction will go here.
@@ -14,9 +14,9 @@ Team Introduction will go here.
 
 # Project's Name
 
-_**Theme-Name**_ : 
+_**Theme-Name**_ : Eradicare Hunger
 
-_**Application-Type**_ :   
+_**Application-Type**_ : Web Development 
 
 ---
 
@@ -37,51 +37,51 @@ _**Hosted-Link**_ :
 ---
 
 
-# Leader's Name
+# Leader's Name : Tanu Bhardwaj
 
-_**Role-In-Team**_  : 
+_**Role-In-Team**_  :Basic Idea Layout and Frontend Developer(Using CSS and Javascript)
 
-_**Working-Stack**_ : 
+_**Working-Stack**_ : Atom Software , CSS , Javascript.
 
-_**University/School**_ :
-
-
-# Member1 Name
-
-_**Role-In-Team**_  : 
-
-_**Working-Stack**_ : 
-
-_**University/School**_ :
+_**University/School**_ :SRM IST
 
 
+# Member1 Name : Ria Bhardwaj
 
-# Member2 Name
+_**Role-In-Team**_  : Basic Idea Layout and Frontend Developer(Using CSS and Javascript)
 
-_**Role-In-Team**_  : 
+_**Working-Stack**_ : Sublime Text and Visual Studio , CSS and Javascript.
 
-_**Working-Stack**_ : 
-
-_**University/School**_ :
+_**University/School**_ :SRM IST
 
 
 
-# Member3 Name
+# Member2 Name : Nandini Raj
 
-_**Role-In-Team**_  : 
+_**Role-In-Team**_  : Frontend Developer (Using HTML and Bootstrap)
 
-_**Working-Stack**_ : 
+_**Working-Stack**_ : Sublime Text and Visual Studio , HTML and Botstrap.
 
-_**University/School**_ :
+_**University/School**_ :SRM IST
 
 
 
-# Member4 Name
+# Member3 Name : Anshu Priya
 
-_**Role-In-Team**_  : 
+_**Role-In-Team**_  :  Basic Idea Layout and Frontend Developer(Using CSS and Javascript)
 
-_**Working-Stack**_ : 
+_**Working-Stack**_ : Sublime Text and Visual Studio , CSS and Javascript.
 
-_**University/School**_ :
+_**University/School**_ :SRM IST
+
+
+
+# Member4 Name : Saurabh Trivedi
+
+_**Role-In-Team**_  : Frontend Developer (Using HTML and Bootstrap)
+
+_**Working-Stack**_ : Atom Software , HTML and Bootstrap
+
+_**University/School**_ :SRM IST
 
 
