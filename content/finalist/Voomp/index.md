@@ -37,8 +37,9 @@ _**Tech-Stack**_ : Android, Python, Django, PostgreSQL, Docker, AWS
 
 _**GitHub-Link**_ : https://github.com/SubhamPramanik/voomp
 
-_**Hosted-Link**_ : Android App: https://drive.google.com/file/d/1lfFNbnTIMi_HxJ0-HyrX7ICiGcC-PRDH/view?usp=sharing
-REST APIs: http://ec2-15-207-58-167.ap-south-1.compute.amazonaws.com/api/articles
+_**Hosted-Link**_ : https://drive.google.com/file/d/1lfFNbnTIMi_HxJ0-HyrX7ICiGcC-PRDH/view?usp=sharing
+
+_**REST APIs**_ : http://ec2-15-207-58-167.ap-south-1.compute.amazonaws.com/api/articles
 
 ---
 
