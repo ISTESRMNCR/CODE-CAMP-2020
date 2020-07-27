@@ -61,7 +61,7 @@ _**Working-Stack**_ : Flutter|Dart|VS Code| Git
 
 _**University/School**_ : SRMIST,Ramapuram
 
- #  Piyush Mohanta
+ # Piyush Mohanta
 
 _**Role-In-Team**_  : UI Design
 
