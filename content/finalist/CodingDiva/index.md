@@ -6,6 +6,10 @@ description: "Another ambitious individual here to perform as a team"
 Team-Quote: "Fight till the end"
 Application_Type: "Website"
 ---
+
+I am Harshita Kanal, I have built this productivity application as my contribution in this hackathon, I am an enthusiastic developer.
+
+
 ---
 
 # Smart Note Taker
