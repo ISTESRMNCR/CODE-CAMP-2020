@@ -21,7 +21,13 @@ _**Application-Type**_ :  Mobile Application
 
 # Description
 
-Vishesh is a mobile application for special parents to provide them genuine inforamtion of the Schools, NGOs, Schemes, and Doctors for their special Child. It will provide the inforamtion of the special schools, NGOs supporting them, Government scehemes for their welfare, and the Doctors in their vicinity, who they can contact to in emergencies.
+Vishesh -
+
+Every life is a gift of god and every child is blessed in a special way.The differently-abled children somehow,are unable to explore themselves and the broader horizons of life.Not only the child but also the parents are subject to various challenges when it comes to the parenting of a differently-abled child.It is now high time to utilise the emerging technological advancements to provide them myriads of opportunities so that they grow,prosper and lead an independent life breaking all barriers.
+
+Catering to the problem stated above, we came up with an idea of app/platform for the parents who have children with special needs, which will provide them the genuine information regarding the Special schools, schemes provided by the government, the NGOs helping in these situation, and the doctors whom they can refer to in emergency, in their vicinity.
+
+
 
 ---
 
