@@ -2,11 +2,11 @@
 type: "finalist"                   
 title: Code Hard  
 name: "Code Hard"
-description: "We have the best team who play with Artificial Intelligence and Machine Learning at it's peak"
+description: "We have the best team who play with Artificial Intelligence and Machine Learning at it's peak :smiling_imp:"
 Team-Quote: "Rock And Roll With Code"
 Application_Type: "Web Application"
 ---
-:heart:
+
 
 ---
 
