@@ -2,18 +2,18 @@
 type: "finalist"                   
 title: MangNOVA
 name: "MangNOVA"
-description: "Hey ! We are a team focussed to create a digital platform which works in real time to aid people and authorities in creating a clean, green and developed India.
+description: "Hey ! We are a team focussed to create a digital platform which works in real time to aid people and authorities in creating a clean, green and developed India."
+Team-Quote: "Transforming Technology to Transform India"
+Application_Type: "Web Application/Mobile"
+---
+
+Hey ! We are a team focussed to create a digital platform which works in real time to aid people and authorities in creating a clean, green and developed India.
 
 The platform developed by us would work like a tool to help people in sharing the issues directly with the municipal corporation which would be able to locate these issues easily through our platform.
 
 This system would also record all the issues for future references.
 
-Every individual is invaluable to create a developed locality and a truly self-reliant nation"
-Team-Quote: "Transforming Technology to Transform India"
-Application_Type: "Web Application/Mobile"
----
-
-Team Introduction will go here.
+Every individual is invaluable to create a developed locality and a truly self-reliant nation
 
 ---
 
