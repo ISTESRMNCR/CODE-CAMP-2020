@@ -1,5 +1,5 @@
 ---
-type: "team"                                                        
+type: "team"                                                 
 title: MATRIX
 name: "MATRIX"
 github-link: "https://github.com/sarthak290/ShopEasy"

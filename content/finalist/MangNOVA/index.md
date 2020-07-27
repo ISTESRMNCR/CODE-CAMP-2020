@@ -78,8 +78,6 @@ _**University/School**_ : Birsa Institute of Technology, Sindri
 
 
 
-
-
 # Rahul Pandey
 
 _**Role-In-Team**_  : Front-End Developer
