@@ -1,5 +1,5 @@
 ---
-type: "Finalist"                   
+type: "finalist"                   
 title:  An app made for hosting NGOs and individuals interested in charity
 name: "Grow Together"
 description: "We try learning something new everyday"
