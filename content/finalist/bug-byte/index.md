@@ -7,15 +7,16 @@ Team-Quote: "try try but don't cry"
 Application_Type: "web application"
 ---
 
-Team Introduction will go here.
+
 Hey we are team bug-byte,i am om kant mishra persuing btech from mnnit my team consist of two very talented members,we all three belongs to same college ,my team works very efficiently and also work with creativity and fun.
+
 ---
 
-# Project's Name Donate for Defenders
+# Donate for Defenders
 
 _**Theme-Name**_ : atmanirbhar bharat
 
-_**Application-Type**_ :   web application
+_**Application-Type**_ : web application
 
 ---
 
@@ -26,41 +27,38 @@ _**Application-Type**_ :   web application
 
 ---
 
-_**Tech-Stack**_  :   full stack
+_**Tech-Stack**_  :  full stack
 
-_**GitHub-Link**_ :   "https://github.com/om-12/srm-bug-byte.git"
+_**GitHub-Link**_ :  "https://github.com/om-12/srm-bug-byte.git"
 
-_**Hosted-Link**_ :   donatefordefenders.herokuapp.com
+_**Hosted-Link**_ :  donatefordefenders.herokuapp.com
 
 
 ---
 
 
-#Om Kant Mishra
+# Om Kant Mishra
 
 _**Role-In-Team**_  : Backend Developer,content creater,time manager
 
 _**Working-Stack**_ : Backend Developer
 
-_**University/School**_ :mnnit allahabad
+_**University/School**_ : mnnit allahabad
 
 
-# Member1 Name Puneet sharma
+# Puneet sharma
 
 _**Role-In-Team**_  : Frontend Developer
 
 _**Working-Stack**_ : frontend
 
-_**University/School**_ :mnnit allahabad
+_**University/School**_ : mnnit allahabad
 
 
-
-# Member2 Name Prashant Kumar Pal
+# Prashant Kumar Pal
 
 _**Role-In-Team**_  : Backend Developer
 
 _**Working-Stack**_ : Backend Developer
 
-_**University/School**_ :mnnit allahabad
-
-
+_**University/School**_ : mnnit allahabad
