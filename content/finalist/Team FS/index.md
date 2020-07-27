@@ -7,7 +7,7 @@ Team-Quote: "Lets bring people together at these tough times and innovate!"
 Application_Type: "Web"
 ---
 
-Team Introduction will go here.
+we are a students of fountainhead school and we bring you a alternative to the stackoverflow but for the students of indian academics
 
 ---
 
