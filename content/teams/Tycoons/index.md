@@ -18,15 +18,15 @@ Hey ! We are Team Tycoons. We are here to win. and we also love open source. We 
 
 _**Theme-Name**_ : Education
 
-_**Application-Type**_ : web app
+_**Application-Type**_ : Android App
 
 _**Idea-Description**_ :  Studymate_online is a cross platform application in which we are trying to help students as well as teacher to provide a unified platform teaching and Learning. We are going to add features like Video Calling, Test format from which cheating can be reduced, results and many other acadamic needs which are required.
 
 _**Tech-Stack-Used**_ : Flutter,Python,Dart
 
-<!-- _**GitHub-Link**_ :   https://github.com/rishiagrawal2609/studymate_online -->
+ _**GitHub-Link**_ :   https://github.com/rishiagrawal2609/studymate_online 
 
-_**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
+_**Hosted-Link**_ :  https://drive.google.com/file/d/1hI2lwajT9W-ET37aa7u7AcyHOlSeQ7A_/view?usp=sharing
 
 ---
 
