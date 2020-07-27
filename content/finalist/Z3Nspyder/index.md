@@ -2,8 +2,8 @@
 type: "finalist"                   
 title: "Z3Nspyder" 
 name: "Z3Nspyder"
-description: "Hey ! We are Team Z3Nspyder. We are here to win. and we also love open source."
-Team-Quote: "Privacy is a basic requirement"
+description: "We are a team experienced in building software and applications"
+Team-Quote: "Privacy delivered on a spoon"
 Application_Type: "Android App"
 ---
 
@@ -26,7 +26,7 @@ _**Application-Type**_ : Mobile Application
 
 ---
 
-_**Tech-Stack**_  : Android, Google Firebase, Java
+_**Tech-Stack**_  : Android, Java
 
 _**GitHub-Link**_ : https://github.com/orgs/Z3nSpyder   
 
