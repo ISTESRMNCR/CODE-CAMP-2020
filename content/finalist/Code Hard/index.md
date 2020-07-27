@@ -12,7 +12,7 @@ Application_Type: "Web Application"
 
 # Social Distancing Monitoring Application
 
-_**Theme-Name**_ : AtmaNirbhar Bharat
+_**Theme-Name**_ : AtmaNirbhar Bharat :india:
 
 _**Application-Type**_ : Web Application
 
