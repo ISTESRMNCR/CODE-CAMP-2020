@@ -23,7 +23,7 @@ _**Application-Type**_ :  Website
 
 # Description
 
- A user-friendly website to help the small businesses, that have been incurring losses due to this pandemic. Our aim is also to help the users in spreading positivity in these hard times by delivering gifts ,bouquets and many more items. This website is light weight and easy for the users to handle with user friendly features such as guest login and delivery and chatbots. The online payment is an easy and secure process on our website through which the payment is directly transferred to the sellers.
+> A user-friendly website to help the small businesses, that have been incurring losses due to this pandemic. Our aim is also to help the users in spreading positivity in these hard times by delivering gifts ,bouquets and many more items. This website is light weight and easy for the users to handle with user friendly features such as guest login and delivery and chatbots. The online payment is an easy and secure process on our website through which the payment is directly transferred to the sellers.
 
 > 
 ---
@@ -32,8 +32,8 @@ _**Tech-Stack**_  :  Django,Python
 
 _**GitHub-Link**_ :   https://github.com/anshdeepkaur53/Web-Alpha-Clan
 
-_**Hosted-Link**_ :   https://drive.google.com/file/d/1SKtrIfy0SRwnSOWD1Vz8OjmYzDYpyA0s/view?usp=sharing
-					  https://drive.google.com/file/d/1gdTJ1KCCisTWDx5akVbwDRjX0UjKBpj4/view?usp=sharing
+_**Video-Link**_ :   `Project Description` : https://drive.google.com/file/d/1SKtrIfy0SRwnSOWD1Vz8OjmYzDYpyA0s/view?usp=sharing
+		     `Django Administration` : https://drive.google.com/file/d/1gdTJ1KCCisTWDx5akVbwDRjX0UjKBpj4/view?usp=sharing
 
 
 ---
