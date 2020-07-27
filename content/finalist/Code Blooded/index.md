@@ -11,7 +11,7 @@ We are Team Code Blooded, you can call us bunch of newcomers but we are always r
 
 ---
 
-# Project's Name KRAFTIFY
+# KRAFTIFY
 
 _**Theme-Name**_ : AIDING SMALL BUSINESSES
 
@@ -21,7 +21,7 @@ _**Application-Type**_ : WEBSITE
 
 # Description
 
-People in india are largely unaware of the quality products produced and indeginously made all over the country, 
+> People in india are largely unaware of the quality products produced and indeginously made all over the country, 
 So they tend to buy majorly from international brands and only a few known indian brands.
 Our Main motive is to spread awareness about brands which are loacally popular but are unable to attract cutomers out of ther locality.
 Our website will dynamically advertise and at same time enable to increase their consumer chain.
@@ -42,7 +42,7 @@ _**Hosted-Link**_ :  https://drive.google.com/drive/folders/1H8OkGas7IvD3aWvpGhh
 ---
 
 
-# Leader's Name    KARAN BENGANI
+# KARAN BENGANI
 
 _**Role-In-Team**_  : Contributed in making components like, the filter search,popup animations,slide-in animations,etc. Along with desinging some interactive pages
 
@@ -51,7 +51,7 @@ _**Working-Stack**_ : HTML 5, CSS 3,JAVASCRIPT ES6, JQUERY, BOOTSTRAP
 _**University/School**_ : SRMIST
 
 
-# Member1 Name  SAILASHREE PANDAB
+# SAILASHREE PANDAB
 
 _**Role-In-Team**_  : Designed The layout and the orientation across all the pages, along with styling the landing page and shopping page's companents
 
@@ -61,7 +61,7 @@ _**University/School**_ : SRMIST
 
 
 
-# Member2 Name SHUBHRA AGARWAL
+# SHUBHRA AGARWAL
 
 _**Role-In-Team**_  : Designed and perfected the 3-D annimations dispalyed on popups, worked on styling some webpages.
 
@@ -71,7 +71,7 @@ _**University/School**_ : SRMIST
 
 
 
-# Member3 Name SULAKSH SHARMA
+# SULAKSH SHARMA
 
 _**Role-In-Team**_  : developed the dynamic data storage for forms like sign-in and sign-up,etc.
 
@@ -81,7 +81,7 @@ _**University/School**_ : SRMIST
 
 
 
-# Member4 Name VATSAL GUPTA
+# VATSAL GUPTA
 
 _**Role-In-Team**_  : developed the dynamic data storage for forms like join-us and billing info,etc.
 
