@@ -1,4 +1,4 @@
-
+---
 type: "finalist"                   
 title: "Z3Nspyder" 
 name: "Z3Nspyder"
