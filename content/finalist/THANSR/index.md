@@ -1,12 +1,11 @@
 
----
 type: "finalist"                   
 title: THANSR
 name: "THANSR"
 description: "We are team "THANSR".A group of 6 coders and Innovators.Using our Technical and Social Experience we decided to use the coding skills in this initiative.This is a team that runs behind the needies ,So needies doesn't have to run behind anyone.
 Team-Quote: "When fate hands us Innovation , Lets vanish the Hunger!!"
 Application_Type: "Web Development"
----
+
 
 We are here to compete.We love to code and believe in unique creations.We came up here with some innovative ideas for a good social cause.
 
