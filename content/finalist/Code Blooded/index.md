@@ -7,7 +7,7 @@ Team-Quote: "Coding is in our Blood"
 Application_Type: "WEBSITE"
 ---
 
-We are Team Code Blooded, you can call us bunch of newcomers but are always ready to accept challenges and successfully overcome them. We believe to code till perfection is achieved.
+We are Team Code Blooded, you can call us bunch of newcomers but we are always ready to accept challenges and successfully overcome them. We believe to code till perfection is achieved.
 
 ---
 
