@@ -35,7 +35,7 @@ _**Hosted-Link**_ :   https://www.vocal4local.life/
 
 ---
 
-# Leader's Name : Nitin Singhal
+# Nitin Singhal
 
 _**Role-In-Team**_  : Finalised UX and Designed Frontend
 
@@ -45,7 +45,7 @@ _**University/School**_ : Jaypee Institute of Information Technology Noida
 
 
 
-# Member1 Name : Tushar Goel
+# Tushar Goel
 
 _**Role-In-Team**_  : Designed the backend of the application and setting up DB
 
@@ -55,7 +55,7 @@ _**University/School**_ : Jaypee Institute of Information Technology Noida
 
 
 
-# Member2 Name : Pulkit Khurana
+# Pulkit Khurana
 
 _**Role-In-Team**_  : Web-scraping, Deployment
 
