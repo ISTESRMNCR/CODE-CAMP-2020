@@ -4,14 +4,14 @@ title: Codeplay
 name: "Codeplay"
 description: "We aspire to get better everyday and help others using technology as much as possible."
 Team-Quote: "In love with coding."
-Application_Type: "App"
+Application_Type: "Android App"
 ---
 
 Hello there, we are team Codeplay. We are a couple of first years trying to explore everything and aim to solve real-world problems using technology. We both are ambitious, enthusiastic and positive minded individuals, capable of working within a fast paced and challenging environment. We both want to help bring about the change needed and make a genuine impact using the technology for social good. 
 
 ---
 
-# Project's Name
+# Foster
 
 _**Theme-Name**_ : Empowering Differently Abled 
 
