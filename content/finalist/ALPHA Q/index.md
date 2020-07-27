@@ -7,7 +7,7 @@ Team-Quote: ""
 Application_Type: "Web Application"
 ---
 
-Hey ! We are Team ALPHA Q. We are here to win and we also love web development.
+Hey ! We are Team ALPHA Q. We are here to win and we also love web development. Most of our projcts are based on MERN stack but we are looking to integrate ML/AI in our future projects to make them more efficient.
 
 ---
 
