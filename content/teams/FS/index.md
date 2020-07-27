@@ -2,7 +2,7 @@
 type: "team"                   
 title: FS
 name: "TEAM FS"
-github-link: "https://github.com/Nish7/HandsUp"
+github-link: "https://github.com/Nish7"
 description: "Doubt App for students and teachers"
 Team-Quote: "Lets bring people together at these tough times and innovate!"
 Team_Tech_Stack: "Mongo DB, Express, Node js, React"
@@ -25,7 +25,7 @@ Online school has made interactions between students and teachers much more diff
 
 _**Tech-Stack-Used**_ :  Mongo DB, React , Express, Node JS
 
-_**GitHub-Link**_ :   git@github.com:Nish7/HandsUp.git
+_**GitHub-Link**_ :   https://github.com/Nish7/HandsUp.git
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 
