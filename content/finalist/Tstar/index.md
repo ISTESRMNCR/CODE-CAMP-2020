@@ -1,14 +1,14 @@
 ---
 type: "finalist"                   
-title: 
+title: Tstar
 name: "Tstar"
 description: "hello I am not a Bot Developer trust me"
 Team-Quote: "Making ideas a reality"
-Application_Type: ""
+Application_Type: "Mobile Application in VR"
 ---
 
 
-Hey ! We are Team Tstar.
+Hey ! We are Team Tstar a team of passionate Extended reality developers making solutions using Unity and other 3D development tech. We are driven by the  fire that is this brand new unexplored techstack and its immense applications.
 
 ---
 
@@ -16,7 +16,7 @@ Hey ! We are Team Tstar.
 
 _**Theme-Name**_ : Empowering Differently Abled
 
-_**Application-Type**_ :   Mobile Application 
+_**Application-Type**_ :   Mobile Application in VR
 
 ---
 
