@@ -1,6 +1,6 @@
 ---
 type: "finalist"                   
-title: An app made for hosting NGO's and individuals 
+title: GrowTogether
 name: "GrowTogether"
 description: "new sophomores"
 Team-Quote: "Commit to change"
@@ -12,7 +12,7 @@ we strive to learn new everyday.
 
 ---
 
-# Project's Name Grow-Together
+# Grow-Together
 
 _**Theme-Name**_ : Eradicating hunger and helping small business
 
@@ -46,7 +46,7 @@ _**Hosted-Link**_ : https://drive.google.com/drive/folders/1L2Hwe-u3X6GNiUkFWyKF
 ---
 
 
-# Leader's Name Bhavi Khator
+# Bhavi Khator
 
 _**Role-In-Team**_  : Documentation
 
@@ -55,7 +55,7 @@ _**Working-Stack**_ : Android Studio
 _**University/School**_ : MNNIT
 
 
-# Member1 Name Shamoyeeta Saha
+# Shamoyeeta Saha
 
 _**Role-In-Team**_  : App
 
@@ -65,7 +65,7 @@ _**University/School**_ :MNNIT
 
 
 
-# Member2 Name Pranavi
+# Pranavi
 
 _**Role-In-Team**_  : App
 
