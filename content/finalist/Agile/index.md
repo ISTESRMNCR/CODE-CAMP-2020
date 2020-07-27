@@ -7,8 +7,6 @@ Team-Quote: "We together can beat the hunger"
 Application_Type: "Web Application"
 ---
 
-Team Introduction will go here.
-
 ---
 
 # AgileBeatHunger
