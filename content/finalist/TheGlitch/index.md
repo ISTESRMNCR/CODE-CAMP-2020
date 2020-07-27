@@ -1,34 +1,33 @@
 ---
 type: "finalist"                   
 title: 
-name: ""
-description: ""
-Team-Quote: ""
-Application_Type: ""
+name: "TheGlitch"
+description: "We're The Glitch in the matrix. We're here to help you amid this pandemic."
+Team-Quote: "Just a glitch in the matrix and here we go.."
+Application_Type: "Cross platform native mobile application"
 ---
 
-Team Introduction will go here.
+Hey, We're team TheGlitch and we're here to help people amid this pandemic through open source, and compete!!
 
 ---
 
 # Project's Name
 
-_**Theme-Name**_ : 
+_**Theme-Name**_ : AtmaNirbhar Bharat
 
-_**Application-Type**_ :   
+_**Application-Type**_ : Cross platform native mobile application  
 
 ---
 
 # Description
 
-> The description will go here and it should be Short and descriptive. (limit 150)
-
+> This application is meant to be your friend in this pandemic, for whatever you need. It is meant to help you know stats, news and also help you in emergencies. As per the theme 'AtmaNirbhar Bharat', we're trying that people in India could just get any data and help they want through an app which is opensource and open to feedbacks and enhancements. This app also features a chatbot powered by IBM watson assistant, thus the name COV-Buddy to aid you through these difficult times. You can chat with him, and even ask your queries and it always learns as it uses ML at its backend. Overall, it's meant to be your one tap location regarding COVID in your devices.
 
 ---
 
-_**Tech-Stack**_  :   
+_**Tech-Stack**_  : Flutter, IBM Watson assistant, Dart  
 
-_**GitHub-Link**_ :   
+_**GitHub-Link**_ : https://github.com/avats-dev/TheGlitch-app 
 
 _**Hosted-Link**_ :   
 
@@ -36,49 +35,19 @@ _**Hosted-Link**_ :
 ---
 
 
-# Leader's Name
+# Aditya Vats
 
-_**Role-In-Team**_  : 
+_**Role-In-Team**_  : Backend developer, managing IBM Watson, App UI design
 
-_**Working-Stack**_ : 
+_**Working-Stack**_ : python, IBM Watson assistant, IBM discovery, ML, DL
 
-_**University/School**_ :
+_**University/School**_ : Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
 
 
 # Member1 Name
 
-_**Role-In-Team**_  : 
+_**Role-In-Team**_  : Full Stack app developer, Designing app, developing app, debugging and deployment
 
-_**Working-Stack**_ : 
+_**Working-Stack**_ : Flutter, Dart, C++, Firebase, Material design
 
-_**University/School**_ :
-
-
-
-# Member2 Name
-
-_**Role-In-Team**_  : 
-
-_**Working-Stack**_ : 
-
-_**University/School**_ :
-
-
-
-# Member3 Name
-
-_**Role-In-Team**_  : 
-
-_**Working-Stack**_ : 
-
-_**University/School**_ :
-
-
-
-# Member4 Name
-
-_**Role-In-Team**_  : 
-
-_**Working-Stack**_ : 
-
-_**University/School**_ :
+_**University/School**_ : Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
