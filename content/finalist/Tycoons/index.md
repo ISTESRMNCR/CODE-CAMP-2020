@@ -11,7 +11,7 @@ Hey ! We are Team Tycoons. We are here to compete. We are team of 5 who worked h
 
 ---
 
-# Project's Name
+# StudyMate
 
 _**Theme-Name**_ : Education
 
@@ -45,7 +45,7 @@ _**Working-Stack**_ : Flutter|Dart|VS Code| Git
 _**University/School**_ : SRMIST,Ramapuram
 
 
-#  Dakshendra Singh
+# Dakshendra Singh
 
 _**Role-In-Team**_  : Developer and Backend (FireBase)
 
@@ -53,7 +53,7 @@ _**Working-Stack**_ : Flutter|Dart|VS Code|Firebase
 
 _**University/School**_ : SRMIST,Ramapuram
 
-#  Rishi Agrawal
+# Rishi Agrawal
 
 _**Role-In-Team**_  : Developer and Version Control
 
@@ -69,7 +69,7 @@ _**Working-Stack**_ : Flutter|Dart|VS Code
 
 _**University/School**_ : SRMIST,Ramapuram
 
-#  Parth Sardana
+# Parth Sardana
 
 _**Role-In-Team**_  : UI Design
 
