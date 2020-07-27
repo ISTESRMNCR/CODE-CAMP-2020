@@ -29,7 +29,7 @@ _**Idea-Description**_ :  "People in india are largely unaware of the quality pr
 
 _**Tech-Stack-Used**_ :   HTML5, CSS 3, JAVASCRIPT, JQUERY, SQL, DJANGO, BOOTSTRAP, FONT AWESOME.
 
-_**GitHub-Link**_ :   https://github.com/KaranBengani/CRAFTIFY 
+<!-- _**GitHub-Link**_ :   https://github.com/KaranBengani/CRAFTIFY  -->
 
 _**Hosted-Link**_ :    Hosted link goes here. (Will submit in submission Pull Request)
 
@@ -115,7 +115,7 @@ _**country**_ : India
  
 _**Technical-Skills**_ : PYTHON|DJANGO|SQL
 
-_**Specialization**_ : HTML 5|CSS 3|PYTHON
+_**Specialization**_ : HTML 5|CSS 3|PYTHON .
 
 _**GitHub-ID**_ :  https://github.com/MrNenoo
 

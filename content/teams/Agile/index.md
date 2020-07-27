@@ -32,7 +32,7 @@ _**Idea-Description**_ :    Here comes the idea of our webapp which ensures that
 
 _**Tech-Stack-Used**_ :    Vue.js,HTML,CSS,JavaScript,Firebase,Github
 
-_**GitHub-Link**_ :   https://github.com/Rishabh-Singhvi/AgileBeatsHunger
+<!-- _**GitHub-Link**_ :   https://github.com/Rishabh-Singhvi/AgileBeatsHunger -->
 
 _**Hosted-Link**_ :    Hosted link goes here. (Will submit in submission Pull Request)
 

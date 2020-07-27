@@ -17,10 +17,13 @@ a {
 }
 h1 {
   font-family: 'Roboto', sans-serif;
+  font-weight: bold;
 }
 p {
-  font-family: 'Roboto', sans-serif;
   color: black;
-  font-weight: 700 !important;
+  font-weight: 200 !important;
   font-size: large;
+}
+h4 {
+  font-weight: 900 !important;
 }

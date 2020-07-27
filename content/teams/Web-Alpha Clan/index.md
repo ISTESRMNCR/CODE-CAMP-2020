@@ -24,7 +24,7 @@ _**Idea-Description**_ :   Our aim is assisting every business in representing t
 
 _**Tech-Stack-Used**_ :   Django , Python
 
-_**GitHub-Link**_ :   https://github.com/anshdeepkaur53/Web-Alpha-Clan
+<!-- _**GitHub-Link**_ :   https://github.com/anshdeepkaur53/Web-Alpha-Clan -->
 
 _**Hosted-Link**_ :    Hosted link of project goes here. (Will submit in submission Pull Request)
 
