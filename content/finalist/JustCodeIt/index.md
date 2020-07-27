@@ -10,7 +10,7 @@ We are first year Students of MNNIT Allahabad
 
 ---
 
-# Yoga Community
+# Project's Name
 
 _**Theme-Name**_ : Aatma-Nirbhar Bharat
 
