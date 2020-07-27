@@ -7,7 +7,7 @@ Team-Quote: "Two flints who believe to spark"
 Application_Type: "Mobile Application"
 ---
 
-Hey! We are team Boolean
+Hey ! We are Team Boolean. We are the students of Shaheed Rajguru College of Applied Sciences for Women. We are very new to the hackathons, you may consider it as our first hackathon. We aren't much experienced in app development as we are still learning to build small applications using Node.js and React-Native framework. Thus, we are here to showcase some of our skills and vision. Our team quote defines us well.
 
 ---
 
@@ -30,6 +30,10 @@ _**Tech-Stack**_  : React-Native, Node.js, MongoDB
 _**GitHub-Link**_ :  https://github.com/VaishnaviJha786/Vishesh 
 
 _**Hosted-Link**_ :  https://expo.io/@vaishnavijha/Vishesh
+
+_**APK-Link**_ :    https://expo.io/artifacts/67bf81a1-1fd3-46a1-92dd-950af661ad71
+
+_**Video-demonstration**_ :   https://drive.google.com/file/d/1GIUHBGegAnod6StL4y0cR6An02Woucbj/view
 
 
 ---
