@@ -21,6 +21,7 @@ _**Theme-Name**_ : atmanirbhar bharat
 _**Application-Type**_ :   vs code|pg admin|
 
 _**Idea-Description**_ :   school app
+
 _**Tech-Stack-Used**_ :   full stack
 
 _**GitHub-Link**_ :   "https://github.com/om-12/srm-bug-byte.git"
@@ -47,7 +48,7 @@ _**Technical-Skills**_ :BACKEND DEVELOPER
 
 _**Specialization**_ : backend
 
-_**GitHub-ID**_ :  om-12
+_**GitHub-ID**_ :  https://github.com/om-12
 
 ---
 
@@ -63,7 +64,7 @@ _**Technical-Skills**_ :full stack
 
 _**Specialization**_ :backend
 
-_**GitHub-ID**_ :  prashant19may 
+_**GitHub-ID**_ :  https://github.com/prashant19may 
 
 ---
 
@@ -79,4 +80,4 @@ _**Technical-Skills**_ :frontend
 
 _**Specialization**_ :frontend
 
-_**GitHub-ID**_ :   usernameofpuneet
+_**GitHub-ID**_ :   https://github.com/usernameofpuneet
