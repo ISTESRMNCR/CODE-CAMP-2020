@@ -1,8 +1,8 @@
 ---
 type: "finalist"                   
-title: 
+title: TheGlitch
 name: "TheGlitch"
-description: "We're The Glitch in the matrix. We're here to help you amid this pandemic."
+description: "We're here to help you amid this pandemic."
 Team-Quote: "Just a glitch in the matrix and here we go.."
 Application_Type: "Cross platform native mobile application"
 ---
@@ -21,7 +21,7 @@ _**Application-Type**_ : Cross platform native mobile application
 
 # Description
 
-> This application is meant to be your friend in this pandemic, for whatever you need. It is meant to help you know stats, news and also help you in emergencies. As per the theme 'AtmaNirbhar Bharat', we're trying that people in India could just get any data and help they want through an app which is opensource and open to feedbacks and enhancements. This app also features a chatbot powered by IBM watson assistant, thus the name COV-Buddy to aid you through these difficult times. You can chat with him, and even ask your queries and it always learns as it uses ML at its backend. Overall, it's meant to be your one tap location regarding COVID in your devices.
+> This application is meant to be your friend in this pandemic, for whatever you need. It is meant to help you know stats, news and also help you in emergencies. As per the theme 'AtmaNirbhar Bharat', we're trying that people in India could just get any data and help they want through an app which is opensource and open to feedbacks and enhancements. This app also features a chatbot powered by IBM watson assistant, thus the name COV-Buddy to aid you through these difficult times. You can chat with him, and even ask your queries and it always learns as it uses ML at its backend. Overall, it's meant to be your one tap location regarding COVID in your devices. As this application is in development state, it might have features community cooperation based on location in later versions hopefully.
 
 ---
 
