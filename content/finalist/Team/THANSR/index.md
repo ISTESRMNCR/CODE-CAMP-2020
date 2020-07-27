@@ -36,7 +36,7 @@ _**Tech-Stack**_  :  Atom,HTML,Javascript,Bootstrap4,CSS,Sublime Text,Github and
 
 _**GitHub-Link**_ :  https://github.com/hemant3454/coderepo 
 
-_**Hosted-Link**_ :   
+_**Hosted-Link**_ : https://hemant3454.github.io/coderepo/hunger.html  
 
 
 ---
