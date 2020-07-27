@@ -20,10 +20,10 @@ Firebase <br>
 Flutter<br>
 Git<br>
 _**GitHub-Link**_ : https://github.com/pranavi79/grow-together-app.git <br>
-# Leader's Name: Pranavi <br>
-_**Role-In-Team**_  : App Development <br>
+# Leader's Name: Bhavi Khator <br>
+_**Role-In-Team**_  : User Interface (UI) and Documentation <br>
 
-_**Working-Stack**_ : Visual Studio code<br>  Git<br> Flutter<br>
+_**Working-Stack**_ :   Git<br> Flutter<br> Android Studio <br>
 
 _**University/School**_ : Motilal Nehru National Institute of Technology, Allahabad <br>
 # Member1 Name: Shamoyeeta Saha <br>
@@ -33,11 +33,11 @@ _**Role-In-Team**_  : App development
 _**Working-Stack**_ : Visual Studio code<br> Git<br> Flutter<br>
 
 _**University/School**_ : Motilal Nehru National Institute of Technology, Allahabad <br>
-# Member2 Name: Bhavi Khator <br>
+# Member2 Name: Pranavi <br>
 
-_**Role-In-Team**_  : User Interface (UI) and Documentation <br>
+_**Role-In-Team**_  : App Development<br>
 
-_**Working-Stack**_ : Android Studio <br> Flutter <br> Git<br>
+_**Working-Stack**_ : Flutter <br> Git<br>Visual Studio code<br>
 
 _**University/School**_ :  Motilal Nehru National Institute of Technology, Allahabad <br>
 
