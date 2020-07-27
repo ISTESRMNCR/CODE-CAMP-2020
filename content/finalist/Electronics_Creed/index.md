@@ -1,17 +1,17 @@
 ---
-type: finalist                   
+type: "finalist"                   
 title: Team Electronics_Creed
-name: Start-up Booster
-description: We are young developers who accept difficult challenges.
-Team-Quote: Ideas for future technology
-Application_Type: Website
+name: "Electronics_Creed"
+description: "We are young developers who accept difficult challenges."
+Team-Quote: "Ideas for future technology"
+Application_Type: "Website"
 ---
 
-We as a team focuses on boosting the confidence of young entrepreneur to pursue their dream. Unemployment has been a big problem in India because the competition is high and resources are less. Our project "Start-up Booster" lay emphasis on shortening the gap between a dream idea with its practical reality. Establishing a start-up at an ideal location with the ideal budget would ease this problem to some extent. So we are building a website that aids those who are planning to establish a start-up but don’t know how to really get going. Our web application will ask the start-up interested user to input various necessary data including some personal information like Name, Gender, Contact info, followed by their idea and the name of state and industry in which they want to prosper their start-up.
+We the team of Electronics_Creed love to code in various languages. This project of ours includes Web development and Machine Learning. 
 
 ---
 
-# Project's Name
+# Start-up Booster
 
 _**Theme-Name**_ : AtmaNirbhar Bharat
 
@@ -43,7 +43,7 @@ _**Hosted-Link**_ : https://drive.google.com/drive/u/0/folders/1wT21Y7YattYg8LmP
 ---
 
 
-# Leader's Name :  Vaibhav Singh
+# Vaibhav Singh  
 
 _**Role-In-Team**_  : Built web pages using his skills in JavaScript, HTML, CSS.
 
@@ -52,7 +52,7 @@ _**Working-Stack**_ : HTML, CSS, Java Script
 _**University/School**_ : Bangalore Institute of Technology, Bangalore
 
 
-# Member1 Name :  Karan Pandey
+# Karan Pandey  
 
 _**Role-In-Team**_  : Built web pages using his skills in JavaScript, HTML, CSS.
 
@@ -62,7 +62,7 @@ _**University/School**_ : Bangalore Institute of Technology, Bangalore
 
 
 
-# Member2 Name :  H P Jeevan
+# H P Jeevan 
 
 _**Role-In-Team**_  : Had written the Python program and implemented the K-means clustering algorithm
 
@@ -72,7 +72,7 @@ _**University/School**_ : Bangalore Institute of Technology, Bangalore
 
 
 
-# Member3 Name :  K. Sai Kumar
+# K. Sai Kumar  
 
 _**Role-In-Team**_  : Had written the Python program
 
@@ -82,7 +82,7 @@ _**University/School**_ :  Bangalore Institute of Technology, Bangalore
 
 
 
-# Member4 Name :  G Rohith 
+# G Rohith   
 
 _**Role-In-Team**_  : Had written the Python program and implemented the K-means clustering algorithm
 
