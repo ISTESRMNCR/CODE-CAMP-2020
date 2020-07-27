@@ -1,3 +1,4 @@
+---
 type: "finalist"                   
 title: JustCodeIt
 name: "JustCodeIt"
