@@ -1,10 +1,10 @@
 ---
-type: finalist                   
+type: "finalist"                   
 title: Constant Variables
-name: Constant Variables
-description: Helping students in developing knowledge
-Team-Quote: In it to win it
-Application_Type: website
+name: "Constant Variables"
+description: "Helping students in developing knowledge"
+Team-Quote: "In it to win it"
+Application_Type: "website"
 ---
 
 we are a group of students helping all other students remember stuff for a longer period of time
