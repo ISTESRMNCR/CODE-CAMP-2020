@@ -3,14 +3,14 @@ type: "finalist"
 title: Code Hard  
 name: "Code Hard"
 description: "We have the best team who play with Artificial Intelligence and Machine Learning at it's peak :smiling_imp:"
-Team-Quote: "Rock And Roll With Code"
+Team-Quote: "Rock And Roll With Code :collision:"
 Application_Type: "Web Application"
 ---
 
 
 ---
 
-# Project's Name : Social Distancing Monitoring Application
+# Social Distancing Monitoring Application
 
 _**Theme-Name**_ : AtmaNirbhar Bharat
 
@@ -37,7 +37,7 @@ _**Hosted-Link**_ :
 ---
 
 
-# Leader's Name : Jenith
+# Jenith
 
 _**Role-In-Team**_  : Algorithm Designer
 
@@ -46,7 +46,7 @@ _**Working-Stack**_ : Image Processing
 _**University/School**_ : St.Joseph's College of Engineering
 
 
-# Member1 Name : Hasitha
+# Hasitha
 
 _**Role-In-Team**_  : Algorithm Designer
 
@@ -56,7 +56,7 @@ _**University/School**_ : St.Joseph's College of Engineering
 
 
 
-# Member2 Name : Rathi
+# Rathi
 
 _**Role-In-Team**_  : Front-End Developer
 
@@ -66,7 +66,7 @@ _**University/School**_ : St.Joseph's College of Engineering
 
 
 
-# Member3 Name : Preethi
+# Preethi
 
 _**Role-In-Team**_  : Back-End Developer
 
