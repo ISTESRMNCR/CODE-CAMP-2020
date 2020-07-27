@@ -39,18 +39,18 @@ _**Hosted-Link**_ :
 
 # Leader's Name : Jenith
 
-_**Role-In-Team**_  : 
+_**Role-In-Team**_  : Algorithm Designer
 
-_**Working-Stack**_ : 
+_**Working-Stack**_ : Image Processing
 
 _**University/School**_ : St.Joseph's College of Engineering
 
 
 # Member1 Name : Hasitha
 
-_**Role-In-Team**_  : 
+_**Role-In-Team**_  : Algorithm Designer
 
-_**Working-Stack**_ : 
+_**Working-Stack**_ : Image Processing
 
 _**University/School**_ : St.Joseph's College of Engineering
 
@@ -58,9 +58,9 @@ _**University/School**_ : St.Joseph's College of Engineering
 
 # Member2 Name : Rathi
 
-_**Role-In-Team**_  : 
+_**Role-In-Team**_  : Front-End Developer
 
-_**Working-Stack**_ : 
+_**Working-Stack**_ : Python
 
 _**University/School**_ : St.Joseph's College of Engineering
 
@@ -68,21 +68,14 @@ _**University/School**_ : St.Joseph's College of Engineering
 
 # Member3 Name : Preethi
 
-_**Role-In-Team**_  : 
+_**Role-In-Team**_  : Back-End Developer
 
-_**Working-Stack**_ : 
+_**Working-Stack**_ : Python
 
 _**University/School**_ : St.Joseph's College of Engineering
 
 
 
-# Member4 Name
-
-_**Role-In-Team**_  : 
-
-_**Working-Stack**_ : 
-
-_**University/School**_ :
 
 
-(Extend the members as per your team's Size)
+
