@@ -86,7 +86,7 @@ _**University/School**_ : SRM Institue of Science And Technology
 
 _**Role-In-Team**_  : UI/UX Designer, Resource Manager
 
-_**Working-Stack**_ : Flutter, MS Word, Adobe Photoshop
+_**Working-Stack**_ : Flutter, MS Word, inVision Studio
 
 _**University/School**_ : SRM Institue of Science And Technology
 
@@ -96,7 +96,7 @@ _**University/School**_ : SRM Institue of Science And Technology
 
 _**Role-In-Team**_  : Database Administrator, UI/UX Designer
 
-_**Working-Stack**_ : Firebase, Adobe Photoshop
+_**Working-Stack**_ : Firebase, inVision Studio
 
 _**University/School**_ : SRM Institue of Science And Technology
 
@@ -106,7 +106,7 @@ _**University/School**_ : SRM Institue of Science And Technology
 
 _**Role-In-Team**_  : UI/UX Designer
 
-_**Working-Stack**_ : Adobe Photoshop, Github
+_**Working-Stack**_ : inVision Studio, Github
 
 _**University/School**_ : SRM Institue of Science And Technology
 
