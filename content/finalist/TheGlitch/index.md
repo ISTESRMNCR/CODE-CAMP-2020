@@ -29,7 +29,7 @@ _**Tech-Stack**_  : Flutter, IBM Watson assistant, Dart
 
 _**GitHub-Link**_ : https://github.com/avats-dev/TheGlitch-app 
 
-_**Hosted-Link**_ :   
+_**Hosted-Link**_ : https://drive.google.com/file/d/1m_XJcMxxB9k9HDfbgZN8t5HpOxpOxcZj/view?usp=sharing 
 
 
 ---
@@ -44,7 +44,7 @@ _**Working-Stack**_ : python, IBM Watson assistant, IBM discovery, ML, DL
 _**University/School**_ : Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
 
 
-# Member1 Name
+# Rishabh Negi
 
 _**Role-In-Team**_  : Full Stack app developer, Designing app, developing app, debugging and deployment
 
