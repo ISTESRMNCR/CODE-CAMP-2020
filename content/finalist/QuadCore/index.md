@@ -11,7 +11,7 @@ Our team's main motive is to create a solution which can help people in this pan
 
 ---
 
-# project name : Aprende Gratis
+Aprende Gratis
 
 _**Theme-Name**_ : Education
 
@@ -43,8 +43,7 @@ _**Hosted-Link**_ :
 
 ---
 
-
-# Leader's Name : Anushka Srivastava
+ Anushka Srivastava
 
 _**Role-In-Team**_  : We all divided the work equally
 
