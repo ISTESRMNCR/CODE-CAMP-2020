@@ -8,7 +8,7 @@ Team-Quote: "When fate hands us Innovation , Lets vanish the Hunger!!"
 Application_Type: "Web Development"
 ---
 
-Hey ! We are Team THANSR.We are here to compete.We love to code and believe in unique creations.
+We are here to compete.We love to code and believe in unique creations.We came up here with some innovative ideas for a good social cause.
 
 
 ---
