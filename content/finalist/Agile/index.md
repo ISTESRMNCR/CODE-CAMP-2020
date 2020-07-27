@@ -2,7 +2,7 @@
 type: "finalist"                   
 title: Agile
 name: "Agile"
-description: "Hello! We are team Agile.We made a webApp on 'Eradicate Hunger'.Our webApp name is 'AgileBeatHunger'"
+description: "Hello! We are team Agile. We made a webApp on 'Eradicate Hunger'.Our webApp name is AgileBeatHunger"
 Team-Quote: "We together can beat the hunger"
 Application_Type: "Web Application"
 ---
@@ -11,7 +11,7 @@ Team Introduction will go here.
 
 ---
 
-# Project's Name
+# AgileBeatHunger
 
 _**Theme-Name**_ : Eradicate Hunger
 
@@ -33,6 +33,7 @@ ADMIN-->
 2)The admin can initiate the pickup by selecting the added tranports and can manage it further.Also they can see the whole details of the parcel by clicking on its ID.
 
 It was an amazing event, and we enjoyed a lot.
+
 ---
 
 _**Tech-Stack**_  :  Vue.js,HTML,CSS,JavaScript,Firebase,Github
@@ -46,7 +47,7 @@ _**DemoVideo-Link**_ : https://youtu.be/PKFWbcqqykU
 ---
 
 
-# Leader's Name Rishabh Singhvi
+# Rishabh Singhvi
 
 _**Role-In-Team**_  : Back-end Developer
 
@@ -55,7 +56,7 @@ _**Working-Stack**_ : Firebase,VueJs,Javascript
 _**University/School**_ : National Institute of Engineering,Mysore
 
 
-# Member1 Name  Shubham Jain
+# Shubham Jain
 
 _**Role-In-Team**_  : Front-end Developer
 
