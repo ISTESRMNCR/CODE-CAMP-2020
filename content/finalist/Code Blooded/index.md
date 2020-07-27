@@ -36,7 +36,7 @@ _**Tech-Stack**_  :   HTML5, CSS 3, JAVASCRIPT, JQUERY, SQL, DJANGO, BOOTSTRAP, 
 
 _**GitHub-Link**_ : https://github.com/KaranBengani/CRAFTIFY   
 
-_**Hosted-Link**_ : We could not host, hence uploading a google drive folder.  https://drive.google.com/drive/folders/1H8OkGas7IvD3aWvpGhhCBtr9qHFyfh8c?usp=sharing  
+_**Hosted-Link**_ : https://drive.google.com/drive/folders/1H8OkGas7IvD3aWvpGhhCBtr9qHFyfh8c?usp=sharing  
 
 
 ---
