@@ -34,7 +34,7 @@ _**Application-Type**_ : WEBSITE
 
 _**Tech-Stack**_  :   HTML5, CSS 3, JAVASCRIPT, JQUERY, SQL, DJANGO, BOOTSTRAP, FONT AWESOME. 
 
-_**GitHub-Link**_ : https://github.com/KaranBengani/CRAFTIFY   
+_**GitHub-Link**_ : https://github.com/KaranBengani/KRAFTIFY   
 
 _**Hosted-Link**_ : https://drive.google.com/drive/folders/1H8OkGas7IvD3aWvpGhhCBtr9qHFyfh8c?usp=sharing  
 
