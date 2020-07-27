@@ -23,9 +23,9 @@ _**Application-Type**_ : Web Development
 
 # Description
 
-Since we are going through pandemic the condition of poors have become worse then earlier as we all are noticing these things in televisions , social media so we are giving the NGO 's a platform to serve for those who don't have food  to eat.
+Since we are going through pandemic the condition of poors have become worse then earlier as we all are noticing these things in televisions , social media so we are providing the users and NGO 's a platform to serve for those who don't have food  to eat.
 Since we all know whenever there is a function there is large quantity of food which gets wasted so rather than throwing in the garbage bins we can utilise that food by feeding poors and help them to survive the pandemic and even after that.
-So we are indulging our innovation into reality by developing a website which will give a platform to all the ngos serving for the former purpose.
+So we are indulging our innovation into reality by developing a website which will give a platform to all the Ngo's serving for the former purpose.
 Feed the needy!!
 
 
