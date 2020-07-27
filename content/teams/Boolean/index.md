@@ -10,7 +10,7 @@ Application_Type: "Mobile Application"
 No_Of_Member: "2"
 ---
 
-Hey ! We are Team Boolean
+Hey ! We are Team Boolean. We are the students of Shaheed Rajguru College of Applied Scieces for Women, We are very new to the hackathon, you may consider it as our first hackathon. We have little bit of knowledge of building small applications using Node.js and React-Native framework. Thus, we are here to show some of our skills and vision. Our team qoute defines us well.
 ---
 
 ## Project's Overview
@@ -50,6 +50,10 @@ _**Tech-Stack-Used**_ :   Node.js, React-Native, MongoDB
 _**GitHub-Link**_ :   https://github.com/VaishnaviJha786/Vishesh 
 
 _**Hosted-Link**_ :    https://expo.io/@vaishnavijha/Vishesh
+
+_**APK-Link**_ :    https://expo.io/artifacts/67bf81a1-1fd3-46a1-92dd-950af661ad71
+
+_**Video-demonstration**_ :   https://drive.google.com/file/d/1GIUHBGegAnod6StL4y0cR6An02Woucbj/view
 
 ---
 
