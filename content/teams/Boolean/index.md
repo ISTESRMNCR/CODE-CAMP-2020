@@ -10,7 +10,7 @@ Application_Type: "Mobile Application"
 No_Of_Member: "2"
 ---
 
-Hey ! We are Team Boolean. We are the students of Shaheed Rajguru College of Applied Scieces for Women, We are very new to the hackathon, you may consider it as our first hackathon. We have little bit of knowledge of building small applications using Node.js and React-Native framework. Thus, we are here to show some of our skills and vision. Our team qoute defines us well.
+Hey ! We are Team Boolean. We are the students of Shaheed Rajguru College of Applied Sciences for Women. We are very new to the hackathons, you may consider it as our first hackathon. We aren't much experienced in app development as we are still learning to build small applications using Node.js and React-Native framework. Thus, we are here to showcase some of our skills and vision. Our team quote defines us well.
 ---
 
 ## Project's Overview
@@ -19,7 +19,7 @@ _**Theme-Name**_ :   Empowering Differently Abled
 
 _**Application-Type**_ :   Mobile Application (The Application should be hosted and Bundled)
 
-_**Idea-Description**_ :   Vishesh an application for 'special parents'
+_**Idea-Description**_ :   Vishesh an application for 'Special Parents'
 
 Every life is a gift of god and every child is blessed in a special way.The differently-abled children somehow,are  unable to explore themselves and the broader horizons of life.Not only the child but also the parents are subject to various challenges when it comes to the parenting of a differently-abled child.It is now high time to utilise the emerging technological advancements to provide them myriads of opportunities so that they grow,prosper and lead an independent life breaking all barriers. 
 
