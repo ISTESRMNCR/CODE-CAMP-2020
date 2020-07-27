@@ -5,7 +5,6 @@ name: "Grow Together"
 description: "We try learning something new everyday"
 Team-Quote: "Commit to change "
 Application_Type: "Android app"
-=======
 ---
 We are making an app for NGO's
 
