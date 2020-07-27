@@ -34,7 +34,7 @@ See our Website Explanatory Video-https://drive.google.com/file/d/1SYnOW0OcR2NYt
 
 ---
 
-_**Tech-Stack**_  : Python/Django HTML/CSS/JavaScript PHP  
+_**Tech-Stack**_  : Python/Django HTML/CSS/JavaScript Android PHP  
 
 _**GitHub-Link**_ : https://github.com/the-cross-art/Muni_Tech  
 
