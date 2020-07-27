@@ -8,8 +8,9 @@ Application type: Android app
 **Theme name**: Eradicate Hunger <br>
 **Application Type**: Android app <br>
 # Description <br>
-Our application will help connect volunteers with people who have similar interests and small NGOs. So, they can help the society in which ever way possible. 
-Our main purpose is to give a platform to people where can come together and work to give back to the society as per their convinience. 
+Our application will help connect volunteers with people who have similar interests and small NGOs and also can help with the problem of 
+growing starvation-deaths and food wastage.
+Our main purpose is make it easier for volunteers to choose how they want to help by listing all the events at one place so, that they can choose. 
 Anyone who sees a problem somewhere near them and thinks that they can help, can put forward the issue in the app and can interested people can join 
 or they can connect with the small NGOs too.  There is a chatbox for the same where anyone can communicate with anyone to discuss the issue and solution further
 and also ping the one who raised the issue if you are interested to help. <br> <br>
