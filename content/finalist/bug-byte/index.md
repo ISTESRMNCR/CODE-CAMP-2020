@@ -27,11 +27,11 @@ _**Application-Type**_ : web application
 
 ---
 
-_**Tech-Stack**_  :  full stack
+_**Tech-Stack**_  :  Full Stack
 
-_**GitHub-Link**_ :  "https://github.com/om-12/srm-bug-byte.git"
+_**GitHub-Link**_ :  https://github.com/om-12/srm-bug-byte.git
 
-_**Hosted-Link**_ :  donatefordefenders.herokuapp.com
+_**Hosted-Link**_ :  https://donatefordefenders.herokuapp.com
 
 
 ---
