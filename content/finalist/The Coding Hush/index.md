@@ -1,3 +1,4 @@
+---
 type: "finalist"                   
 title:  The Coding Hush
 name: " The Coding Hush"
@@ -5,16 +6,12 @@ description: "We are Web Application developers"
 Team-Quote: "Winners find a way, not a way out!"
 Application_Type: "Web Application"
 ---
-
-Team Introduction will go here.
  
- Attention y'all, We are Team “The Coding Hush” . The theme that we have come up to after much brainstorming is “Empowering The Differently Abled” . Being differently abled is 
- a complex phenomenon which reflects an interaction between the features of a person’s body and the features of the society in which he or she lives. We might not have the 
- experience or the pain they go through on a daily basis but we do understand it and hence, this web application is our way of empathizing with them.
+Attention y'all, We are Team “The Coding Hush” . The theme that we have come up to after much brainstorming is “Empowering The Differently Abled” . Being differently abled is a complex phenomenon which reflects an interaction between the features of a person’s body and the features of the society in which he or she lives. We might not have the experience or the pain they go through on a daily basis but we do understand it and hence, this web application is our way of empathizing with them.
 
 
 
-# Project's Name - Assitive Touch
+# Assitive Touch
 
 _**Theme-Name**_ : Empowering differently abled
 
@@ -48,7 +45,7 @@ _**Hosted-Link**_ :   https://drive.google.com/drive/folders/1j3Wzzh_DnTknKug6Kf
 ---
 
 
-# Leader's Name - Richa Tripathi
+# Richa Tripathi
 
 _**Role-In-Team**_  : Front-end Development
 
@@ -58,7 +55,7 @@ _**University/School**_ :Mumbai University
 
 
 
-# Member1 Name - Mansi Singh
+# Mansi Singh
 
 _**Role-In-Team**_  : Back-end development
 
@@ -69,7 +66,7 @@ _**University/School**_ :Mumbai University
 
 
 
-# Member2 Name - Rutuja Narwade
+# Rutuja Narwade
 
 _**Role-In-Team**_  : Research
 
