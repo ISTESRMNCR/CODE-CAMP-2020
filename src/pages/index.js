@@ -27,6 +27,12 @@ const BlogIndex = ({ data, location }) => {
            </Button> */}
          </div>
          <ComponentBox 
+           info="Winners of CODE CAMP 1.0 Announced"
+           headline="🎉 Winners Announcement"
+           subInfo="See winning Teams Here"
+           buttonLink="/winners" 
+           /> 
+         <ComponentBox 
             headline = "👋 About Us"
             info="Code Camp is a Virtual Hackathon for programmers all over the world. The Teams would compete among themselves for providing the best solution for the listed themes. This Hackathon is being organized by ISTE Students' Chapter, SRM NCR. The Hackathon will be conducted on GITHUB and teams participating will have to send the Registration PULL REQUEST to hackathon git Repository. Teams are provided with themes on which they have to build their Projects and Submit it later, for Evaluation."
           />

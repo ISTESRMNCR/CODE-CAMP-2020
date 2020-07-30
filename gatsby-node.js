@@ -11,6 +11,7 @@ function createIndividualPages(actions, graphql) {
     graphqlForSecondaryPages(graphql, createPage, "faq"),
     graphqlForSecondaryPages(graphql, createPage, "team"),
     graphqlForSecondaryPages(graphql, createPage, "judge"),
+    graphqlForSecondaryPages(graphql, createPage, "winners"),
   ])
 }
 
